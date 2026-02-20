@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "category": "fun",
+        "type": "truth",
+        "level": 10,
+        "text": "What is the weirdest thing in your fridge right now?"
+    },
+    {
+        "id": 2,
+        "category": "fun",
+        "type": "truth",
+        "level": 20,
+        "text": "If you could swap lives with a cartoon character, who would it be?"
+    },
+    {
+        "id": 3,
+        "category": "fun",
+        "type": "truth",
+        "level": 30,
+        "text": "What is the most embarrassing nickname you've ever had?"
+    },
+    {
+        "id": 4,
+        "category": "fun",
+        "type": "dare",
+        "level": 40,
+        "text": "Do your best impersonation of a celebrity."
+    },
+    {
+        "id": 5,
+        "category": "fun",
+        "type": "dare",
+        "level": 50,
+        "text": "Sing the chorus of your favorite song loudly."
+    },
+    {
+        "id": 6,
+        "category": "fun",
+        "type": "dare",
+        "level": 60,
+        "text": "Show the last photo in your camera roll."
+    },
+    {
+        "id": 7,
+        "category": "fun",
+        "type": "dare",
+        "level": 70,
+        "text": "Let the group compose a text to anyone in your contacts."
+    },
+    {
+        "id": 8,
+        "category": "fun",
+        "type": "dare",
+        "level": 80,
+        "text": "Do an interpretive dance of your last dream."
+    },
+    {
+        "id": 9,
+        "category": "fun",
+        "type": "dare",
+        "level": 90,
+        "text": "Prank call a random contact and sing Happy Birthday."
+    },
+    {
+        "id": 10,
+        "category": "fun",
+        "type": "dare",
+        "level": 100,
+        "text": "Allow the group to change your social media status for 24 hours."
+    },
+    {
+        "id": 101,
+        "category": "love",
+        "type": "truth",
+        "level": 10,
+        "text": "What is your idea of a perfect first date?"
+    },
+    {
+        "id": 102,
+        "category": "love",
+        "type": "truth",
+        "level": 20,
+        "text": "What is the most romantic thing you've ever done?"
+    },
+    {
+        "id": 103,
+        "category": "love",
+        "type": "truth",
+        "level": 30,
+        "text": "Have you ever been in love? Describe it."
+    },
+    {
+        "id": 104,
+        "category": "love",
+        "type": "truth",
+        "level": 40,
+        "text": "What attracts you most in a person?"
+    },
+    {
+        "id": 105,
+        "category": "love",
+        "type": "truth",
+        "level": 50,
+        "text": "Name one person here you would consider dating."
+    },
+    {
+        "id": 106,
+        "category": "love",
+        "type": "truth",
+        "level": 60,
+        "text": "Rate everyone in the room on a scale of 1-10 (looks)."
+    },
+    {
+        "id": 107,
+        "category": "love",
+        "type": "truth",
+        "level": 70,
+        "text": "Who was your first kiss and do you regret it?"
+    },
+    {
+        "id": 108,
+        "category": "love",
+        "type": "truth",
+        "level": 80,
+        "text": "Describe your wildest romantic fantasy."
+    },
+    {
+        "id": 109,
+        "category": "love",
+        "type": "dare",
+        "level": 90,
+        "text": "Call your crush and tell them you miss them."
+    },
+    {
+        "id": 110,
+        "category": "love",
+        "type": "dare",
+        "level": 100,
+        "text": "Propose to a random object in the room passionately."
+    },
+    {
+        "id": 201,
+        "category": "spicy",
+        "type": "truth",
+        "level": 10,
+        "text": "What's the most rebellious thing you did as a teenager?"
+    },
+    {
+        "id": 202,
+        "category": "spicy",
+        "type": "truth",
+        "level": 20,
+        "text": "Have you ever cheated on a test/partner?"
+    },
+    {
+        "id": 203,
+        "category": "spicy",
+        "type": "truth",
+        "level": 30,
+        "text": "What is a secret you've never told your parents?"
+    },
+    {
+        "id": 204,
+        "category": "spicy",
+        "type": "truth",
+        "level": 40,
+        "text": "Have you ever had a crush on a teacher?"
+    },
+    {
+        "id": 205,
+        "category": "spicy",
+        "type": "truth",
+        "level": 50,
+        "text": "What is the biggest lie you've told to get out of trouble?"
+    },
+    {
+        "id": 206,
+        "category": "spicy",
+        "type": "truth",
+        "level": 60,
+        "text": "Who in this room do you think is the worst dressed?"
+    },
+    {
+        "id": 207,
+        "category": "spicy",
+        "type": "truth",
+        "level": 70,
+        "text": "Reveal something you hate about the person to your left."
+    },
+    {
+        "id": 208,
+        "category": "spicy",
+        "type": "dare",
+        "level": 80,
+        "text": "Read the last DM you sent on Instagram/Snapchat out loud."
+    },
+    {
+        "id": 209,
+        "category": "spicy",
+        "type": "dare",
+        "level": 90,
+        "text": "Let the group DM your ex 'I miss you'."
+    },
+    {
+        "id": 210,
+        "category": "spicy",
+        "type": "dare",
+        "level": 100,
+        "text": "Show your browsing history to the group."
+    }
+]

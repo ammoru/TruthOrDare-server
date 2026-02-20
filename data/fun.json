@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "type": "Truth",
+        "text": "What is the funniest dream you've ever had? 😂"
+    },
+    {
+        "id": 2,
+        "type": "Truth",
+        "text": "If you could swap lives with any cartoon character for a day, who would it be? 🦸‍♂️"
+    },
+    {
+        "id": 3,
+        "type": "Truth",
+        "text": "Have you ever laughed so hard you snorted? 🐷"
+    },
+    {
+        "id": 4,
+        "type": "Truth",
+        "text": "What is the weirdest thing you've ever eaten? 🐛"
+    },
+    {
+        "id": 5,
+        "type": "Truth",
+        "text": "Do you have any strange phobias? 😨"
+    },
+    {
+        "id": 6,
+        "type": "Truth",
+        "text": "What would your superhero name be? 🦸‍♀️"
+    },
+    {
+        "id": 7,
+        "type": "Truth",
+        "text": "If you could be any animal, what would you be and why? 🦁"
+    },
+    {
+        "id": 8,
+        "type": "Truth",
+        "text": "What is the most embarrassing thing you've done in public? 😳"
+    },
+    {
+        "id": 9,
+        "type": "Truth",
+        "text": "Do you talk to yourself in the mirror? 🪞"
+    },
+    {
+        "id": 10,
+        "type": "Truth",
+        "text": "If you were a vegetable, which one would you be? 🥕"
+    },
+    {
+        "id": 11,
+        "type": "Truth",
+        "text": "What is your guilty pleasure TV show? 📺"
+    },
+    {
+        "id": 12,
+        "type": "Truth",
+        "text": "Have you ever walked into a glass door?  दरवाजे"
+    },
+    {
+        "id": 13,
+        "type": "Truth",
+        "text": "What is the worst haircut you've ever had? 💇‍♂️"
+    },
+    {
+        "id": 14,
+        "type": "Truth",
+        "text": "Do you sing in the shower? 🚿"
+    },
+    {
+        "id": 15,
+        "type": "Truth",
+        "text": "If you could eat only one food for the rest of your life, what would it be? 🍕"
+    },
+    {
+        "id": 16,
+        "type": "Truth",
+        "text": "What is the silliest thing you are afraid of? 🎈"
+    },
+    {
+        "id": 17,
+        "type": "Truth",
+        "text": "Have you ever peed in a pool? 🏊‍♂️"
+    },
+    {
+        "id": 18,
+        "type": "Truth",
+        "text": "What is your best dance move? 💃"
+    },
+    {
+        "id": 19,
+        "type": "Truth",
+        "text": "If you had a warning label, what would it say? ⚠️"
+    },
+    {
+        "id": 20,
+        "type": "Truth",
+        "text": "What is the weirdest nickname you've ever had? 🏷️"
+    },
+    {
+        "id": 21,
+        "type": "Truth",
+        "text": "Do you sleep with a stuffed animal? 🧸"
+    },
+    {
+        "id": 22,
+        "type": "Truth",
+        "text": "If you could have any superpower, what would it be? ✨"
+    },
+    {
+        "id": 23,
+        "type": "Truth",
+        "text": "What is the funniest joke you know by heart? 🃏"
+    },
+    {
+        "id": 24,
+        "type": "Truth",
+        "text": "Have you ever tripped and fell in front of a crowd? 🤸‍♂️"
+    },
+    {
+        "id": 25,
+        "type": "Truth",
+        "text": "If you could trade places with someone for a day, who would it be? 🔄"
+    },
+    {
+        "id": 26,
+        "type": "Truth",
+        "text": "What is the strangest gift you've ever received? 🎁"
+    },
+    {
+        "id": 27,
+        "type": "Truth",
+        "text": "Do you believe in aliens? 👽"
+    },
+    {
+        "id": 28,
+        "type": "Truth",
+        "text": "What is your spirit animal? 🦄"
+    },
+    {
+        "id": 29,
+        "type": "Truth",
+        "text": "Have you ever forgotten someone's name right after meeting them? 📛"
+    },
+    {
+        "id": 30,
+        "type": "Truth",
+        "text": "If you were invisible for a day, what would you do? 👻"
+    },
+    {
+        "id": 31,
+        "type": "Truth",
+        "text": "What is the most useless talent you have? 🤹‍♂️"
+    },
+    {
+        "id": 32,
+        "type": "Truth",
+        "text": "Do you pick your nose? 👃"
+    },
+    {
+        "id": 33,
+        "type": "Truth",
+        "text": "Have you ever laughed at a funeral? ⚰️"
+    },
+    {
+        "id": 34,
+        "type": "Truth",
+        "text": "What is the grossest food you've ever eaten? 🤢"
+    },
+    {
+        "id": 35,
+        "type": "Truth",
+        "text": "If you could live in a movie, which one would it be? 🎬"
+    },
+    {
+        "id": 36,
+        "type": "Truth",
+        "text": "Have you ever sent a text to the wrong person? 📱"
+    },
+    {
+        "id": 37,
+        "type": "Truth",
+        "text": "Do you believe in ghosts? 👻"
+    },
+    {
+        "id": 38,
+        "type": "Truth",
+        "text": "What is your favorite emoji? 😂"
+    },
+    {
+        "id": 39,
+        "type": "Truth",
+        "text": "If you were a flavor, what would you be? 🍦"
+    },
+    {
+        "id": 40,
+        "type": "Truth",
+        "text": "What is the longest you've gone without showering? 🚿"
+    },
+    {
+        "id": 41,
+        "type": "Truth",
+        "text": "Do you snore? 😴"
+    },
+    {
+        "id": 42,
+        "type": "Truth",
+        "text": "Have you ever lied about your age? 🎂"
+    },
+    {
+        "id": 43,
+        "type": "Truth",
+        "text": "If you could fly, where would you go first? ✈️"
+    },
+    {
+        "id": 44,
+        "type": "Truth",
+        "text": "What is your biggest pet peeve? 😠"
+    },
+    {
+        "id": 45,
+        "type": "Truth",
+        "text": "Have you ever cheated on a test? 📝"
+    },
+    {
+        "id": 46,
+        "type": "Truth",
+        "text": "Do you have a secret handshake? 🤝"
+    },
+    {
+        "id": 47,
+        "type": "Truth",
+        "text": "What is the weirdest habit you have? 🤪"
+    },
+    {
+        "id": 48,
+        "type": "Truth",
+        "text": "If you could time travel, past or future? ⏳"
+    },
+    {
+        "id": 49,
+        "type": "Truth",
+        "text": "What is your favorite childhood memory? 🧸"
+    },
+    {
+        "id": 50,
+        "type": "Truth",
+        "text": "Have you ever gotten stuck in an elevator? 🛗"
+    },
+    {
+        "id": 51,
+        "type": "Dare",
+        "text": "Do your best chicken dance for 30 seconds! 🐔"
+    },
+    {
+        "id": 52,
+        "type": "Dare",
+        "text": "Speak in a robot voice for the next 3 turns! 🤖"
+    },
+    {
+        "id": 53,
+        "type": "Dare",
+        "text": "Try to lick your elbow! 💪"
+    },
+    {
+        "id": 54,
+        "type": "Dare",
+        "text": "Sing everything you say for the next 2 turns! 🎤"
+    },
+    {
+        "id": 55,
+        "type": "Dare",
+        "text": "Do 10 jumping jacks while making funny noises. 🤸"
+    },
+    {
+        "id": 56,
+        "type": "Dare",
+        "text": "Walk across the room like a crab. 🦀"
+    },
+    {
+        "id": 57,
+        "type": "Dare",
+        "text": "Hold your breath for 20 seconds. ⏱️"
+    },
+    {
+        "id": 58,
+        "type": "Dare",
+        "text": "Balance a spoon on your nose for 10 seconds. 🥄"
+    },
+    {
+        "id": 59,
+        "type": "Dare",
+        "text": "Talk without moving your lips for the next round. 🤐"
+    },
+    {
+        "id": 60,
+        "type": "Dare",
+        "text": "Do your best impression of a monkey. 🐒"
+    },
+    {
+        "id": 61,
+        "type": "Dare",
+        "text": "Spin around 10 times and try to walk straight. 🌀"
+    },
+    {
+        "id": 62,
+        "type": "Dare",
+        "text": "Make a funny face and keep it until your next turn. 🤪"
+    },
+    {
+        "id": 63,
+        "type": "Dare",
+        "text": "Let someone tickle you for 10 seconds. 😆"
+    },
+    {
+        "id": 64,
+        "type": "Dare",
+        "text": "Don't blink for 30 seconds. 👀"
+    },
+    {
+        "id": 65,
+        "type": "Dare",
+        "text": "Pretend to be a waiter/waitress and take everyone's order. 📝"
+    },
+    {
+        "id": 66,
+        "type": "Dare",
+        "text": "Do a cartwheel (or attempt one). 🤸‍♀️"
+    },
+    {
+        "id": 67,
+        "type": "Dare",
+        "text": "Bark like a dog anytime someone says your name. 🐶"
+    },
+    {
+        "id": 68,
+        "type": "Dare",
+        "text": "Eat a slice of lemon without making a face. 🍋"
+    },
+    {
+        "id": 69,
+        "type": "Dare",
+        "text": "Draw a mustache on your face with a pen (washable!). 🖊️"
+    },
+    {
+        "id": 70,
+        "type": "Dare",
+        "text": "Sing the alphabet backwards. 🔤"
+    },
+    {
+        "id": 71,
+        "type": "Dare",
+        "text": "Do an interpretive dance to silence. 💃"
+    },
+    {
+        "id": 72,
+        "type": "Dare",
+        "text": "Act like a statue for 1 minute. 🗽"
+    },
+    {
+        "id": 73,
+        "type": "Dare",
+        "text": "Speak with a fake accent for the next 3 turns. 🌍"
+    },
+    {
+        "id": 74,
+        "type": "Dare",
+        "text": "Try to touch your nose with your tongue. 👅"
+    },
+    {
+        "id": 75,
+        "type": "Dare",
+        "text": "Tell a joke and try to make everyone laugh. 🤡"
+    },
+    {
+        "id": 76,
+        "type": "Dare",
+        "text": "Do 5 pushups. 💪"
+    },
+    {
+        "id": 77,
+        "type": "Dare",
+        "text": "Let the group give you a new nickname for the game. 🏷️"
+    },
+    {
+        "id": 78,
+        "type": "Dare",
+        "text": "Mimic the person to your left for one minute. 👯"
+    },
+    {
+        "id": 79,
+        "type": "Dare",
+        "text": "Make up a short rap about the person to your right. 🎤"
+    },
+    {
+        "id": 80,
+        "type": "Dare",
+        "text": "Post a silly selfie on your story (delete after game if you want). 📸"
+    },
+    {
+        "id": 81,
+        "type": "Dare",
+        "text": "Walk backwards everywhere you go for the next round. 🔙"
+    },
+    {
+        "id": 82,
+        "type": "Dare",
+        "text": "Create a handshake with the person on your right. 🤝"
+    },
+    {
+        "id": 83,
+        "type": "Dare",
+        "text": "Whisper everything you say for the next 2 turns. 🤫"
+    },
+    {
+        "id": 84,
+        "type": "Dare",
+        "text": "Pretend to be a cat for 1 minute. 🐱"
+    },
+    {
+        "id": 85,
+        "type": "Dare",
+        "text": "Smell someone's shoe. 👟"
+    },
+    {
+        "id": 86,
+        "type": "Dare",
+        "text": "Do air guitar for 30 seconds. 🎸"
+    },
+    {
+        "id": 87,
+        "type": "Dare",
+        "text": "Make a headdress out of toilet paper. 🧻"
+    },
+    {
+        "id": 88,
+        "type": "Dare",
+        "text": "Try to juggle 3 items. 🤹‍♀️"
+    },
+    {
+        "id": 89,
+        "type": "Dare",
+        "text": "Let everyone style your hair. 💇"
+    },
+    {
+        "id": 90,
+        "type": "Dare",
+        "text": "Only answer yes or no for the next round. �"
+    },
+    {
+        "id": 91,
+        "type": "Dare",
+        "text": "Recite a nursery rhyme dramatically. 🎭"
+    },
+    {
+        "id": 92,
+        "type": "Dare",
+        "text": "Stand on one leg for 2 minutes. 🦩"
+    },
+    {
+        "id": 93,
+        "type": "Dare",
+        "text": "Confess a minor secret. 🤐"
+    },
+    {
+        "id": 94,
+        "type": "Dare",
+        "text": "Let someone draw on your hand. ✍️"
+    },
+    {
+        "id": 95,
+        "type": "Dare",
+        "text": "Exchange shirts with someone (if appropriate/comfortable). �"
+    },
+    {
+        "id": 96,
+        "type": "Dare",
+        "text": "Do your best evil laugh. 😈"
+    },
+    {
+        "id": 97,
+        "type": "Dare",
+        "text": "Talk like Yoda for 3 turns. 🌌"
+    },
+    {
+        "id": 98,
+        "type": "Dare",
+        "text": "Describe your dream vacation in 10 seconds. 🏖️"
+    },
+    {
+        "id": 99,
+        "type": "Dare",
+        "text": "Make a toast to the group. 🥂"
+    },
+    {
+        "id": 100,
+        "type": "Dare",
+        "text": "High five everyone in the room. ✋"
+    },
+    {
+        "id": 101,
+        "type": "Truth",
+        "text": "If you could only use one emoji for the rest of your life, which one? 🤔"
+    },
+    {
+        "id": 102,
+        "type": "Truth",
+        "text": "What is the most awkward text you have received? 📩"
+    },
+    {
+        "id": 103,
+        "type": "Truth",
+        "text": "Have you ever sleepwalked? 🚶"
+    },
+    {
+        "id": 104,
+        "type": "Truth",
+        "text": "What’s the worst advice you’ve ever followed? 🤦"
+    },
+    {
+        "id": 105,
+        "type": "Truth",
+        "text": "If you had to change your name, what would it be? 📛"
+    },
+    {
+        "id": 106,
+        "type": "Truth",
+        "text": "What song are you embarrassed to admit you like? 🎵"
+    },
+    {
+        "id": 107,
+        "type": "Truth",
+        "text": "Who is your secret cartoon crush? 😻"
+    },
+    {
+        "id": 108,
+        "type": "Truth",
+        "text": "Have you ever accidentally spit while talking? 💦"
+    },
+    {
+        "id": 109,
+        "type": "Truth",
+        "text": "What’s the strangest thing in your room right now? 🧐"
+    },
+    {
+        "id": 110,
+        "type": "Truth",
+        "text": "If you came with a warning tag, what would it say? 🏷️"
+    },
+    {
+        "id": 111,
+        "type": "Truth",
+        "text": "What food do you absolutely hate? �"
+    },
+    {
+        "id": 112,
+        "type": "Truth",
+        "text": "Have you ever laughed at something inappropriate? 😶"
+    },
+    {
+        "id": 113,
+        "type": "Truth",
+        "text": "Do you have a weird lucky charm? 🍀"
+    },
+    {
+        "id": 114,
+        "type": "Truth",
+        "text": "What’s the funniest WiFi name you’ve seen? 📶"
+    },
+    {
+        "id": 115,
+        "type": "Truth",
+        "text": "If you were a dog, what breed would you be? 🐕"
+    },
+    {
+        "id": 116,
+        "type": "Truth",
+        "text": "Have you ever dropped your phone in a toilet? 🚽"
+    },
+    {
+        "id": 117,
+        "type": "Truth",
+        "text": "What’s the most boring movie you’ve ever watched? �"
+    },
+    {
+        "id": 118,
+        "type": "Truth",
+        "text": "Who in this room would survive a zombie apocalypse? 🧟"
+    },
+    {
+        "id": 119,
+        "type": "Truth",
+        "text": "Have you ever worn socks with sandals? 🧦"
+    },
+    {
+        "id": 120,
+        "type": "Truth",
+        "text": "If you could instantly learn a talent, what would it be? 🎸"
+    },
+    {
+        "id": 121,
+        "type": "Truth",
+        "text": "What is something you’ve tried but will never do again? 🙅"
+    },
+    {
+        "id": 122,
+        "type": "Truth",
+        "text": "Have you ever talked to an animal and pretended it answered? �"
+    },
+    {
+        "id": 123,
+        "type": "Truth",
+        "text": "What’s a trend you hope never comes back? 📉"
+    },
+    {
+        "id": 124,
+        "type": "Truth",
+        "text": "Do you cover your eyes during scary movies? 🙈"
+    },
+    {
+        "id": 125,
+        "type": "Truth",
+        "text": "If animals could talk, which would be the rudest? 🐫"
+    },
+    {
+        "id": 126,
+        "type": "Truth",
+        "text": "What’s the worst present you’ve ever given? 🎁"
+    },
+    {
+        "id": 127,
+        "type": "Truth",
+        "text": "Have you ever been chased by a dog? 🐕‍🦺"
+    },
+    {
+        "id": 128,
+        "type": "Truth",
+        "text": "Do you have a hidden talent? 🎭"
+    },
+    {
+        "id": 129,
+        "type": "Truth",
+        "text": "What’s the longest you’ve slept in a single day? 🛌"
+    },
+    {
+        "id": 130,
+        "type": "Truth",
+        "text": "If you were a kitchen appliance, which one would you be? 🥣"
+    },
+    {
+        "id": 131,
+        "type": "Truth",
+        "text": "What’s the first thing you do in the morning? ☀️"
+    },
+    {
+        "id": 132,
+        "type": "Truth",
+        "text": "Have you ever broken a bone? 🦴"
+    },
+    {
+        "id": 133,
+        "type": "Truth",
+        "text": "What’s the grossest bug you’ve ever touched? �️"
+    },
+    {
+        "id": 134,
+        "type": "Truth",
+        "text": "Do you sing in the car? 🚗"
+    },
+    {
+        "id": 135,
+        "type": "Truth",
+        "text": "If you could ban one vegetable forever, what would it be? 🥦"
+    },
+    {
+        "id": 136,
+        "type": "Truth",
+        "text": "Have you ever locked yourself out of the house? 🔑"
+    },
+    {
+        "id": 137,
+        "type": "Truth",
+        "text": "What’s the most embarrassing app on your phone? 📱"
+    },
+    {
+        "id": 138,
+        "type": "Truth",
+        "text": "If you could shrink any animal to carry in your pocket, what would it be? 🐘"
+    },
+    {
+        "id": 139,
+        "type": "Truth",
+        "text": "What’s your favorite board game? 🎲"
+    },
+    {
+        "id": 140,
+        "type": "Truth",
+        "text": "Have you ever fallen asleep in class? 🏫"
+    },
+    {
+        "id": 141,
+        "type": "Truth",
+        "text": "Do you believe in bigfoot? 👣"
+    },
+    {
+        "id": 142,
+        "type": "Truth",
+        "text": "What’s the scariest dream you remember? 👻"
+    },
+    {
+        "id": 143,
+        "type": "Truth",
+        "text": "If you had to wear one color for a week, what would it be? 🎨"
+    },
+    {
+        "id": 144,
+        "type": "Truth",
+        "text": "Have you ever met a famous person? 🤩"
+    },
+    {
+        "id": 145,
+        "type": "Truth",
+        "text": "What’s your favorite pizza topping? 🍕"
+    },
+    {
+        "id": 146,
+        "type": "Truth",
+        "text": "Do you drool when you sleep? 🤤"
+    },
+    {
+        "id": 147,
+        "type": "Truth",
+        "text": "What’s the funniest sound you can make? 📢"
+    },
+    {
+        "id": 148,
+        "type": "Truth",
+        "text": "Have you ever worn shirts inside out all day? 👕"
+    },
+    {
+        "id": 149,
+        "type": "Truth",
+        "text": "If you could invent a holiday, what would it be? 🎊"
+    },
+    {
+        "id": 150,
+        "type": "Truth",
+        "text": "What’s the oddest place you’ve fallen asleep? 😴"
+    },
+    {
+        "id": 151,
+        "type": "Dare",
+        "text": "Speak in rhymes for the next 3 turns! 🎶"
+    },
+    {
+        "id": 152,
+        "type": "Dare",
+        "text": "Act like a chicken until your next turn. 🐔"
+    },
+    {
+        "id": 153,
+        "type": "Dare",
+        "text": "Let the group decide a new hairstyle for you (temporary). 💇"
+    },
+    {
+        "id": 154,
+        "type": "Dare",
+        "text": "Show the last photo in your camera roll. 📸"
+    },
+    {
+        "id": 155,
+        "type": "Dare",
+        "text": "Do an impression of your favorite teacher. 👨‍🏫"
+    },
+    {
+        "id": 156,
+        "type": "Dare",
+        "text": "Pretend to be swimming on the floor. 🏊"
+    },
+    {
+        "id": 157,
+        "type": "Dare",
+        "text": "Make a mask out of wet toilet paper and wear it. 🧻"
+    },
+    {
+        "id": 158,
+        "type": "Dare",
+        "text": "Try to lick your nose. 🐽"
+    },
+    {
+        "id": 159,
+        "type": "Dare",
+        "text": "Walk on your knees for the next round. 🛐"
+    },
+    {
+        "id": 160,
+        "type": "Dare",
+        "text": "Hold an ice cube in your hand until it melts. 🧊"
+    },
+    {
+        "id": 161,
+        "type": "Dare",
+        "text": "Say the alphabet without moving your tongue. 🗣️"
+    },
+    {
+        "id": 162,
+        "type": "Dare",
+        "text": "Let someone tickle your foot. 🦶"
+    },
+    {
+        "id": 163,
+        "type": "Dare",
+        "text": "Eat a spoon of mustard (not too much!). 🥄"
+    },
+    {
+        "id": 164,
+        "type": "Dare",
+        "text": "Do the worm dance move. 🐛"
+    },
+    {
+        "id": 165,
+        "type": "Dare",
+        "text": "Pretend you are a baby for 1 minute. �"
+    },
+    {
+        "id": 166,
+        "type": "Dare",
+        "text": "Spin 5 times and try to touch your toes. 😵"
+    },
+    {
+        "id": 167,
+        "type": "Dare",
+        "text": "Let someone write a word on your forehead with a marker. 🖍️"
+    },
+    {
+        "id": 168,
+        "type": "Dare",
+        "text": "Try to do a handstand against the wall. 🤸"
+    },
+    {
+        "id": 169,
+        "type": "Dare",
+        "text": "Act like a news anchor reporting on the game. 🎤"
+    },
+    {
+        "id": 170,
+        "type": "Dare",
+        "text": "Hold a plank for 30 seconds. 🧱"
+    },
+    {
+        "id": 171,
+        "type": "Dare",
+        "text": "Stare at the person to your left for 30 seconds without laughing. �"
+    },
+    {
+        "id": 172,
+        "type": "Dare",
+        "text": "Use a spoon as a microphone next time you speak. 🥄"
+    },
+    {
+        "id": 173,
+        "type": "Dare",
+        "text": "Make a hat out of paper/foil and wear it. 🎩"
+    },
+    {
+        "id": 174,
+        "type": "Dare",
+        "text": "Tell a story using only 3 words at a time. 📖"
+    },
+    {
+        "id": 175,
+        "type": "Dare",
+        "text": "Sing 'Happy Birthday' to the person across from you. 🎂"
+    },
+    {
+        "id": 176,
+        "type": "Dare",
+        "text": "Pretend to be a T-Rex for 2 turns. 🦖"
+    },
+    {
+        "id": 177,
+        "type": "Dare",
+        "text": "Do 10 squats. 🏋️"
+    },
+    {
+        "id": 178,
+        "type": "Dare",
+        "text": "Let the group choose an emoji for you to mimic. 🤡"
+    },
+    {
+        "id": 179,
+        "type": "Dare",
+        "text": "Talk like a pirate for the next round. �‍☠️"
+    },
+    {
+        "id": 180,
+        "type": "Dare",
+        "text": "Try to balance a book on your head and walk. 📚"
+    },
+    {
+        "id": 181,
+        "type": "Dare",
+        "text": "Do your best slow-motion run. 🏃"
+    },
+    {
+        "id": 182,
+        "type": "Dare",
+        "text": "Pretend you are invisible and ignore everyone for 1 minute. 👻"
+    },
+    {
+        "id": 183,
+        "type": "Dare",
+        "text": "Make the sound of a sheep every time you speak. 🐑"
+    },
+    {
+        "id": 184,
+        "type": "Dare",
+        "text": "Cross your eyes and keep them that way for 10 seconds. 🤪"
+    },
+    {
+        "id": 185,
+        "type": "Dare",
+        "text": "Let someone redo your eyebrows with makeup (washable). 💄"
+    },
+    {
+        "id": 186,
+        "type": "Dare",
+        "text": "Do the macarena dance. 💃"
+    },
+    {
+        "id": 187,
+        "type": "Dare",
+        "text": "Try to touch your elbows together behind your back. 💪"
+    },
+    {
+        "id": 188,
+        "type": "Dare",
+        "text": "Speak very slowly like a sloth. 🦥"
+    },
+    {
+        "id": 189,
+        "type": "Dare",
+        "text": "Pretend to juggle invisible balls. 🤹"
+    },
+    {
+        "id": 190,
+        "type": "Dare",
+        "text": "Give a 30-second speech about why socks are amazing. 🧦"
+    },
+    {
+        "id": 191,
+        "type": "Dare",
+        "text": "Act like a zombie. 🧟"
+    },
+    {
+        "id": 192,
+        "type": "Dare",
+        "text": "Try to breakdance on the floor. 🕺"
+    },
+    {
+        "id": 193,
+        "type": "Dare",
+        "text": "Speak in a high-pitched voice for 3 turns. 🎈"
+    },
+    {
+        "id": 194,
+        "type": "Dare",
+        "text": "Let someone tie your shoes together (loosely). 👟"
+    },
+    {
+        "id": 195,
+        "type": "Dare",
+        "text": "Pretend to be a king/queen commanding subjects. 👑"
+    },
+    {
+        "id": 196,
+        "type": "Dare",
+        "text": "Do the moonwalk (or try). 🌕"
+    },
+    {
+        "id": 197,
+        "type": "Dare",
+        "text": "Laugh uncontrollably for 10 seconds. 😂"
+    },
+    {
+        "id": 198,
+        "type": "Dare",
+        "text": "Make a fish face. 🐟"
+    },
+    {
+        "id": 199,
+        "type": "Dare",
+        "text": "Do a magic trick (even a bad one). 🎩"
+    },
+    {
+        "id": 200,
+        "type": "Dare",
+        "text": "Hug a pillow for the rest of the turn. 🛋️"
+    }
+]

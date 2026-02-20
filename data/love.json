@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "type": "Truth",
+        "text": "Who was your first celebrity crush? 😍"
+    },
+    {
+        "id": 2,
+        "type": "Truth",
+        "text": "What is your idea of a perfect date? 🕯️"
+    },
+    {
+        "id": 3,
+        "type": "Truth",
+        "text": "Do you believe in love at first sight? 💘"
+    },
+    {
+        "id": 4,
+        "type": "Truth",
+        "text": "What is the most romantic thing someone has done for you? 🌹"
+    },
+    {
+        "id": 5,
+        "type": "Truth",
+        "text": "Have you ever written a love letter? 💌"
+    },
+    {
+        "id": 6,
+        "type": "Truth",
+        "text": "What is your biggest turn-on? 🔥"
+    },
+    {
+        "id": 7,
+        "type": "Truth",
+        "text": "What is your biggest turn-off? 🚫"
+    },
+    {
+        "id": 8,
+        "type": "Truth",
+        "text": "Do you believe in soulmates? 🦢"
+    },
+    {
+        "id": 9,
+        "type": "Truth",
+        "text": "What attracts you most in a person? 👀"
+    },
+    {
+        "id": 10,
+        "type": "Truth",
+        "text": "Have you ever had a crush on a teacher? 👩‍🏫"
+    },
+    {
+        "id": 11,
+        "type": "Truth",
+        "text": "What is your favorite romantic movie? 🎬"
+    },
+    {
+        "id": 12,
+        "type": "Truth",
+        "text": "Describe your dream proposal. 💍"
+    },
+    {
+        "id": 13,
+        "type": "Truth",
+        "text": "Have you ever been heartbroken? 💔"
+    },
+    {
+        "id": 14,
+        "type": "Truth",
+        "text": "What is the best kiss you've ever had? 💋"
+    },
+    {
+        "id": 15,
+        "type": "Truth",
+        "text": "Do you prefer hugs or kisses? 🤗"
+    },
+    {
+        "id": 16,
+        "type": "Truth",
+        "text": "What is the craziest thing you've done for love? 🤪"
+    },
+    {
+        "id": 17,
+        "type": "Truth",
+        "text": "Have you ever dated someone your friends hated? 👯‍♀️"
+    },
+    {
+        "id": 18,
+        "type": "Truth",
+        "text": "What is your favorite love song? 🎵"
+    },
+    {
+        "id": 19,
+        "type": "Truth",
+        "text": "Do you believe in second chances in relationships? 🔄"
+    },
+    {
+        "id": 20,
+        "type": "Truth",
+        "text": "What is your relationship deal-breaker? 🛑"
+    },
+    {
+        "id": 21,
+        "type": "Truth",
+        "text": "Have you ever stalked an ex on social media? 📱"
+    },
+    {
+        "id": 22,
+        "type": "Truth",
+        "text": "What is the most awkward date you've been on? 😬"
+    },
+    {
+        "id": 23,
+        "type": "Truth",
+        "text": "Do you like public displays of affection? 👩‍❤️‍💋‍👨"
+    },
+    {
+        "id": 24,
+        "type": "Truth",
+        "text": "Have you ever been in love with two people at once? ⚖️"
+    },
+    {
+        "id": 25,
+        "type": "Truth",
+        "text": "What is the first thing you notice about someone? 👁️"
+    },
+    {
+        "id": 26,
+        "type": "Truth",
+        "text": "Have you ever cried over a crush? 😢"
+    },
+    {
+        "id": 27,
+        "type": "Truth",
+        "text": "Do you believe long-distance relationships work? 🌏"
+    },
+    {
+        "id": 28,
+        "type": "Truth",
+        "text": "What is your favorite flower? 🌷"
+    },
+    {
+        "id": 29,
+        "type": "Truth",
+        "text": "Have you ever been ghosted? 👻"
+    },
+    {
+        "id": 30,
+        "type": "Truth",
+        "text": "What is the sweetest compliment you've received? 🍬"
+    },
+    {
+        "id": 31,
+        "type": "Truth",
+        "text": "Do you want to get married someday? 👰"
+    },
+    {
+        "id": 32,
+        "type": "Truth",
+        "text": "How many serious relationships have you had? 👫"
+    },
+    {
+        "id": 33,
+        "type": "Truth",
+        "text": "Have you ever kissed in the rain? 🌧️"
+    },
+    {
+        "id": 34,
+        "type": "Truth",
+        "text": "What is your favorite feature about yourself? ✨"
+    },
+    {
+        "id": 35,
+        "type": "Truth",
+        "text": "Do you get jealous easily? 😒"
+    },
+    {
+        "id": 36,
+        "type": "Truth",
+        "text": "Have you ever had a secret admirer? 🕵️‍♂️"
+    },
+    {
+        "id": 37,
+        "type": "Truth",
+        "text": " What is the longest relationship you've had? ⏳"
+    },
+    {
+        "id": 38,
+        "type": "Truth",
+        "text": "Do you believe in fate bringing people together? 🌠"
+    },
+    {
+        "id": 39,
+        "type": "Truth",
+        "text": " What is your favorite nickname for a partner? 🍯"
+    },
+    {
+        "id": 40,
+        "type": "Truth",
+        "text": "Have you ever serenaded someone? 🎸"
+    },
+    {
+        "id": 41,
+        "type": "Truth",
+        "text": "What is the most romantic city in the world to you? 🗼"
+    },
+    {
+        "id": 42,
+        "type": "Truth",
+        "text": "Do you prefer a fancy dinner or a picnic? 🧺"
+    },
+    {
+        "id": 43,
+        "type": "Truth",
+        "text": "Have you ever had unrequited love? 🥀"
+    },
+    {
+        "id": 44,
+        "type": "Truth",
+        "text": "What makes you blush? 😊"
+    },
+    {
+        "id": 45,
+        "type": "Truth",
+        "text": "Do you verify zodiac compatibility? ♈"
+    },
+    {
+        "id": 46,
+        "type": "Truth",
+        "text": "Have you ever written poetry for someone? 📝"
+    },
+    {
+        "id": 47,
+        "type": "Truth",
+        "text": "What is your favorite romantic gesture? 🎁"
+    },
+    {
+        "id": 48,
+        "type": "Truth",
+        "text": "Do you prefer morning texts or goodnight calls? 📞"
+    },
+    {
+        "id": 49,
+        "type": "Truth",
+        "text": "Have you ever fallen for a friend? 👯‍♂️"
+    },
+    {
+        "id": 50,
+        "type": "Truth",
+        "text": "What is the key to a happy relationship? 🗝️"
+    },
+    {
+        "id": 51,
+        "type": "Truth",
+        "text": "Who is the best kisser you know? 💋"
+    },
+    {
+        "id": 52,
+        "type": "Truth",
+        "text": "Have you ever flirted to get something? 😉"
+    },
+    {
+        "id": 53,
+        "type": "Truth",
+        "text": "What is your type? (physically or personality) 🧬"
+    },
+    {
+        "id": 54,
+        "type": "Truth",
+        "text": "Have you ever gone on a blind date? 🕶️"
+    },
+    {
+        "id": 55,
+        "type": "Truth",
+        "text": "What is the most important quality in a partner? 💎"
+    },
+    {
+        "id": 56,
+        "type": "Truth",
+        "text": "Have you ever been caught kissing someone? 👮"
+    },
+    {
+        "id": 57,
+        "type": "Truth",
+        "text": "Do you think it's okay to kiss on the first date? 😚"
+    },
+    {
+        "id": 58,
+        "type": "Truth",
+        "text": "Have you ever used a cheesy pickup line? 🧀"
+    },
+    {
+        "id": 59,
+        "type": "Truth",
+        "text": "What is your favorite romantic memory? 💭"
+    },
+    {
+        "id": 60,
+        "type": "Truth",
+        "text": "Do you believe opposites attract? 🧲"
+    },
+    {
+        "id": 61,
+        "type": "Truth",
+        "text": "Have you ever changed for someone you loved? 🦋"
+    },
+    {
+        "id": 62,
+        "type": "Truth",
+        "text": "What would you do if your crush liked your best friend? 😨"
+    },
+    {
+        "id": 63,
+        "type": "Truth",
+        "text": "Have you ever kissed someone by mistake? 😲"
+    },
+    {
+        "id": 64,
+        "type": "Truth",
+        "text": "Do you talk about your exes? 🗣️"
+    },
+    {
+        "id": 65,
+        "type": "Truth",
+        "text": "What is the most thoughtful gift you've received? 🎁"
+    },
+    {
+        "id": 66,
+        "type": "Truth",
+        "text": "Have you ever had a summer fling? ☀️"
+    },
+    {
+        "id": 67,
+        "type": "Truth",
+        "text": "Do you prefer cuddling or holding hands? 🤝"
+    },
+    {
+        "id": 68,
+        "type": "Truth",
+        "text": "Have you ever lied to impress a crush? 🤥"
+    },
+    {
+        "id": 69,
+        "type": "Truth",
+        "text": "What is your biggest regret in love? 🙍"
+    },
+    {
+        "id": 70,
+        "type": "Truth",
+        "text": "Do you create playlists for people you like? 🎧"
+    },
+    {
+        "id": 71,
+        "type": "Truth",
+        "text": "Have you ever been drunk dialed by an ex? 🍺"
+    },
+    {
+        "id": 72,
+        "type": "Truth",
+        "text": "What is the weirdest place you've been on a date? 🛸"
+    },
+    {
+        "id": 73,
+        "type": "Truth",
+        "text": "Do you kiss with your eyes open or closed? 👁️"
+    },
+    {
+        "id": 74,
+        "type": "Truth",
+        "text": "Have you ever broken a promise to a partner? 🤞"
+    },
+    {
+        "id": 75,
+        "type": "Truth",
+        "text": "What is the most daring thing you'd do for love? 🦸"
+    },
+    {
+        "id": 76,
+        "type": "Truth",
+        "text": "Do you think you are a good kisser? 😗"
+    },
+    {
+        "id": 77,
+        "type": "Truth",
+        "text": "Have you ever had a crush on a friend's sibling? 👦"
+    },
+    {
+        "id": 78,
+        "type": "Truth",
+        "text": "What is your favorite scent on a partner? 👃"
+    },
+    {
+        "id": 79,
+        "type": "Truth",
+        "text": "Do you like surprises? 🎉"
+    },
+    {
+        "id": 80,
+        "type": "Truth",
+        "text": "Have you ever practiced kissing on your hand? 🤚"
+    },
+    {
+        "id": 81,
+        "type": "Truth",
+        "text": "What makes a relationship last? 🏗️"
+    },
+    {
+        "id": 82,
+        "type": "Truth",
+        "text": "Have you ever sent a risky text and regretted it? 📨"
+    },
+    {
+        "id": 83,
+        "type": "Truth",
+        "text": "Do you prefer funny or serious partners? 🤡"
+    },
+    {
+        "id": 84,
+        "type": "Truth",
+        "text": "Have you ever been stood up on a date? 🧍"
+    },
+    {
+        "id": 85,
+        "type": "Truth",
+        "text": "What is your favorite couple activity? 🚲"
+    },
+    {
+        "id": 86,
+        "type": "Truth",
+        "text": "Do you believe in 'the one'? ☝️"
+    },
+    {
+        "id": 87,
+        "type": "Truth",
+        "text": "Have you ever kissed someone under mistletoe? 🎄"
+    },
+    {
+        "id": 88,
+        "type": "Truth",
+        "text": "What is the most attractive non-physical trait? 🧠"
+    },
+    {
+        "id": 89,
+        "type": "Truth",
+        "text": "Do you like being single or in a relationship? 🆓"
+    },
+    {
+        "id": 90,
+        "type": "Truth",
+        "text": "Have you ever had a workplace romance? 💼"
+    },
+    {
+        "id": 91,
+        "type": "Truth",
+        "text": "What is your favorite way to show affection? 💗"
+    },
+    {
+        "id": 92,
+        "type": "Truth",
+        "text": "Do you fall in love easily? 🎢"
+    },
+    {
+        "id": 93,
+        "type": "Truth",
+        "text": "Have you ever dated someone much older or younger? 👵"
+    },
+    {
+        "id": 94,
+        "type": "Truth",
+        "text": "What is the best relationship advice you've received? 👴"
+    },
+    {
+        "id": 95,
+        "type": "Truth",
+        "text": "Have you ever been friend-zoned? 🚧"
+    },
+    {
+        "id": 96,
+        "type": "Truth",
+        "text": "Do you like tall, dark, and handsome? 🧛"
+    },
+    {
+        "id": 97,
+        "type": "Truth",
+        "text": "Have you ever snooped on a partner's phone? 🕵️‍♀️"
+    },
+    {
+        "id": 98,
+        "type": "Truth",
+        "text": "What is your favorite cuddling position? 🥄"
+    },
+    {
+        "id": 99,
+        "type": "Truth",
+        "text": "Do you want kids in the future? 👶"
+    },
+    {
+        "id": 100,
+        "type": "Truth",
+        "text": "Have you ever said 'I love you' and not meant it? 🤐"
+    },
+    {
+        "id": 101,
+        "type": "Dare",
+        "text": "Propose to a pillow like it's the love of your life! 💍"
+    },
+    {
+        "id": 102,
+        "type": "Dare",
+        "text": "Write a short love poem and read it aloud! 📜"
+    },
+    {
+        "id": 103,
+        "type": "Dare",
+        "text": "Blow a kiss to every player in the room! 😘"
+    },
+    {
+        "id": 104,
+        "type": "Dare",
+        "text": "Slow dance with an invisible partner for 1 minute. 💃"
+    },
+    {
+        "id": 105,
+        "type": "Dare",
+        "text": "Tell your crush (or pretend crush) you like them via text. 📱"
+    },
+    {
+        "id": 106,
+        "type": "Dare",
+        "text": "Give a 30-second speech on why love is amazing. 🎤"
+    },
+    {
+        "id": 107,
+        "type": "Dare",
+        "text": "Sing a love song to the person on your right. 🎶"
+    },
+    {
+        "id": 108,
+        "type": "Dare",
+        "text": "Act out a romantic movie scene by yourself. 🎬"
+    },
+    {
+        "id": 109,
+        "type": "Dare",
+        "text": "Let the group choose a contact for you to send a heart emoji to. ❤️"
+    },
+    {
+        "id": 110,
+        "type": "Dare",
+        "text": "Describe your ideal partner in detail for 1 minute. 📝"
+    },
+    {
+        "id": 111,
+        "type": "Dare",
+        "text": "Hug the person to your left for 10 seconds. 🤗"
+    },
+    {
+        "id": 112,
+        "type": "Dare",
+        "text": "Whisper a sweet nothing to a pillow/object. 🤫"
+    },
+    {
+        "id": 113,
+        "type": "Dare",
+        "text": "Show your most recent text to a romantic interest (if any). 📨"
+    },
+    {
+        "id": 114,
+        "type": "Dare",
+        "text": "Make a heart shape with your hands to everyone. 🫶"
+    },
+    {
+        "id": 115,
+        "type": "Dare",
+        "text": "Pretend you are on a first date with a chair. 🪑"
+    },
+    {
+        "id": 116,
+        "type": "Dare",
+        "text": "Do your best impression of a pickup artist. 😎"
+    },
+    {
+        "id": 117,
+        "type": "Dare",
+        "text": "Flirt with a wall for 30 seconds. 🧱"
+    },
+    {
+        "id": 118,
+        "type": "Dare",
+        "text": "Give a compliment to every player in the room. 🌟"
+    },
+    {
+        "id": 119,
+        "type": "Dare",
+        "text": "Serenade the person across from you. 🎸"
+    },
+    {
+        "id": 120,
+        "type": "Dare",
+        "text": "Let someone check your call history. 📞"
+    },
+    {
+        "id": 121,
+        "type": "Dare",
+        "text": "Send a 'Good Morning' text to your crush right now (regardless of time). ☀️"
+    },
+    {
+        "id": 122,
+        "type": "Dare",
+        "text": "Read the last romantic text you sent out loud. 📢"
+    },
+    {
+        "id": 123,
+        "type": "Dare",
+        "text": "Try to charm a household object. 🏺"
+    },
+    {
+        "id": 124,
+        "type": "Dare",
+        "text": "Act like you just won a beauty pageant. 👑"
+    },
+    {
+        "id": 125,
+        "type": "Dare",
+        "text": "Do your best romantic gaze at the camera. 😍"
+    },
+    {
+        "id": 126,
+        "type": "Dare",
+        "text": "Pretend to break up with an invisible partner dramatically. 😭"
+    },
+    {
+        "id": 127,
+        "type": "Dare",
+        "text": "Tell the group your cheesiest pickup line. 🧀"
+    },
+    {
+        "id": 128,
+        "type": "Dare",
+        "text": "Wear your socks on your hands and pretend they are puppets in love. 🧦"
+    },
+    {
+        "id": 129,
+        "type": "Dare",
+        "text": "Kiss your hand for 10 seconds straight. 💋"
+    },
+    {
+        "id": 130,
+        "type": "Dare",
+        "text": "Make a list of 3 traits you want in a soulmate. ✍️"
+    },
+    {
+        "id": 131,
+        "type": "Dare",
+        "text": "Stare lovingly into the eyes of the person to your right for 15 seconds. 👀"
+    },
+    {
+        "id": 132,
+        "type": "Dare",
+        "text": "Do a model walk across the room. 🚶‍♀️"
+    },
+    {
+        "id": 133,
+        "type": "Dare",
+        "text": "Pretend to catch a bouquet at a wedding. 💐"
+    },
+    {
+        "id": 134,
+        "type": "Dare",
+        "text": "Blow a kiss to the ceiling. ☝️"
+    },
+    {
+        "id": 135,
+        "type": "Dare",
+        "text": "Draw a heart on your cheek with a marker (washable!). ❤️"
+    },
+    {
+        "id": 136,
+        "type": "Dare",
+        "text": "Confess who you think is the best looking in the room. 🤭"
+    },
+    {
+        "id": 137,
+        "type": "Dare",
+        "text": "Say 'I love you' to an inanimate object with feeling. 🛋️"
+    },
+    {
+        "id": 138,
+        "type": "Dare",
+        "text": "Let someone style your hair romantically. 💇‍♀️"
+    },
+    {
+        "id": 139,
+        "type": "Dare",
+        "text": "Hold hands with the person next to you for one round. 🤝"
+    },
+    {
+        "id": 140,
+        "type": "Dare",
+        "text": "Give yourself a big hug. 🤗"
+    },
+    {
+        "id": 141,
+        "type": "Dare",
+        "text": "Wink at everyone in the room individually. 😉"
+    },
+    {
+        "id": 142,
+        "type": "Dare",
+        "text": "Pretend to be Cupids shooting arrows. 🏹"
+    },
+    {
+        "id": 143,
+        "type": "Dare",
+        "text": "Do a dramatic reading of a text message. 📜"
+    },
+    {
+        "id": 144,
+        "type": "Dare",
+        "text": "Recite a wedding vow to a friend. 👰"
+    },
+    {
+        "id": 145,
+        "type": "Dare",
+        "text": "Let someone pick a new profile picture for you (for 1 hour). 🖼️"
+    },
+    {
+        "id": 146,
+        "type": "Dare",
+        "text": "Act like a swooning fan meeting a celebrity. 🤩"
+    },
+    {
+        "id": 147,
+        "type": "Dare",
+        "text": "Do 10 jumping jacks while shouting 'I am attractive!'. 🤸"
+    },
+    {
+        "id": 148,
+        "type": "Dare",
+        "text": "Stroke your own hair lovingly. 💇"
+    },
+    {
+        "id": 149,
+        "type": "Dare",
+        "text": "Pretend to feed someone (or actually do it with food). 🥄"
+    },
+    {
+        "id": 150,
+        "type": "Dare",
+        "text": "Sit on someone's lap (if comfortable) for one round. 💺"
+    },
+    {
+        "id": 151,
+        "type": "Dare",
+        "text": "Do a sexy dance (funny version) for 10 seconds. 💃"
+    },
+    {
+        "id": 152,
+        "type": "Dare",
+        "text": "Let the group text something nice to your crush from your phone. 📱"
+    },
+    {
+        "id": 153,
+        "type": "Dare",
+        "text": "Massage the shoulders of the person to your right. 💆"
+    },
+    {
+        "id": 154,
+        "type": "Dare",
+        "text": " Whisper a secret to the person on your left. 👂"
+    },
+    {
+        "id": 155,
+        "type": "Dare",
+        "text": "Let someone look at your saved photos on Instagram. 📸"
+    },
+    {
+        "id": 156,
+        "type": "Dare",
+        "text": "Do a catwalk and pose. 📸"
+    },
+    {
+        "id": 157,
+        "type": "Dare",
+        "text": "Pretend you are in a soap opera argument with a pillow. 📺"
+    },
+    {
+        "id": 158,
+        "type": "Dare",
+        "text": "Attempt to lick your own nose while looking cute. 🐶"
+    },
+    {
+        "id": 159,
+        "type": "Dare",
+        "text": "Send a voice note singing to a friend. 🎤"
+    },
+    {
+        "id": 160,
+        "type": "Dare",
+        "text": "Compliment yourself in the mirror for 1 minute. 🪞"
+    },
+    {
+        "id": 161,
+        "type": "Dare",
+        "text": "Keep your eyes closed until your next turn and imagine your wedding. 💒"
+    },
+    {
+        "id": 162,
+        "type": "Dare",
+        "text": "Let someone check your DMs (briefly!). 📨"
+    },
+    {
+        "id": 163,
+        "type": "Dare",
+        "text": "Act like a puppy wanting attention. 🐕"
+    },
+    {
+        "id": 164,
+        "type": "Dare",
+        "text": "Give a piggyback ride to someone (if safe!). 🐎"
+    },
+    {
+        "id": 165,
+        "type": "Dare",
+        "text": "Spin around and fall dramatically like a fainting damsel. 😵"
+    },
+    {
+        "id": 166,
+        "type": "Dare",
+        "text": "Pose like you are on the cover of a romance novel. 📚"
+    },
+    {
+        "id": 167,
+        "type": "Dare",
+        "text": "Say the alphabet in a seductive voice. 🔤"
+    },
+    {
+        "id": 168,
+        "type": "Dare",
+        "text": "Try to touch your tongue to your chin. 👅"
+    },
+    {
+        "id": 169,
+        "type": "Dare",
+        "text": "Let the group choose a nickname for your future partner. 🏷️"
+    },
+    {
+        "id": 170,
+        "type": "Dare",
+        "text": "Pretend to catch a butterfly and give it to someone. 🦋"
+    },
+    {
+        "id": 171,
+        "type": "Dare",
+        "text": "Do a dramatic hair flip (even if short hair). 💁"
+    },
+    {
+        "id": 172,
+        "type": "Dare",
+        "text": "Air kiss everyone in the circle quickly. 💋"
+    },
+    {
+        "id": 173,
+        "type": "Dare",
+        "text": "Draw a ring on your finger with a pen. 💍"
+    },
+    {
+        "id": 174,
+        "type": "Dare",
+        "text": "Promise to love the person to your left forever (for game). 🤝"
+    },
+    {
+        "id": 175,
+        "type": "Dare",
+        "text": "Gaze at the ceiling and recite a made-up poem. 📜"
+    },
+    {
+        "id": 176,
+        "type": "Dare",
+        "text": "Pretend to be a statue of love. 🗽"
+    },
+    {
+        "id": 177,
+        "type": "Dare",
+        "text": "Walk on your tiptoes for the next turn. 🩰"
+    },
+    {
+        "id": 178,
+        "type": "Dare",
+        "text": "Let someone rearrange your hair accessories or hat. 🧢"
+    },
+    {
+        "id": 179,
+        "type": "Dare",
+        "text": "Bow down to the 'King/Queen of Love' (choose someone). 🙇"
+    },
+    {
+        "id": 180,
+        "type": "Dare",
+        "text": "Hold a flower (or object) between your teeth. 🌹"
+    },
+    {
+        "id": 181,
+        "type": "Dare",
+        "text": "Pretend you are Marilyn Monroe/Elvis for 30 seconds. 🎤"
+    },
+    {
+        "id": 182,
+        "type": "Dare",
+        "text": "Give a thumbs up to everyone while winking. 👍"
+    },
+    {
+        "id": 183,
+        "type": "Dare",
+        "text": "Make a heart with your fingers over your eye. 🫶"
+    },
+    {
+        "id": 184,
+        "type": "Dare",
+        "text": "Act shy for the next round. 😳"
+    },
+    {
+        "id": 185,
+        "type": "Dare",
+        "text": "Let someone tickle your palm. ✋"
+    },
+    {
+        "id": 186,
+        "type": "Dare",
+        "text": "Pretend to put on lipstick/makeup exaggeratedly. 💄"
+    },
+    {
+        "id": 187,
+        "type": "Dare",
+        "text": "Do a curtsy/bow every time you speak. 🙇‍♀️"
+    },
+    {
+        "id": 188,
+        "type": "Dare",
+        "text": "Speak in a whisper like you are sharing a secret lover’s plan. 🤫"
+    },
+    {
+        "id": 189,
+        "type": "Dare",
+        "text": "Pretend to be a vibrating phone. 📳"
+    },
+    {
+        "id": 190,
+        "type": "Dare",
+        "text": "Let someone write their name on your arm. ✍️"
+    },
+    {
+        "id": 191,
+        "type": "Dare",
+        "text": "Pretend to faint into someone's arms (carefully!). 😵"
+    },
+    {
+        "id": 192,
+        "type": "Dare",
+        "text": "Make a kissy face for 30 seconds. 😗"
+    },
+    {
+        "id": 193,
+        "type": "Dare",
+        "text": "Pretend to play a romantic tune on a violin. 🎻"
+    },
+    {
+        "id": 194,
+        "type": "Dare",
+        "text": "Walk like you are on a red carpet. 👠"
+    },
+    {
+        "id": 195,
+        "type": "Dare",
+        "text": "Strike 3 romantic poses. 📸"
+    },
+    {
+        "id": 196,
+        "type": "Dare",
+        "text": "Blow a kiss and catch it. 🌬️"
+    },
+    {
+        "id": 197,
+        "type": "Dare",
+        "text": "Pretend to be a heartbeat. 💓"
+    },
+    {
+        "id": 198,
+        "type": "Dare",
+        "text": "Hug yourself tightly and sway. 🫂"
+    },
+    {
+        "id": 199,
+        "type": "Dare",
+        "text": "Give the person to your right a high five with feeling. ✋"
+    },
+    {
+        "id": 200,
+        "type": "Dare",
+        "text": "Close your eyes and make a wish for love. ✨"
+    }
+]
