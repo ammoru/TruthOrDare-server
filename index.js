@@ -348,11 +348,18 @@ io.on('connection', (socket) => {
             // Send current state so they can at least sync
             const alreadyIn = room.players.find(p => p.name === username);
             if (alreadyIn) {
+                const wasAdmin = (room.adminId === alreadyIn.id); // Check BEFORE updating socket.id
                 alreadyIn.id = socket.id; // Update socket id
+                if (wasAdmin) room.adminId = socket.id; // Restore admin with new socket.id
+                
                 socket.join(roomId);
                 saveRoomToRedis(roomId, room); // Persist updated socket ID
-                socket.emit('room_rejoined', { room, restoredAdmin: room.adminId === socket.id });
-                console.log(`[Rejoin - already in room] ${username} re-synced for room ${roomId}`);
+                socket.emit('room_rejoined', { room, restoredAdmin: wasAdmin });
+                io.to(roomId).emit('player_reconnected', {
+                    players: room.players,
+                    adminId: room.adminId,
+                });
+                console.log(`[Rejoin - already in room] ${username} re-synced for room ${roomId}${wasAdmin ? ' as admin' : ''}`);
             } else {
                 socket.emit('error', { message: 'Could not restore session. Please rejoin manually.' });
             }
