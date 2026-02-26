@@ -4,6 +4,95 @@ const { Server } = require('socket.io');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
+const Redis = require('ioredis');
+
+// ─── Redis Setup ──────────────────────────────────────────────────────────────
+const REDIS_URL = process.env.REDIS_URL || 'redis://localhost:6379';
+const redis = new Redis(REDIS_URL, {
+    retryStrategy: (times) => {
+        const delay = Math.min(times * 50, 2000);
+        return delay;
+    },
+    maxRetriesPerRequest: 3,
+    enableReadyCheck: true,
+    lazyConnect: false,
+});
+
+let isRedisConnected = false;
+
+redis.on('connect', () => {
+    console.log('✅ Redis connected');
+    isRedisConnected = true;
+});
+
+redis.on('error', (err) => {
+    console.error('❌ Redis error:', err.message);
+    isRedisConnected = false;
+});
+
+redis.on('close', () => {
+    console.warn('⚠️  Redis connection closed');
+    isRedisConnected = false;
+});
+
+// ─── Redis Helper Functions ───────────────────────────────────────────────────
+const ROOM_TTL = 3600; // 1 hour in seconds
+
+async function saveRoomToRedis(roomId, roomData) {
+    if (!isRedisConnected) return;
+    try {
+        // Don't serialize timers (they'll be recreated on restore)
+        const cleanData = { ...roomData };
+        delete cleanData.turnTimer;
+        // Don't serialize grace-period timers either
+        if (cleanData.disconnectedPlayers) {
+            const cleaned = {};
+            for (const [name, data] of Object.entries(cleanData.disconnectedPlayers)) {
+                cleaned[name] = { socketId: data.socketId, wasAdmin: data.wasAdmin };
+            }
+            cleanData.disconnectedPlayers = cleaned;
+        }
+        await redis.setex(`room:${roomId}`, ROOM_TTL, JSON.stringify(cleanData));
+    } catch (err) {
+        console.error(`Redis save error for room ${roomId}:`, err.message);
+    }
+}
+
+async function getRoomFromRedis(roomId) {
+    if (!isRedisConnected) return null;
+    try {
+        const data = await redis.get(`room:${roomId}`);
+        return data ? JSON.parse(data) : null;
+    } catch (err) {
+        console.error(`Redis get error for room ${roomId}:`, err.message);
+        return null;
+    }
+}
+
+async function deleteRoomFromRedis(roomId) {
+    if (!isRedisConnected) return;
+    try {
+        await redis.del(`room:${roomId}`);
+    } catch (err) {
+        console.error(`Redis delete error for room ${roomId}:`, err.message);
+    }
+}
+
+async function getAllRoomsFromRedis() {
+    if (!isRedisConnected) return [];
+    try {
+        const keys = await redis.keys('room:*');
+        const rooms = [];
+        for (const key of keys) {
+            const data = await redis.get(key);
+            if (data) rooms.push(JSON.parse(data));
+        }
+        return rooms;
+    } catch (err) {
+        console.error('Redis get all rooms error:', err.message);
+        return [];
+    }
+}
 
 let FUN_QUESTIONS = [];
 let LOVE_QUESTIONS = [];
@@ -17,6 +106,11 @@ try {
 } catch (err) {
     console.error("Error loading question files:", err);
 }
+
+// ─── Constants ────────────────────────────────────────────────────────────────
+// How long (ms) a disconnected player has to reconnect before being removed.
+// 60 s is enough to copy a code, paste in WhatsApp, send it, and come back.
+const RECONNECT_GRACE_MS = 60_000;
 
 const getQuestion = (room, action) => {
     const settings = room.settings || { fun: 100, love: 50, spicy: 10 };
@@ -56,10 +150,6 @@ const getQuestion = (room, action) => {
 
     if (validQuestions.length > 0) {
         const q = validQuestions[Math.floor(Math.random() * validQuestions.length)];
-        return `[${targetCategory.toUpperCase()}] ${q.text}`; // Optional: Show category tag? Or just text.
-        // User asked "we should not ask about the images... Just found these can generate...".
-        // I'll return just text.
-        // Or maybe with emoji? The text has emoji.
         return q.text;
     }
 
@@ -75,6 +165,16 @@ const getQuestion = (room, action) => {
 
 const app = express();
 app.use(cors());
+
+// Health Check Endpoint (for Docker/Dokploy)
+app.get('/api/health', (req, res) => {
+    res.status(200).json({
+        status: 'ok',
+        redis: isRedisConnected ? 'connected' : 'disconnected',
+        uptime: process.uptime(),
+        rooms: Object.keys(rooms).length
+    });
+});
 
 // API Route for Data Sync
 app.get('/api/data', (req, res) => {
@@ -97,6 +197,40 @@ const io = new Server(server, {
 // Game State (In-Memory)
 const rooms = {};
 
+// Chat rate limiting: per-socket sliding window
+const chatRateLimits = new Map();
+const CHAT_RATE_LIMIT = 5;       // max messages
+const CHAT_RATE_WINDOW = 10000;  // per 10 seconds
+const MAX_MESSAGE_LENGTH = 300;
+
+function isChatRateLimited(socketId) {
+    const now = Date.now();
+    if (!chatRateLimits.has(socketId)) chatRateLimits.set(socketId, []);
+    const timestamps = chatRateLimits.get(socketId).filter(t => now - t < CHAT_RATE_WINDOW);
+    chatRateLimits.set(socketId, timestamps);
+    if (timestamps.length >= CHAT_RATE_LIMIT) return true;
+    timestamps.push(now);
+    return false;
+}
+
+// Reports log (in-memory — swap for DB in production)
+const reports = [];
+
+// ─── Restore Rooms from Redis on Startup ─────────────────────────────────────
+(async () => {
+    console.log('🔄 Restoring rooms from Redis...');
+    const savedRooms = await getAllRoomsFromRedis();
+    for (const roomData of savedRooms) {
+        // Restore room to memory, but don't restore timers (they need active sockets)
+        rooms[roomData.id] = {
+            ...roomData,
+            turnTimer: null,
+            disconnectedPlayers: {} // Clear grace-period timers on restart
+        };
+    }
+    console.log(`✅ Restored ${savedRooms.length} rooms from Redis`);
+})();
+
 io.on('connection', (socket) => {
     console.log(`User connected: ${socket.id}`);
 
@@ -107,23 +241,129 @@ io.on('connection', (socket) => {
             id: roomId,
             adminId: socket.id,
             players: [{ id: socket.id, name: data.name || 'Host' }],
+            // ── Server-side game state (source of truth for reconnects) ──
             currentPlayerIndex: 0,
-            gameState: 'waiting',
-            settings: data.settings || { fun: 100, love: 50, spicy: 10 } // Default Settings
+            gameState: 'waiting',       // 'waiting' | 'spinning' | 'result' | 'action'
+            currentAction: null,        // 'Truth' | 'Dare' | null
+            currentQuestion: null,      // string | null
+            spinAngle: 0,               // last bottle angle (for visual restore)
+            // ── Settings ──
+            settings: data.settings || { fun: true, love: false, spicy: false },
+            // ── Disconnect grace-period tracking ──
+            // key = player username, value = { socketId, wasAdmin, timer }
+            disconnectedPlayers: {},
+            turnTimer: null,
         };
         socket.join(roomId);
+        saveRoomToRedis(roomId, rooms[roomId]); // Persist to Redis
         socket.emit('room_created', rooms[roomId]);
         console.log(`Room created: ${roomId}`);
     });
 
-    // Join Room
+    // Join Room — also handles a fresh-join where disconnected entry already exists
     socket.on('join_room', (data) => {
         const { roomId, name } = data;
-        if (rooms[roomId]) {
-            rooms[roomId].players.push({ id: socket.id, name: name || 'Player' });
+        const room = rooms[roomId];
+        if (!room) {
+            socket.emit('error', { message: 'Room not found' });
+            return;
+        }
+
+        // Already connected with this socket id?
+        const alreadyConnected = room.players.some(p => p.id === socket.id);
+        if (alreadyConnected) {
+            socket.emit('room_joined', room);
+            return;
+        }
+
+        // Was this username in the grace-period list? If so, treat as rejoin
+        const pending = room.disconnectedPlayers[name];
+        if (pending) {
+            clearTimeout(pending.timer);
+            delete room.disconnectedPlayers[name];
+
+            // Update socketId in players array
+            const existing = room.players.find(p => p.name === name);
+            if (existing) existing.id = socket.id;
+
+            // Restore admin if they were admin before
+            if (pending.wasAdmin) room.adminId = socket.id;
+
             socket.join(roomId);
-            io.to(roomId).emit('player_joined', rooms[roomId]);
-            console.log(`User ${name} joined room ${roomId}`);
+            socket.emit('room_rejoined', {
+                room,
+                // Client needs to know their restored admin status
+                restoredAdmin: pending.wasAdmin,
+            });
+            io.to(roomId).emit('player_reconnected', {
+                players: room.players,
+                adminId: room.adminId,
+            });
+            console.log(`[Rejoin via join_room] ${name} restored to room ${roomId}`);
+            return;
+        }
+
+        // Completely new player
+        room.players.push({ id: socket.id, name: name || 'Player' });
+        socket.join(roomId);
+        saveRoomToRedis(roomId, room); // Persist to Redis
+        socket.emit('room_joined', room);
+        io.to(roomId).emit('player_joined', room);
+        console.log(`User ${name} joined room ${roomId}`);
+    });
+
+    // Rejoin Room — called explicitly by client after reconnect
+    socket.on('rejoin_room', (data) => {
+        const { roomId, username } = data;
+        const room = rooms[roomId];
+        if (!room) {
+            socket.emit('error', { message: 'Room expired or not found. Please start a new game.' });
+            return;
+        }
+
+        const pending = room.disconnectedPlayers[username];
+        if (pending) {
+            clearTimeout(pending.timer);
+            delete room.disconnectedPlayers[username];
+
+            // Update socketId
+            const existing = room.players.find(p => p.name === username);
+            if (existing) existing.id = socket.id;
+
+            if (pending.wasAdmin) room.adminId = socket.id;
+
+            socket.join(roomId);
+            saveRoomToRedis(roomId, room); // Persist updated socket IDs
+            socket.emit('room_rejoined', {
+                room,
+                restoredAdmin: pending.wasAdmin,
+            });
+            io.to(roomId).emit('player_reconnected', {
+                players: room.players,
+                adminId: room.adminId,
+            });
+            console.log(`[Rejoin] ${username} restored to room ${roomId}${pending.wasAdmin ? ' as admin' : ''}`);
+        } else {
+            // Player wasn't in grace-period (maybe never disconnected or too late)
+            // Send current state so they can at least sync
+            const alreadyIn = room.players.find(p => p.name === username);
+            if (alreadyIn) {
+                alreadyIn.id = socket.id; // Update socket id
+                socket.join(roomId);
+                saveRoomToRedis(roomId, room); // Persist updated socket ID
+                socket.emit('room_rejoined', { room, restoredAdmin: room.adminId === socket.id });
+                console.log(`[Rejoin - already in room] ${username} re-synced for room ${roomId}`);
+            } else {
+                socket.emit('error', { message: 'Could not restore session. Please rejoin manually.' });
+            }
+        }
+    });
+
+    // Get Room State — lets a reconnected client pull the latest state at any time
+    socket.on('get_room_state', ({ roomId }) => {
+        const room = rooms[roomId];
+        if (room) {
+            socket.emit('room_state', room);
         } else {
             socket.emit('error', { message: 'Room not found' });
         }
@@ -136,15 +376,27 @@ io.on('connection', (socket) => {
             const room = rooms[roomId];
             const randomAngle = Math.floor(Math.random() * 360) + 720;
             const winnerIndex = Math.floor(Math.random() * room.players.length);
+
+            // Persist spin state server-side
+            room.gameState = 'spinning';
+            room.currentPlayerIndex = winnerIndex;
+            room.spinAngle = randomAngle;
+            room.currentAction = null;
+            room.currentQuestion = null;
+
+            saveRoomToRedis(roomId, room); // Persist to Redis
             io.to(roomId).emit('bottle_spun', { angle: randomAngle, winnerIndex });
 
             // Start Turn Timer (3s Spin + 10s Choice + 1s Buffer = 14s)
             if (room.turnTimer) clearTimeout(room.turnTimer);
             room.turnTimer = setTimeout(() => {
                 // Force Choice
-                if (rooms[roomId]) { // Check if room still exists
+                if (rooms[roomId]) {
                     const action = Math.random() > 0.5 ? 'Truth' : 'Dare';
                     const question = getQuestion(room, action);
+                    room.gameState = 'action';
+                    room.currentAction = action;
+                    room.currentQuestion = question;
                     io.to(roomId).emit('action_chosen', { action, question, forced: true });
                 }
             }, 14000);
@@ -158,6 +410,7 @@ io.on('connection', (socket) => {
         const { roomId, settings } = data;
         if (rooms[roomId] && rooms[roomId].adminId === socket.id) {
             rooms[roomId].settings = settings;
+            saveRoomToRedis(roomId, rooms[roomId]); // Persist to Redis
             io.to(roomId).emit('settings_updated', settings);
             console.log(`Room ${roomId} settings updated:`, settings);
         }
@@ -173,6 +426,13 @@ io.on('connection', (socket) => {
             if (room.turnTimer) clearTimeout(room.turnTimer);
 
             const selectedQuestion = getQuestion(room, action);
+
+            // Persist action state server-side
+            room.gameState = 'action';
+            room.currentAction = action;
+            room.currentQuestion = selectedQuestion;
+
+            saveRoomToRedis(roomId, room); // Persist to Redis
             io.to(roomId).emit('action_chosen', { action, question: selectedQuestion });
         } else {
             socket.emit('error', { message: 'Room not found. Please create a new game.' });
@@ -183,6 +443,12 @@ io.on('connection', (socket) => {
     socket.on('next_turn', (data) => {
         const { roomId } = data;
         if (rooms[roomId]) {
+            const room = rooms[roomId];
+            // Reset server state for next turn
+            room.gameState = 'waiting';
+            room.currentAction = null;
+            room.currentQuestion = null;
+            saveRoomToRedis(roomId, room); // Persist to Redis
             io.to(roomId).emit('next_turn');
         } else {
             socket.emit('error', { message: 'Room not found. Please create a new game.' });
@@ -212,6 +478,7 @@ io.on('connection', (socket) => {
             if (socket.id === room.adminId && accepted) {
                 room.adminId = requesterId;
                 const newAdmin = room.players.find(p => p.id === requesterId);
+                saveRoomToRedis(roomId, room); // Persist to Redis
                 io.to(roomId).emit('admin_changed', {
                     adminId: requesterId,
                     adminName: newAdmin ? newAdmin.name : 'Unknown'
@@ -220,53 +487,131 @@ io.on('connection', (socket) => {
         }
     });
 
-    // Chat Message
+    // Chat Message (with rate limiting + length validation)
     socket.on('send_message', (data) => {
         const { roomId, message, senderName } = data;
-        if (rooms[roomId]) {
-            io.to(roomId).emit('receive_message', {
-                id: Date.now().toString() + Math.random().toString(),
-                senderId: socket.id,
-                senderName,
-                message,
-                timestamp: new Date().toISOString()
-            });
+        if (!rooms[roomId]) return;
+
+        // Rate limit check
+        if (isChatRateLimited(socket.id)) {
+            socket.emit('chat_rate_limited', { message: 'You are sending messages too fast. Please wait a moment.' });
+            return;
         }
+
+        // Validate & sanitize
+        const cleanMessage = (typeof message === 'string' ? message : '').trim().slice(0, MAX_MESSAGE_LENGTH);
+        const cleanName = (typeof senderName === 'string' ? senderName : 'Player').trim().slice(0, 20);
+        if (!cleanMessage) return;
+
+        io.to(roomId).emit('receive_message', {
+            id: Date.now().toString() + Math.random().toString(),
+            senderId: socket.id,
+            senderName: cleanName,
+            message: cleanMessage,
+            timestamp: new Date().toISOString()
+        });
     });
 
-    const handlePlayerLeave = (socketId) => {
+    // Report Room / Player
+    socket.on('report_room', (data) => {
+        const { roomId, reason, details } = data;
+        if (!rooms[roomId]) return;
+        const reporter = rooms[roomId].players.find(p => p.id === socket.id);
+        const report = {
+            id: Date.now().toString(),
+            roomId,
+            reporterSocketId: socket.id,
+            reporterName: reporter?.name || 'Unknown',
+            reason: (typeof reason === 'string' ? reason : '').slice(0, 100),
+            details: (typeof details === 'string' ? details : '').slice(0, 500),
+            timestamp: new Date().toISOString(),
+            playerCount: rooms[roomId].players.length
+        };
+        reports.push(report);
+        console.log('[REPORT]', JSON.stringify(report));
+        socket.emit('report_submitted', { success: true, message: 'Report submitted. Thank you for helping keep the community safe.' });
+    });
+
+    const handlePlayerLeave = (socketId, { immediate = false } = {}) => {
         for (const roomId in rooms) {
             const room = rooms[roomId];
             const index = room.players.findIndex(p => p.id === socketId);
-            if (index !== -1) {
-                const wasAdmin = (room.adminId === socketId);
-                room.players.splice(index, 1);
+            if (index === -1) continue;
 
-                if (room.players.length === 0) {
-                    if (room.turnTimer) clearTimeout(room.turnTimer); // Clear timer
-                    delete rooms[roomId];
-                    console.log(`Room ${roomId} deleted (empty)`);
-                } else {
-                    if (wasAdmin && room.players.length > 0) {
-                        const newAdmin = room.players[Math.floor(Math.random() * room.players.length)];
-                        room.adminId = newAdmin.id;
-                        io.to(roomId).emit('admin_changed', {
-                            adminId: newAdmin.id,
-                            adminName: newAdmin.name
-                        });
-                    }
-                    io.to(roomId).emit('player_left', room.players);
-                    // Reset game state for everyone remaining
-                    io.to(roomId).emit('game_reset');
-                }
-                break;
+            const player = room.players[index];
+            const wasAdmin = (room.adminId === socketId);
+
+            if (!immediate) {
+                // ── Grace period: give the player 60 s to reconnect ──────────
+                const timer = setTimeout(() => {
+                    // If still disconnected after grace period, actually remove them
+                    _removePlayer(roomId, socketId, player.name, wasAdmin);
+                }, RECONNECT_GRACE_MS);
+
+                room.disconnectedPlayers[player.name] = { socketId, wasAdmin, timer };
+                console.log(`[Grace] ${player.name} disconnected from ${roomId}. Waiting ${RECONNECT_GRACE_MS / 1000}s…`);
+
+                // Notify others that this person is temporarily offline
+                io.to(roomId).emit('player_disconnected', {
+                    playerName: player.name,
+                    players: room.players,   // still shown — just marked away
+                });
+            } else {
+                // Explicit leave (leave_room event / kick) — remove immediately
+                _removePlayer(roomId, socketId, player.name, wasAdmin);
             }
+            break;
         }
     };
 
-    // Leave Room (Explicit)
+    // Internal: permanently remove a player from a room
+    const _removePlayer = (roomId, socketId, playerName, wasAdmin) => {
+        const room = rooms[roomId];
+        if (!room) return;
+
+        // Cancel any pending grace timer for this player (safety)
+        const pending = room.disconnectedPlayers[playerName];
+        if (pending) {
+            clearTimeout(pending.timer);
+            delete room.disconnectedPlayers[playerName];
+        }
+
+        const index = room.players.findIndex(p => p.id === socketId || p.name === playerName);
+        if (index === -1) return;
+        room.players.splice(index, 1);
+
+        if (room.players.length === 0) {
+            // Only delete if no one else is still in the grace-period waiting
+            const pendingCount = Object.keys(room.disconnectedPlayers).length;
+            if (pendingCount === 0) {
+                if (room.turnTimer) clearTimeout(room.turnTimer);
+                delete rooms[roomId];
+                deleteRoomFromRedis(roomId); // Remove from Redis
+                console.log(`Room ${roomId} deleted (empty + no pending reconnects)`);
+            }
+        } else {
+            if (wasAdmin) {
+                const newAdmin = room.players[Math.floor(Math.random() * room.players.length)];
+                room.adminId = newAdmin.id;
+                io.to(roomId).emit('admin_changed', {
+                    adminId: newAdmin.id,
+                    adminName: newAdmin.name
+                });
+            }
+            io.to(roomId).emit('player_left', room.players);
+            // Reset game state for everyone remaining
+            io.to(roomId).emit('game_reset');
+            room.gameState = 'waiting';
+            room.currentAction = null;
+            room.currentQuestion = null;
+            saveRoomToRedis(roomId, room); // Persist to Redis
+        }
+        console.log(`[Remove] ${playerName} permanently removed from room ${roomId}`);
+    };
+
+    // Leave Room (Explicit — player tapped "Exit")
     socket.on('leave_room', () => {
-        handlePlayerLeave(socket.id);
+        handlePlayerLeave(socket.id, { immediate: true });
     });
 
     socket.on('kick_player', ({ roomId, playerId }) => {
@@ -275,24 +620,19 @@ io.on('connection', (socket) => {
             const playerIndex = room.players.findIndex(p => p.id === playerId);
             if (playerIndex !== -1) {
                 const kickedPlayer = room.players[playerIndex];
-
                 // Notify kicked player specifically
                 io.to(kickedPlayer.id).emit('kicked');
-
-                // Remove player via handlePlayerLeave (ensures consistency)
-                // Wait, handlePlayerLeave relies on socket.id passed to it?
-                // No, handlePlayerLeave iterates all rooms to find where socket is.
-                // But kickedPlayer.id IS socket.id.
-                // So calling handlePlayerLeave(kickedPlayer.id) works perfect!
-                handlePlayerLeave(kickedPlayer.id);
+                // Remove immediately (kick = no grace period)
+                handlePlayerLeave(kickedPlayer.id, { immediate: true });
             }
         }
     });
 
-    // Disconnect
+    // Disconnect — use grace period so switching apps doesn't break the game
     socket.on('disconnect', () => {
         console.log(`User disconnected: ${socket.id}`);
-        handlePlayerLeave(socket.id);
+        chatRateLimits.delete(socket.id);
+        handlePlayerLeave(socket.id, { immediate: false });
     });
 });
 
