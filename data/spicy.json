@@ -1,1002 +1,510 @@
 [
-    {
-        "id": 1,
-        "type": "Truth",
-        "text": "What is the wildest thing you've ever done in public? 🔥"
-    },
-    {
-        "id": 2,
-        "type": "Truth",
-        "text": "Have you ever sent a naughty text to the wrong person? 📱"
-    },
-    {
-        "id": 3,
-        "type": "Truth",
-        "text": "What is your biggest secret guilty pleasure? 🤫"
-    },
-    {
-        "id": 4,
-        "type": "Truth",
-        "text": "Have you ever gone skinny dipping? 🌊"
-    },
-    {
-        "id": 5,
-        "type": "Truth",
-        "text": "What is the most illegal thing you've engaged in? 🚓"
-    },
-    {
-        "id": 6,
-        "type": "Truth",
-        "text": "Have you ever had a one-night stand? 🌙"
-    },
-    {
-        "id": 7,
-        "type": "Truth",
-        "text": "Who in this room do you think is the best kisser? 💋"
-    },
-    {
-        "id": 8,
-        "type": "Truth",
-        "text": "Have you ever cheated in a relationship? 💔"
-    },
-    {
-        "id": 9,
-        "type": "Truth",
-        "text": "What color is your underwear right now? 👙"
-    },
-    {
-        "id": 10,
-        "type": "Truth",
-        "text": "Have you ever kissed someone of the same gender? 🌈"
-    },
-    {
-        "id": 11,
-        "type": "Truth",
-        "text": "What is your favorite body part on yourself? 💪"
-    },
-    {
-        "id": 12,
-        "type": "Truth",
-        "text": "What is your favorite body part on the opposite sex? 👀"
-    },
-    {
-        "id": 13,
-        "type": "Truth",
-        "text": "Have you ever had a crush on a friend's partner? 🫢"
-    },
-    {
-        "id": 14,
-        "type": "Truth",
-        "text": "What is the most embarrassing thing you've done while drunk? 🍺"
-    },
-    {
-        "id": 15,
-        "type": "Truth",
-        "text": "Have you ever faked it? (You know what...) 🎭"
-    },
-    {
-        "id": 16,
-        "type": "Truth",
-        "text": "What is your weirdest turn-on? 🔌"
-    },
-    {
-        "id": 17,
-        "type": "Truth",
-        "text": "Have you ever been caught in the act? 🚪"
-    },
-    {
-        "id": 18,
-        "type": "Truth",
-        "text": "Would you ever date someone just for their money? 💸"
-    },
-    {
-        "id": 19,
-        "type": "Truth",
-        "text": "Have you ever sent a nude photo? 📸"
-    },
-    {
-        "id": 20,
-        "type": "Truth",
-        "text": "What is the longest you've gone without innerwear? 👖"
-    },
-    {
-        "id": 21,
-        "type": "Truth",
-        "text": "Have you ever practiced kissing on a mirror/fruit? 🍑"
-    },
-    {
-        "id": 22,
-        "type": "Truth",
-        "text": "Who was your worst kiss ever? 🤢"
-    },
-    {
-        "id": 23,
-        "type": "Truth",
-        "text": "Have you ever had a sexy dream about someone in this room? 💤"
-    },
-    {
-        "id": 24,
-        "type": "Truth",
-        "text": "Do you prefer lights on or off? 💡"
-    },
-    {
-        "id": 25,
-        "type": "Truth",
-        "text": "What is your secret fantasy? 🏰"
-    },
-    {
-        "id": 26,
-        "type": "Truth",
-        "text": "Have you ever dated two people at once? ⚖️"
-    },
-    {
-        "id": 27,
-        "type": "Truth",
-        "text": "What’s the most adventurous place you’ve done it? 🏔️"
-    },
-    {
-        "id": 28,
-        "type": "Truth",
-        "text": "Have you ever stolen something? 💍"
-    },
-    {
-        "id": 29,
-        "type": "Truth",
-        "text": "Have you ever been in handcuffs? 👮"
-    },
-    {
-        "id": 30,
-        "type": "Truth",
-        "text": "What is the most expensive gift you've received from a lover? 🎁"
-    },
-    {
-        "id": 31,
-        "type": "Truth",
-        "text": "Have you ever flashed someone? 🧥"
-    },
-    {
-        "id": 32,
-        "type": "Truth",
-        "text": "Do you sleep naked? 🛌"
-    },
-    {
-        "id": 33,
-        "type": "Truth",
-        "text": "Have you ever joined the mile-high club? ✈️"
-    },
-    {
-        "id": 34,
-        "type": "Truth",
-        "text": "What is your biggest fear in the bedroom? 😨"
-    },
-    {
-        "id": 35,
-        "type": "Truth",
-        "text": "Have you ever hooked up with an ex? 🔄"
-    },
-    {
-        "id": 36,
-        "type": "Truth",
-        "text": "Who is the hottest person you know? 🔥"
-    },
-    {
-        "id": 37,
-        "type": "Truth",
-        "text": "Have you ever been to a strip club? 👯"
-    },
-    {
-        "id": 38,
-        "type": "Truth",
-        "text": "Have you ever made a sex tape? 📹"
-    },
-    {
-        "id": 39,
-        "type": "Truth",
-        "text": "What is your 'number'? (Body count) 🔢"
-    },
-    {
-        "id": 40,
-        "type": "Truth",
-        "text": "Do you have any tattoos in hidden places? 💉"
-    },
-    {
-        "id": 41,
-        "type": "Truth",
-        "text": "Have you ever lied about being single? 💍"
-    },
-    {
-        "id": 42,
-        "type": "Truth",
-        "text": "What is the most daring thing you've worn out? 👗"
-    },
-    {
-        "id": 43,
-        "type": "Truth",
-        "text": "Have you ever liked a teacher/professor? 👨‍🏫"
-    },
-    {
-        "id": 44,
-        "type": "Truth",
-        "text": "Have you ever used a dating app just for hookups? 📲"
-    },
-    {
-        "id": 45,
-        "type": "Truth",
-        "text": "What is the worst pickup line someone used on you? 🧀"
-    },
-    {
-        "id": 46,
-        "type": "Truth",
-        "text": "Have you ever been walked in on while showering? 🚿"
-    },
-    {
-        "id": 47,
-        "type": "Truth",
-        "text": "Do you have a piercing in a private place? 👂"
-    },
-    {
-        "id": 48,
-        "type": "Truth",
-        "text": "Have you ever kissed a stranger? 😚"
-    },
-    {
-        "id": 49,
-        "type": "Truth",
-        "text": "What is your favorite time of day for intimacy? 🕰️"
-    },
-    {
-        "id": 50,
-        "type": "Truth",
-        "text": "Have you ever swam naked? 🏊"
-    },
-    {
-        "id": 51,
-        "type": "Truth",
-        "text": "Do you own any 'adult' toys? 🧸"
-    },
-    {
-        "id": 52,
-        "type": "Truth",
-        "text": "Have you ever roleplayed? 🎭"
-    },
-    {
-        "id": 53,
-        "type": "Truth",
-        "text": "What is the sexiest language / accent? 🇫🇷"
-    },
-    {
-        "id": 54,
-        "type": "Truth",
-        "text": "Have you ever had a crush on a cousin (distant)? 🤠"
-    },
-    {
-        "id": 55,
-        "type": "Truth",
-        "text": "What would you do if you woke up in the opposite sex's body? ⚧️"
-    },
-    {
-        "id": 56,
-        "type": "Truth",
-        "text": "Have you ever 'sexted'? 💬"
-    },
-    {
-        "id": 57,
-        "type": "Truth",
-        "text": "What is your favorite position? 🧘"
-    },
-    {
-        "id": 58,
-        "type": "Truth",
-        "text": "Have you ever kissed more than one person in a night? 💋"
-    },
-    {
-        "id": 59,
-        "type": "Truth",
-        "text": "Who was your first time with? 🥇"
-    },
-    {
-        "id": 60,
-        "type": "Truth",
-        "text": "Have you ever broken a bed? 🛏️"
-    },
-    {
-        "id": 61,
-        "type": "Truth",
-        "text": "Do you make noise or stay quiet? 🔊"
-    },
-    {
-        "id": 62,
-        "type": "Truth",
-        "text": "Have you ever done it in a car? 🚗"
-    },
-    {
-        "id": 63,
-        "type": "Truth",
-        "text": "Have you ever been attracted to a cartoon character? 🐰"
-    },
-    {
-        "id": 64,
-        "type": "Truth",
-        "text": "What’s the most unexpected place you've been turned on? 🚌"
-    },
-    {
-        "id": 65,
-        "type": "Truth",
-        "text": "Have you ever lied about your size? 📏"
-    },
-    {
-        "id": 66,
-        "type": "Truth",
-        "text": "Do you watch adult movies? 📺"
-    },
-    {
-        "id": 67,
-        "type": "Truth",
-        "text": "Have you ever had a friend with benefits? 🤝"
-    },
-    {
-        "id": 68,
-        "type": "Truth",
-        "text": "What is the shortest time you knew someone before dragging them in bed? ⏱️"
-    },
-    {
-        "id": 69,
-        "type": "Truth",
-        "text": "Have you ever done a striptease? 💃"
-    },
-    {
-        "id": 70,
-        "type": "Truth",
-        "text": "What do you wear to bed? (Be honest) 🛌"
-    },
-    {
-        "id": 71,
-        "type": "Truth",
-        "text": "Have you ever crushed on a boss? 👔"
-    },
-    {
-        "id": 72,
-        "type": "Truth",
-        "text": "Would you ever have a threesome? 3️⃣"
-    },
-    {
-        "id": 73,
-        "type": "Truth",
-        "text": "Have you ever used food in the bedroom? 🍓"
-    },
-    {
-        "id": 74,
-        "type": "Truth",
-        "text": "What is your favorite foreplay activity? 💆"
-    },
-    {
-        "id": 75,
-        "type": "Truth",
-        "text": "Have you ever got a hickey you couldn't hide? 🧣"
-    },
-    {
-        "id": 76,
-        "type": "Truth",
-        "text": "Do you have a foot fetish? 🦶"
-    },
-    {
-        "id": 77,
-        "type": "Truth",
-        "text": "What is the sexiest outfit someone can wear? 👙"
-    },
-    {
-        "id": 78,
-        "type": "Truth",
-        "text": "Have you ever been tied up? 🎀"
-    },
-    {
-        "id": 79,
-        "type": "Truth",
-        "text": "Do you like biting? 🧛"
-    },
-    {
-        "id": 80,
-        "type": "Truth",
-        "text": "Have you ever had phone sex? 📞"
-    },
-    {
-        "id": 81,
-        "type": "Truth",
-        "text": "What is the most sensitive part of your body? ⚡"
-    },
-    {
-        "id": 82,
-        "type": "Truth",
-        "text": "Have you ever ghosted someone after hooking up? 👻"
-    },
-    {
-        "id": 83,
-        "type": "Truth",
-        "text": "Do you keep photos of your exes? 📸"
-    },
-    {
-        "id": 84,
-        "type": "Truth",
-        "text": "Have you ever cried during or after sex? 😢"
-    },
-    {
-        "id": 85,
-        "type": "Truth",
-        "text": "What underwear do you prefer on the opposite sex? 🩲"
-    },
-    {
-        "id": 86,
-        "type": "Truth",
-        "text": "Have you ever done it outside? 🌳"
-    },
-    {
-        "id": 87,
-        "type": "Truth",
-        "text": "What is your guilty pleasure search online? 🔍"
-    },
-    {
-        "id": 88,
-        "type": "Truth",
-        "text": "Have you ever been with someone much older? 👴"
-    },
-    {
-        "id": 89,
-        "type": "Truth",
-        "text": "Do you like hair pulling? 💇"
-    },
-    {
-        "id": 90,
-        "type": "Truth",
-        "text": "Have you ever sent a dirty pic to your parents by accident? 😱"
-    },
-    {
-        "id": 91,
-        "type": "Truth",
-        "text": "What is the worst excuse you made to avoid sex? 🤕"
-    },
-    {
-        "id": 92,
-        "type": "Truth",
-        "text": "Have you ever slept with a coworker? 🏢"
-    },
-    {
-        "id": 93,
-        "type": "Truth",
-        "text": "Do you prefer top or bottom? ⬆️⬇️"
-    },
-    {
-        "id": 94,
-        "type": "Truth",
-        "text": "Have you ever had an inappropriate dream about a family friend? 👪"
-    },
-    {
-        "id": 95,
-        "type": "Truth",
-        "text": "What is the wildest place you want to do it? 🚀"
-    },
-    {
-        "id": 96,
-        "type": "Truth",
-        "text": "Have you ever been drunk and regretted a hookup? 😵"
-    },
-    {
-        "id": 97,
-        "type": "Truth",
-        "text": "Do you like dirty talk? 🗣️"
-    },
-    {
-        "id": 98,
-        "type": "Truth",
-        "text": "Have you ever kissed someone for a dare? 🎲"
-    },
-    {
-        "id": 99,
-        "type": "Truth",
-        "text": "What is the most awkward moment during sex? 🐢"
-    },
-    {
-        "id": 100,
-        "type": "Truth",
-        "text": "Have you ever imagined someone else while being intimate? 💭"
-    },
-    {
-        "id": 101,
-        "type": "Dare",
-        "text": "Let the group go through your phone gallery for 1 minute! 📸"
-    },
-    {
-        "id": 102,
-        "type": "Dare",
-        "text": "Eat a spoonful of hot sauce or a raw chili! 🌶️"
-    },
-    {
-        "id": 103,
-        "type": "Dare",
-        "text": "Text your crush (or ex) right now saying 'I miss you'! 😈"
-    },
-    {
-        "id": 104,
-        "type": "Dare",
-        "text": "Sit on the lap of the person to your left for the next round. 💺"
-    },
-    {
-        "id": 105,
-        "type": "Dare",
-        "text": "Remove one item of clothing (accessories don't count!). 👕"
-    },
-    {
-        "id": 106,
-        "type": "Dare",
-        "text": "Let someone give you a wet willy. 👂"
-    },
-    {
-        "id": 107,
-        "type": "Dare",
-        "text": "Give a foot massage to the person on your right. 🦶"
-    },
-    {
-        "id": 108,
-        "type": "Dare",
-        "text": "Call your crush and sing 'Happy Birthday' to them. 🎂"
-    },
-    {
-        "id": 109,
-        "type": "Dare",
-        "text": "Post an embarrassing photo on your story for 24 hours. 📲"
-    },
-    {
-        "id": 110,
-        "type": "Dare",
-        "text": "Do a sensual dance for 30 seconds (keep it PG-13!). 💃"
-    },
-    {
-        "id": 111,
-        "type": "Dare",
-        "text": "Let someone write a word on your neck with a marker. 🖍️"
-    },
-    {
-        "id": 112,
-        "type": "Dare",
-        "text": "Kiss the cheek of everyone in the room. 💋"
-    },
-    {
-        "id": 113,
-        "type": "Dare",
-        "text": "Let the person to your left send a text from your phone. 📨"
-    },
-    {
-        "id": 114,
-        "type": "Dare",
-        "text": "Show the last photo you took on your phone. 🖼️"
-    },
-    {
-        "id": 115,
-        "type": "Dare",
-        "text": "Lick whipped cream (or water/chocolate) off someone’s hand. 🍫"
-    },
-    {
-        "id": 116,
-        "type": "Dare",
-        "text": "Do your best orgasm impression. 😱"
-    },
-    {
-        "id": 117,
-        "type": "Dare",
-        "text": "Let someone check your browser history! 🌐"
-    },
-    {
-        "id": 118,
-        "type": "Dare",
-        "text": "Twerk for 15 seconds. 🍑"
-    },
-    {
-        "id": 119,
-        "type": "Dare",
-        "text": "Give a hickey to your own arm. 💄"
-    },
-    {
-        "id": 120,
-        "type": "Dare",
-        "text": "Exchange shirts with the person to your right. 👚"
-    },
-    {
-        "id": 121,
-        "type": "Dare",
-        "text": "Whisper something naughty in the ear of the person to your left. 👂"
-    },
-    {
-        "id": 122,
-        "type": "Dare",
-        "text": "Let the group choose a daring text to send to your ex. 📤"
-    },
-    {
-        "id": 123,
-        "type": "Dare",
-        "text": "Do 10 pushups with someone sitting on your back. 💪"
-    },
-    {
-        "id": 124,
-        "type": "Dare",
-        "text": "Blindfold yourself and try to guess who kisses your cheek. 🫣"
-    },
-    {
-        "id": 125,
-        "type": "Dare",
-        "text": "Eat a banana in a seductive way. 🍌"
-    },
-    {
-        "id": 126,
-        "type": "Dare",
-        "text": "Let someone tickle you non-stop for 30 seconds. 😆"
-    },
-    {
-        "id": 127,
-        "type": "Dare",
-        "text": "Put an ice cube down your shirt/pants. 🧊"
-    },
-    {
-        "id": 128,
-        "type": "Dare",
-        "text": "Imitate a celebrity pole dancer. 💈"
-    },
-    {
-        "id": 129,
-        "type": "Dare",
-        "text": "Let someone search 'How to...' on your phone. 🔍"
-    },
-    {
-        "id": 130,
-        "type": "Dare",
-        "text": "Give a piggyback ride to your crush (or nearest person). 🐎"
-    },
-    {
-        "id": 131,
-        "type": "Dare",
-        "text": "Talk in a sexy whisper for the next 3 rounds. 🤫"
-    },
-    {
-        "id": 132,
-        "type": "Dare",
-        "text": "Let someone spank you lightly. 👋"
-    },
-    {
-        "id": 133,
-        "type": "Dare",
-        "text": "Kiss the person to your right on the neck. 🧛"
-    },
-    {
-        "id": 134,
-        "type": "Dare",
-        "text": "Flash your abs (or lack thereof). 🍫"
-    },
-    {
-        "id": 135,
-        "type": "Dare",
-        "text": "Hold hands with the person across from you for the rest of the game. 🤝"
-    },
-    {
-        "id": 136,
-        "type": "Dare",
-        "text": "Show the color of your underwear to the group. 👙"
-    },
-    {
-        "id": 137,
-        "type": "Dare",
-        "text": "Do a body roll. 🌊"
-    },
-    {
-        "id": 138,
-        "type": "Dare",
-        "text": "Let someone bite your finger gently. ☝️"
-    },
-    {
-        "id": 139,
-        "type": "Dare",
-        "text": "Demonstrate your favorite sleeping position with someone. 🛌"
-    },
-    {
-        "id": 140,
-        "type": "Dare",
-        "text": "Call a pizza place and order a 'boneless pizza' flirtatiously. 🍕"
-    },
-    {
-        "id": 141,
-        "type": "Dare",
-        "text": "Let someone smell your neck. 👃"
-    },
-    {
-        "id": 142,
-        "type": "Dare",
-        "text": "Drag your finger down someone's arm slowly. 💅"
-    },
-    {
-        "id": 143,
-        "type": "Dare",
-        "text": "Tell the group what turns you on most. 🔥"
-    },
-    {
-        "id": 144,
-        "type": "Dare",
-        "text": "Pretend to strip (keep clothes on!). 👯"
-    },
-    {
-        "id": 145,
-        "type": "Dare",
-        "text": "Massage the person on your left's head. 💆"
-    },
-    {
-        "id": 146,
-        "type": "Dare",
-        "text": "Send a random 'I want you' text to a number the group chooses. 📩"
-    },
-    {
-        "id": 147,
-        "type": "Dare",
-        "text": "Use a pickup line on the person to your right. 🗣️"
-    },
-    {
-        "id": 148,
-        "type": "Dare",
-        "text": "Dance close to someone without touching them. 💃"
-    },
-    {
-        "id": 149,
-        "type": "Dare",
-        "text": "Put your hand in someone's pocket for 1 minute. 👖"
-    },
-    {
-        "id": 150,
-        "type": "Dare",
-        "text": "Make suggestive noises for 10 seconds. 🔊"
-    },
-    {
-        "id": 151,
-        "type": "Dare",
-        "text": "Let someone redo your hair... badly. 💇"
-    },
-    {
-        "id": 152,
-        "type": "Dare",
-        "text": "Try to remove a sock using only your teeth. 🦷"
-    },
-    {
-        "id": 153,
-        "type": "Dare",
-        "text": "Read the last text from your mom in a sexy voice. 👩"
-    },
-    {
-        "id": 154,
-        "type": "Dare",
-        "text": "Do a cat-walk and pose at the end. 🐈"
-    },
-    {
-        "id": 155,
-        "type": "Dare",
-        "text": "Kiss the back of someone's hand. 🤴"
-    },
-    {
-        "id": 156,
-        "type": "Dare",
-        "text": "Let someone sit on your back while you do a plank. 🧱"
-    },
-    {
-        "id": 157,
-        "type": "Dare",
-        "text": "Bite your lip and look at the person across from you. 👁️"
-    },
-    {
-        "id": 158,
-        "type": "Dare",
-        "text": "Let someone give you a temporary tattoo with a pen. 🖊️"
-    },
-    {
-        "id": 159,
-        "type": "Dare",
-        "text": "Wear your underwear over your pants for one round. 🦸"
-    },
-    {
-        "id": 160,
-        "type": "Dare",
-        "text": "Try to unbutton a shirt (yours or dummy) with one hand. 👔"
-    },
-    {
-        "id": 161,
-        "type": "Dare",
-        "text": "Allow someone to feed you a snack. 🍇"
-    },
-    {
-        "id": 162,
-        "type": "Dare",
-        "text": "Whisper the lyrics of a sexy song. 🎶"
-    },
-    {
-        "id": 163,
-        "type": "Dare",
-        "text": "Pretend to seduce a chair. 🪑"
-    },
-    {
-        "id": 164,
-        "type": "Dare",
-        "text": "Let the person to your right control your phone for 1 min. 📱"
-    },
-    {
-        "id": 165,
-        "type": "Dare",
-        "text": "Describe your underwear in detail. 👙"
-    },
-    {
-        "id": 166,
-        "type": "Dare",
-        "text": "Stand close to someone and stare into their eyes. 👀"
-    },
-    {
-        "id": 167,
-        "type": "Dare",
-        "text": "Pose for a 'sexy' picture taken by the group. 📸"
-    },
-    {
-        "id": 168,
-        "type": "Dare",
-        "text": "Give a shoulder rub to the stressed person in the room. 💆‍♂️"
-    },
-    {
-        "id": 169,
-        "type": "Dare",
-        "text": "Allow someone to look through your liked posts on Insta. ❤️"
-    },
-    {
-        "id": 170,
-        "type": "Dare",
-        "text": "Do a suggestive stretch. 🙆"
-    },
-    {
-        "id": 171,
-        "type": "Dare",
-        "text": "Let someone trace a word on your back and guess it. ✍️"
-    },
-    {
-        "id": 172,
-        "type": "Dare",
-        "text": "Eat a piece of fruit without using hands. 🍎"
-    },
-    {
-        "id": 173,
-        "type": "Dare",
-        "text": "Pretend to be a provocative model. 💃"
-    },
-    {
-        "id": 174,
-        "type": "Dare",
-        "text": "Blow in someone's ear gently. 🌬️"
-    },
-    {
-        "id": 175,
-        "type": "Dare",
-        "text": "Hold a sexy pose for 30 seconds. 🗿"
-    },
-    {
-        "id": 176,
-        "type": "Dare",
-        "text": "Let someone guess your bra/underwear size. 📏"
-    },
-    {
-        "id": 177,
-        "type": "Dare",
-        "text": "Kiss a mirror and leave a mark (if lipstick). 💋"
-    },
-    {
-        "id": 178,
-        "type": "Dare",
-        "text": "Rub your stomach and pat your head sexily. 🤪"
-    },
-    {
-        "id": 179,
-        "type": "Dare",
-        "text": "Let someone change your relationship status on FB for 1 hr. 💍"
-    },
-    {
-        "id": 180,
-        "type": "Dare",
-        "text": "Call your ex and hang up immediately. 📵"
-    },
-    {
-        "id": 181,
-        "type": "Dare",
-        "text": "Sit in your underwear (if comfortable) for one round. 🩲"
-    },
-    {
-        "id": 182,
-        "type": "Dare",
-        "text": "Ask a stranger (or friend via text) for a kiss. 😚"
-    },
-    {
-        "id": 183,
-        "type": "Dare",
-        "text": "Let someone investigate your pockets. 🧥"
-    },
-    {
-        "id": 184,
-        "type": "Dare",
-        "text": "Try to take off a sock with the other foot. 🦶"
-    },
-    {
-        "id": 185,
-        "type": "Dare",
-        "text": "Drink water from a glass without hands. 🥛"
-    },
-    {
-        "id": 186,
-        "type": "Dare",
-        "text": "Let someone write a fake number on your hand. 🔢"
-    },
-    {
-        "id": 187,
-        "type": "Dare",
-        "text": "Do a belly dance. 💃"
-    },
-    {
-        "id": 188,
-        "type": "Dare",
-        "text": "Act like a wild animal in heat for 10 seconds. 🐯"
-    },
-    {
-        "id": 189,
-        "type": "Dare",
-        "text": "Let someone take a selfie with you making a kiss face. 🤳"
-    },
-    {
-        "id": 190,
-        "type": "Dare",
-        "text": "Put your legs on someone's lap. 🦵"
-    },
-    {
-        "id": 191,
-        "type": "Dare",
-        "text": "Let someone inspect your teeth. 🦷"
-    },
-    {
-        "id": 192,
-        "type": "Dare",
-        "text": "Pretend to make out with your hand. 🤚"
-    },
-    {
-        "id": 193,
-        "type": "Dare",
-        "text": "Give a compliment about someone's body (respectfully). 💪"
-    },
-    {
-        "id": 194,
-        "type": "Dare",
-        "text": "Try to button your shirt with your teeth. 🦷"
-    },
-    {
-        "id": 195,
-        "type": "Dare",
-        "text": "Share your wildest fantasy out loud. 🏰"
-    },
-    {
-        "id": 196,
-        "type": "Dare",
-        "text": "Let someone blindfold you for 2 minutes. 🕶️"
-    },
-    {
-        "id": 197,
-        "type": "Dare",
-        "text": "Do a suggestive wink at every player. 😉"
-    },
-    {
-        "id": 198,
-        "type": "Dare",
-        "text": "Try to put your foot behind your head. 🤸"
-    },
-    {
-        "id": 199,
-        "type": "Dare",
-        "text": "Let someone draw a mustache on you. 👨"
-    },
-    {
-        "id": 200,
-        "type": "Dare",
-        "text": "End the game with a group hug (naked?? jk). 🤗"
-    }
+{"id":1,"type":"Truth","text":"What was the first thing about your partner that instantly attracted you? 🔥"},
+{"id":2,"type":"Truth","text":"When did you first realize you had strong chemistry with your partner? 😏"},
+{"id":3,"type":"Truth","text":"What small thing your partner does secretly drives you crazy in a good way? 😉"},
+{"id":4,"type":"Truth","text":"What romantic moment with your partner still gives you butterflies? 🦋"},
+{"id":5,"type":"Truth","text":"What playful habit of your partner do you find irresistible? 😈"},
+{"id":6,"type":"Truth","text":"What compliment from your partner makes you blush the most? 😳"},
+{"id":7,"type":"Truth","text":"What is the most romantic thing your partner has ever done for you? ❤️"},
+{"id":8,"type":"Truth","text":"What moment made you realize you were deeply attracted to your partner? 🔥"},
+{"id":9,"type":"Truth","text":"What is your partner’s most charming quality? ✨"},
+{"id":10,"type":"Truth","text":"What playful teasing from your partner do you secretly enjoy? 😏"},
+{"id":11,"type":"Truth","text":"What moment with your partner felt like a movie scene? 🎬"},
+{"id":12,"type":"Truth","text":"What is your partner’s most attractive feature? 👀"},
+{"id":13,"type":"Truth","text":"What romantic gesture from your partner surprised you the most? 🌹"},
+{"id":14,"type":"Truth","text":"What habit of your partner do you secretly adore? 😊"},
+{"id":15,"type":"Truth","text":"What memory with your partner instantly makes you smile? 😄"},
+{"id":16,"type":"Truth","text":"What quality of your partner makes them irresistible? 😈"},
+{"id":17,"type":"Truth","text":"What romantic place would you love to visit together? 🌍"},
+{"id":18,"type":"Truth","text":"What playful moment between you two do you remember clearly? 😉"},
+{"id":19,"type":"Truth","text":"What is the sweetest message your partner ever sent you? 📱"},
+{"id":20,"type":"Truth","text":"What moment with your partner felt magical? ✨"},
+{"id":21,"type":"Truth","text":"What playful nickname would you give your partner? 😄"},
+{"id":22,"type":"Truth","text":"What habit of your partner makes you laugh? 😂"},
+{"id":23,"type":"Truth","text":"What romantic memory do you replay in your mind often? 💭"},
+{"id":24,"type":"Truth","text":"What quality of your partner makes you feel lucky? 🍀"},
+{"id":25,"type":"Truth","text":"What adventure would you love to take together someday? 🌍"},
+{"id":26,"type":"Truth","text":"What moment made you proud of your partner? ⭐"},
+{"id":27,"type":"Truth","text":"What playful thing do you enjoy doing with your partner? 😉"},
+{"id":28,"type":"Truth","text":"What small habit of your partner feels adorable? 😊"},
+{"id":29,"type":"Truth","text":"What moment made you admire your partner deeply? ❤️"},
+{"id":30,"type":"Truth","text":"What romantic surprise would make you speechless? 😳"},
+{"id":31,"type":"Truth","text":"What is the most comforting thing your partner does? 🤗"},
+{"id":32,"type":"Truth","text":"What moment made you laugh the hardest together? 😂"},
+{"id":33,"type":"Truth","text":"What quality of your partner inspires you? ✨"},
+{"id":34,"type":"Truth","text":"What romantic scene reminds you of your relationship? 🎬"},
+{"id":35,"type":"Truth","text":"What playful habit of your partner makes you smile? 😄"},
+{"id":36,"type":"Truth","text":"What memory with your partner feels priceless? 💎"},
+{"id":37,"type":"Truth","text":"What moment made you realize your partner understands you? ❤️"},
+{"id":38,"type":"Truth","text":"What habit of your partner shows they care deeply? 💕"},
+{"id":39,"type":"Truth","text":"What playful activity do you both enjoy together? 😄"},
+{"id":40,"type":"Truth","text":"What moment with your partner made you happiest? 😊"},
+{"id":41,"type":"Truth","text":"What song reminds you of your partner? 🎶"},
+{"id":42,"type":"Truth","text":"What moment made you admire your partner's kindness? 🤗"},
+{"id":43,"type":"Truth","text":"What playful joke between you two never gets old? 😂"},
+{"id":44,"type":"Truth","text":"What romantic memory makes you nostalgic? 💭"},
+{"id":45,"type":"Truth","text":"What quality of your partner makes them unique? ⭐"},
+{"id":46,"type":"Truth","text":"What moment made you realize your partner supports you? ❤️"},
+{"id":47,"type":"Truth","text":"What playful thing your partner does feels adorable? 😊"},
+{"id":48,"type":"Truth","text":"What moment made you emotional with your partner? 😢"},
+{"id":49,"type":"Truth","text":"What habit of your partner do you admire? ✨"},
+{"id":50,"type":"Truth","text":"What romantic gesture from your partner touched your heart? ❤️"},
+{"id":51,"type":"Truth","text":"What quality makes your partner unforgettable? 🔥"},
+{"id":52,"type":"Truth","text":"What playful memory with your partner do you love most? 😄"},
+{"id":53,"type":"Truth","text":"What habit of your partner comforts you the most? 🤗"},
+{"id":54,"type":"Truth","text":"What moment with your partner felt unforgettable? ✨"},
+{"id":55,"type":"Truth","text":"What romantic place reminds you of your partner? 🌙"},
+{"id":56,"type":"Truth","text":"What playful activity makes you laugh together? 😂"},
+{"id":57,"type":"Truth","text":"What moment made you feel deeply connected? ❤️"},
+{"id":58,"type":"Truth","text":"What habit of your partner feels adorable? 😊"},
+{"id":59,"type":"Truth","text":"What memory with your partner feels magical? ✨"},
+{"id":60,"type":"Truth","text":"What quality of your partner makes you feel secure? 🔐"},
+{"id":61,"type":"Truth","text":"What playful moment still makes you smile? 😄"},
+{"id":62,"type":"Truth","text":"What romantic surprise would you love someday? 🌹"},
+{"id":63,"type":"Truth","text":"What moment made you admire your partner the most? ⭐"},
+{"id":64,"type":"Truth","text":"What playful joke between you two is unforgettable? 😂"},
+{"id":65,"type":"Truth","text":"What memory with your partner feels precious? 💎"},
+{"id":66,"type":"Truth","text":"What habit of your partner makes you feel loved? ❤️"},
+{"id":67,"type":"Truth","text":"What playful activity makes your bond stronger? 😄"},
+{"id":68,"type":"Truth","text":"What romantic moment felt special? 🌹"},
+{"id":69,"type":"Truth","text":"What quality of your partner makes them charming? 😏"},
+{"id":70,"type":"Truth","text":"What moment made you feel grateful for your partner? ❤️"},
+{"id":71,"type":"Truth","text":"What playful moment made you laugh uncontrollably? 😂"},
+{"id":72,"type":"Truth","text":"What romantic memory feels unforgettable? 💭"},
+{"id":73,"type":"Truth","text":"What habit of your partner feels comforting? 🤗"},
+{"id":74,"type":"Truth","text":"What moment made you admire their strength? 💪"},
+{"id":75,"type":"Truth","text":"What playful thing you both enjoy most? 😄"},
+{"id":76,"type":"Truth","text":"What romantic moment made you smile all day? 😊"},
+{"id":77,"type":"Truth","text":"What quality of your partner feels inspiring? ✨"},
+{"id":78,"type":"Truth","text":"What memory with your partner is unforgettable? 💎"},
+{"id":79,"type":"Truth","text":"What playful moment do you replay often? 😂"},
+{"id":80,"type":"Truth","text":"What habit of your partner makes you happy? 😊"},
+{"id":81,"type":"Truth","text":"What moment made you admire your partner’s humor? 😄"},
+{"id":82,"type":"Truth","text":"What romantic memory makes you blush? 😳"},
+{"id":83,"type":"Truth","text":"What quality of your partner feels special? ⭐"},
+{"id":84,"type":"Truth","text":"What playful thing do you both enjoy secretly? 😉"},
+{"id":85,"type":"Truth","text":"What moment made you feel lucky to have your partner? 🍀"},
+{"id":86,"type":"Truth","text":"What habit of your partner makes you smile instantly? 😊"},
+{"id":87,"type":"Truth","text":"What memory with your partner feels magical? ✨"},
+{"id":88,"type":"Truth","text":"What playful moment makes you laugh most? 😂"},
+{"id":89,"type":"Truth","text":"What romantic moment made your heart race? 🔥"},
+{"id":90,"type":"Truth","text":"What quality of your partner makes them amazing? ⭐"},
+{"id":91,"type":"Truth","text":"What playful memory still makes you laugh? 😂"},
+{"id":92,"type":"Truth","text":"What romantic moment made you emotional? ❤️"},
+{"id":93,"type":"Truth","text":"What habit of your partner makes you proud? ⭐"},
+{"id":94,"type":"Truth","text":"What playful thing you both enjoy often? 😄"},
+{"id":95,"type":"Truth","text":"What moment made you feel deeply loved? ❤️"},
+{"id":96,"type":"Truth","text":"What memory with your partner feels unforgettable? 💎"},
+{"id":97,"type":"Truth","text":"What playful moment made you smile today? 😊"},
+{"id":98,"type":"Truth","text":"What romantic moment felt magical? 🌹"},
+{"id":99,"type":"Truth","text":"What quality of your partner do you admire most? ✨"},
+{"id":100,"type":"Truth","text":"What moment made you happiest with your partner? 😊"},
+
+{"id":101,"type":"Truth","text":"What is one moment with your partner that made your heart race unexpectedly? 🔥"},
+{"id":102,"type":"Truth","text":"What is the most attractive habit your partner has without realizing it? 😏"},
+{"id":103,"type":"Truth","text":"What playful thing does your partner do that instantly changes your mood? 😉"},
+{"id":104,"type":"Truth","text":"What romantic memory with your partner feels unforgettable? 💭"},
+{"id":105,"type":"Truth","text":"What moment with your partner made you blush unexpectedly? 😳"},
+{"id":106,"type":"Truth","text":"What quality of your partner do you find dangerously charming? 😈"},
+{"id":107,"type":"Truth","text":"What small thing your partner says always makes you smile? 😊"},
+{"id":108,"type":"Truth","text":"What memory with your partner makes you feel lucky? 🍀"},
+{"id":109,"type":"Truth","text":"What playful moment with your partner made you laugh the most? 😂"},
+{"id":110,"type":"Truth","text":"What is your partner’s most captivating feature to you? 👀"},
+{"id":111,"type":"Truth","text":"What romantic moment with your partner made you feel deeply connected? ❤️"},
+{"id":112,"type":"Truth","text":"What habit of your partner makes them irresistible to you? 🔥"},
+{"id":113,"type":"Truth","text":"What is your favorite late-night memory with your partner? 🌙"},
+{"id":114,"type":"Truth","text":"What moment made you admire your partner more than ever? ⭐"},
+{"id":115,"type":"Truth","text":"What playful teasing between you two feels exciting? 😉"},
+{"id":116,"type":"Truth","text":"What quality of your partner feels magnetic to you? ✨"},
+{"id":117,"type":"Truth","text":"What memory with your partner feels magical every time you recall it? 🌟"},
+{"id":118,"type":"Truth","text":"What romantic gesture from your partner surprised you the most? 🌹"},
+{"id":119,"type":"Truth","text":"What moment made you realize your partner understands you deeply? ❤️"},
+{"id":120,"type":"Truth","text":"What playful habit of your partner makes you laugh instantly? 😂"},
+{"id":121,"type":"Truth","text":"What romantic situation with your partner feels like a dream? 💭"},
+{"id":122,"type":"Truth","text":"What habit of your partner makes you feel safe and secure? 🔐"},
+{"id":123,"type":"Truth","text":"What playful activity do you enjoy doing together the most? 😄"},
+{"id":124,"type":"Truth","text":"What moment made you realize your partner is truly special? ⭐"},
+{"id":125,"type":"Truth","text":"What memory with your partner always lifts your mood? 😊"},
+{"id":126,"type":"Truth","text":"What quality of your partner feels most inspiring to you? ✨"},
+{"id":127,"type":"Truth","text":"What playful moment between you two felt unforgettable? 😄"},
+{"id":128,"type":"Truth","text":"What romantic moment made you feel deeply loved? ❤️"},
+{"id":129,"type":"Truth","text":"What habit of your partner makes you admire them more? 🌟"},
+{"id":130,"type":"Truth","text":"What playful joke between you two never gets old? 😂"},
+{"id":131,"type":"Truth","text":"What romantic moment made you smile the entire day? 😊"},
+{"id":132,"type":"Truth","text":"What habit of your partner do you secretly find adorable? 😏"},
+{"id":133,"type":"Truth","text":"What moment made you feel emotionally close to your partner? ❤️"},
+{"id":134,"type":"Truth","text":"What playful moment made you both laugh uncontrollably? 😂"},
+{"id":135,"type":"Truth","text":"What quality of your partner makes them unforgettable? ⭐"},
+{"id":136,"type":"Truth","text":"What memory with your partner feels like a movie scene? 🎬"},
+{"id":137,"type":"Truth","text":"What romantic gesture from your partner made your day brighter? 🌹"},
+{"id":138,"type":"Truth","text":"What habit of your partner comforts you the most? 🤗"},
+{"id":139,"type":"Truth","text":"What playful activity do you wish you did more often together? 😉"},
+{"id":140,"type":"Truth","text":"What moment made you appreciate your partner deeply? ❤️"},
+{"id":141,"type":"Truth","text":"What romantic memory feels priceless to you? 💎"},
+{"id":142,"type":"Truth","text":"What habit of your partner makes them stand out? ⭐"},
+{"id":143,"type":"Truth","text":"What playful moment makes you laugh every time you remember it? 😂"},
+{"id":144,"type":"Truth","text":"What quality of your partner makes you admire them most? ✨"},
+{"id":145,"type":"Truth","text":"What romantic moment made your heart skip a beat? 💓"},
+{"id":146,"type":"Truth","text":"What habit of your partner feels comforting during tough times? 🤗"},
+{"id":147,"type":"Truth","text":"What playful thing your partner does that makes you blush? 😳"},
+{"id":148,"type":"Truth","text":"What moment with your partner made you feel proud of them? ⭐"},
+{"id":149,"type":"Truth","text":"What romantic memory feels magical to recall? 🌙"},
+{"id":150,"type":"Truth","text":"What habit of your partner makes you smile instantly? 😊"},
+{"id":151,"type":"Truth","text":"What playful thing between you two feels exciting? 😏"},
+{"id":152,"type":"Truth","text":"What moment made you realize you deeply trust your partner? 🔐"},
+{"id":153,"type":"Truth","text":"What romantic moment made you emotional in a good way? ❤️"},
+{"id":154,"type":"Truth","text":"What habit of your partner shows they care deeply? 💕"},
+{"id":155,"type":"Truth","text":"What playful activity strengthens your bond the most? 😄"},
+{"id":156,"type":"Truth","text":"What memory with your partner feels unforgettable? 💭"},
+{"id":157,"type":"Truth","text":"What romantic moment felt like pure happiness? 😊"},
+{"id":158,"type":"Truth","text":"What habit of your partner feels charming to you? ✨"},
+{"id":159,"type":"Truth","text":"What playful joke makes you both laugh instantly? 😂"},
+{"id":160,"type":"Truth","text":"What moment made you feel grateful for your partner? ❤️"},
+{"id":161,"type":"Truth","text":"What romantic moment with your partner made you blush? 😳"},
+{"id":162,"type":"Truth","text":"What habit of your partner makes them attractive to you? 🔥"},
+{"id":163,"type":"Truth","text":"What playful moment made you laugh unexpectedly? 😂"},
+{"id":164,"type":"Truth","text":"What quality of your partner makes them charming? ✨"},
+{"id":165,"type":"Truth","text":"What romantic moment made your day unforgettable? 🌹"},
+{"id":166,"type":"Truth","text":"What habit of your partner makes you admire them? ⭐"},
+{"id":167,"type":"Truth","text":"What playful activity makes your relationship fun? 😄"},
+{"id":168,"type":"Truth","text":"What moment made you feel emotionally close to your partner? ❤️"},
+{"id":169,"type":"Truth","text":"What romantic moment made you happiest recently? 😊"},
+{"id":170,"type":"Truth","text":"What habit of your partner do you secretly adore? 😏"},
+{"id":171,"type":"Truth","text":"What playful moment made you both laugh today? 😂"},
+{"id":172,"type":"Truth","text":"What romantic memory feels unforgettable? 💭"},
+{"id":173,"type":"Truth","text":"What habit of your partner makes them unique? ⭐"},
+{"id":174,"type":"Truth","text":"What moment made you admire your partner's personality? ✨"},
+{"id":175,"type":"Truth","text":"What playful thing makes your relationship exciting? 😉"},
+{"id":176,"type":"Truth","text":"What romantic moment made you smile endlessly? 😊"},
+{"id":177,"type":"Truth","text":"What habit of your partner shows their affection clearly? ❤️"},
+{"id":178,"type":"Truth","text":"What playful joke between you two is unforgettable? 😂"},
+{"id":179,"type":"Truth","text":"What moment made you realize your partner truly cares? ❤️"},
+{"id":180,"type":"Truth","text":"What romantic moment felt magical recently? 🌙"},
+{"id":181,"type":"Truth","text":"What habit of your partner makes them adorable? 😊"},
+{"id":182,"type":"Truth","text":"What playful moment made you laugh uncontrollably? 😂"},
+{"id":183,"type":"Truth","text":"What romantic memory with your partner feels priceless? 💎"},
+{"id":184,"type":"Truth","text":"What habit of your partner makes you proud? ⭐"},
+{"id":185,"type":"Truth","text":"What playful activity do you enjoy doing together? 😄"},
+{"id":186,"type":"Truth","text":"What romantic moment made you feel lucky? 🍀"},
+{"id":187,"type":"Truth","text":"What habit of your partner comforts you emotionally? 🤗"},
+{"id":188,"type":"Truth","text":"What playful moment made you smile today? 😊"},
+{"id":189,"type":"Truth","text":"What romantic memory feels unforgettable? 💭"},
+{"id":190,"type":"Truth","text":"What habit of your partner makes them irresistible? 🔥"},
+{"id":191,"type":"Truth","text":"What playful joke makes you both laugh often? 😂"},
+{"id":192,"type":"Truth","text":"What romantic moment made you feel loved deeply? ❤️"},
+{"id":193,"type":"Truth","text":"What habit of your partner feels magical to you? ✨"},
+{"id":194,"type":"Truth","text":"What playful moment made you laugh yesterday? 😂"},
+{"id":195,"type":"Truth","text":"What romantic moment made your heart warm? ❤️"},
+{"id":196,"type":"Truth","text":"What habit of your partner makes you admire them most? ⭐"},
+{"id":197,"type":"Truth","text":"What playful moment between you two felt unforgettable? 😄"},
+{"id":198,"type":"Truth","text":"What romantic memory feels special to you? 🌹"},
+{"id":199,"type":"Truth","text":"What habit of your partner makes you smile every day? 😊"},
+{"id":200,"type":"Truth","text":"What moment made you happiest with your partner recently? ❤️"},
+
+{"id":201,"type":"Truth","text":"What moment with your partner made you feel unexpectedly excited? 🔥"},
+{"id":202,"type":"Truth","text":"What quality of your partner makes you feel drawn to them every day? ✨"},
+{"id":203,"type":"Truth","text":"What playful moment with your partner made you laugh uncontrollably? 😂"},
+{"id":204,"type":"Truth","text":"What romantic memory with your partner feels magical? 🌙"},
+{"id":205,"type":"Truth","text":"What habit of your partner do you secretly admire the most? ⭐"},
+{"id":206,"type":"Truth","text":"What small thing your partner does instantly improves your mood? 😊"},
+{"id":207,"type":"Truth","text":"What romantic gesture from your partner made you feel deeply loved? ❤️"},
+{"id":208,"type":"Truth","text":"What moment made you realize how special your partner is to you? 💫"},
+{"id":209,"type":"Truth","text":"What playful teasing between you two feels exciting? 😉"},
+{"id":210,"type":"Truth","text":"What memory with your partner makes you smile instantly? 😄"},
+{"id":211,"type":"Truth","text":"What romantic moment made your heart race recently? 💓"},
+{"id":212,"type":"Truth","text":"What habit of your partner makes them irresistible to you? 🔥"},
+{"id":213,"type":"Truth","text":"What playful activity do you enjoy doing together the most? 😄"},
+{"id":214,"type":"Truth","text":"What moment made you feel emotionally connected to your partner? ❤️"},
+{"id":215,"type":"Truth","text":"What romantic surprise from your partner would make you happiest? 🌹"},
+{"id":216,"type":"Truth","text":"What habit of your partner makes you laugh unexpectedly? 😂"},
+{"id":217,"type":"Truth","text":"What playful moment between you two feels unforgettable? 😏"},
+{"id":218,"type":"Truth","text":"What romantic place would you love to visit together someday? 🌍"},
+{"id":219,"type":"Truth","text":"What quality of your partner feels most comforting to you? 🤗"},
+{"id":220,"type":"Truth","text":"What moment made you admire your partner deeply? ⭐"},
+{"id":221,"type":"Truth","text":"What playful joke between you two never fails to make you laugh? 😂"},
+{"id":222,"type":"Truth","text":"What romantic memory feels priceless to you? 💎"},
+{"id":223,"type":"Truth","text":"What habit of your partner shows their affection clearly? ❤️"},
+{"id":224,"type":"Truth","text":"What playful moment made you blush recently? 😳"},
+{"id":225,"type":"Truth","text":"What quality of your partner makes them unforgettable? ✨"},
+{"id":226,"type":"Truth","text":"What romantic moment made you feel lucky to have them? 🍀"},
+{"id":227,"type":"Truth","text":"What habit of your partner comforts you when you feel stressed? 🤗"},
+{"id":228,"type":"Truth","text":"What playful activity brings you closer together? 😄"},
+{"id":229,"type":"Truth","text":"What moment made you feel proud of your partner? ⭐"},
+{"id":230,"type":"Truth","text":"What romantic memory makes you nostalgic? 💭"},
+{"id":231,"type":"Truth","text":"What habit of your partner makes them charming? 😏"},
+{"id":232,"type":"Truth","text":"What playful moment made you laugh the most this week? 😂"},
+{"id":233,"type":"Truth","text":"What romantic gesture from your partner felt magical? 🌙"},
+{"id":234,"type":"Truth","text":"What quality of your partner inspires you daily? ✨"},
+{"id":235,"type":"Truth","text":"What moment made you appreciate your partner deeply? ❤️"},
+{"id":236,"type":"Truth","text":"What playful thing your partner does that you secretly enjoy? 😉"},
+{"id":237,"type":"Truth","text":"What romantic moment felt unforgettable recently? 🌹"},
+{"id":238,"type":"Truth","text":"What habit of your partner makes them unique? ⭐"},
+{"id":239,"type":"Truth","text":"What playful joke between you two is unforgettable? 😂"},
+{"id":240,"type":"Truth","text":"What romantic memory makes you smile every time you remember it? 😊"},
+{"id":241,"type":"Truth","text":"What habit of your partner makes them adorable? 😊"},
+{"id":242,"type":"Truth","text":"What moment made you feel grateful for your partner? ❤️"},
+{"id":243,"type":"Truth","text":"What playful activity strengthens your bond the most? 😄"},
+{"id":244,"type":"Truth","text":"What romantic moment made your heart warm? ❤️"},
+{"id":245,"type":"Truth","text":"What habit of your partner makes them attractive to you? 🔥"},
+{"id":246,"type":"Truth","text":"What playful moment made you laugh yesterday? 😂"},
+{"id":247,"type":"Truth","text":"What romantic memory feels unforgettable? 💭"},
+{"id":248,"type":"Truth","text":"What quality of your partner makes them stand out? ⭐"},
+{"id":249,"type":"Truth","text":"What moment made you admire your partner's personality? ✨"},
+{"id":250,"type":"Truth","text":"What playful moment made you smile today? 😊"},
+{"id":251,"type":"Truth","text":"What romantic moment felt magical recently? 🌙"},
+{"id":252,"type":"Truth","text":"What habit of your partner comforts you emotionally? 🤗"},
+{"id":253,"type":"Truth","text":"What playful activity makes your relationship fun? 😄"},
+{"id":254,"type":"Truth","text":"What moment made you realize how much you value your partner? ❤️"},
+{"id":255,"type":"Truth","text":"What romantic memory feels priceless to you? 💎"},
+{"id":256,"type":"Truth","text":"What habit of your partner makes you proud? ⭐"},
+{"id":257,"type":"Truth","text":"What playful thing between you two feels exciting? 😉"},
+{"id":258,"type":"Truth","text":"What romantic moment made you happiest recently? 😊"},
+{"id":259,"type":"Truth","text":"What habit of your partner makes them irresistible? 🔥"},
+{"id":260,"type":"Truth","text":"What playful joke makes you both laugh often? 😂"},
+{"id":261,"type":"Truth","text":"What romantic memory makes you blush when you think about it? 😳"},
+{"id":262,"type":"Truth","text":"What quality of your partner makes them charming? ✨"},
+{"id":263,"type":"Truth","text":"What moment made you admire your partner's kindness? ❤️"},
+{"id":264,"type":"Truth","text":"What playful activity do you both secretly enjoy? 😉"},
+{"id":265,"type":"Truth","text":"What romantic moment made your day unforgettable? 🌹"},
+{"id":266,"type":"Truth","text":"What habit of your partner makes them special to you? ⭐"},
+{"id":267,"type":"Truth","text":"What playful moment made you laugh uncontrollably? 😂"},
+{"id":268,"type":"Truth","text":"What romantic memory feels magical? 🌙"},
+{"id":269,"type":"Truth","text":"What habit of your partner makes you smile every day? 😊"},
+{"id":270,"type":"Truth","text":"What moment made you feel deeply loved by your partner? ❤️"},
+{"id":271,"type":"Truth","text":"What playful thing between you two makes your bond stronger? 😄"},
+{"id":272,"type":"Truth","text":"What romantic moment made your heart race unexpectedly? 💓"},
+{"id":273,"type":"Truth","text":"What habit of your partner do you admire most? ⭐"},
+{"id":274,"type":"Truth","text":"What playful joke makes your partner laugh the most? 😂"},
+{"id":275,"type":"Truth","text":"What romantic memory makes you feel nostalgic? 💭"},
+{"id":276,"type":"Truth","text":"What habit of your partner makes them adorable to you? 😊"},
+{"id":277,"type":"Truth","text":"What playful activity do you both enjoy together? 😄"},
+{"id":278,"type":"Truth","text":"What moment made you feel emotionally close to your partner? ❤️"},
+{"id":279,"type":"Truth","text":"What romantic memory feels unforgettable? 💎"},
+{"id":280,"type":"Truth","text":"What habit of your partner makes you admire them deeply? ✨"},
+{"id":281,"type":"Truth","text":"What playful moment made you laugh unexpectedly? 😂"},
+{"id":282,"type":"Truth","text":"What romantic moment made you feel lucky recently? 🍀"},
+{"id":283,"type":"Truth","text":"What habit of your partner comforts you the most? 🤗"},
+{"id":284,"type":"Truth","text":"What playful thing between you two makes your relationship exciting? 😉"},
+{"id":285,"type":"Truth","text":"What romantic moment made you happiest this month? 😊"},
+{"id":286,"type":"Truth","text":"What habit of your partner makes them irresistible? 🔥"},
+{"id":287,"type":"Truth","text":"What playful moment made you smile today? 😄"},
+{"id":288,"type":"Truth","text":"What romantic memory makes you feel warm inside? ❤️"},
+{"id":289,"type":"Truth","text":"What habit of your partner makes you admire them? ⭐"},
+{"id":290,"type":"Truth","text":"What playful joke between you two never gets old? 😂"},
+{"id":291,"type":"Truth","text":"What romantic moment made you blush recently? 😳"},
+{"id":292,"type":"Truth","text":"What habit of your partner makes them special to you? ⭐"},
+{"id":293,"type":"Truth","text":"What playful activity do you love doing together? 😄"},
+{"id":294,"type":"Truth","text":"What romantic memory makes you feel grateful? ❤️"},
+{"id":295,"type":"Truth","text":"What habit of your partner makes them adorable? 😊"},
+{"id":296,"type":"Truth","text":"What playful moment made you laugh this week? 😂"},
+{"id":297,"type":"Truth","text":"What romantic moment made you feel deeply connected? ❤️"},
+{"id":298,"type":"Truth","text":"What habit of your partner inspires you? ✨"},
+{"id":299,"type":"Truth","text":"What playful thing between you two makes your relationship fun? 😉"},
+{"id":300,"type":"Truth","text":"What moment made you happiest with your partner recently? 😊"},
+
+
+{"id":400,"type":"Dare","text":"Send a flirty emoji to the last person you chatted with. 😏"},
+{"id":401,"type":"Dare","text":"Compliment the most attractive person in this room in a confident way. 🔥"},
+{"id":402,"type":"Dare","text":"Maintain intense eye contact with a random player for 15 seconds. 👀"},
+{"id":403,"type":"Dare","text":"Give your best seductive wink to someone in the room. 😉"},
+{"id":404,"type":"Dare","text":"Send a bold compliment to someone in your contacts. 📱"},
+{"id":405,"type":"Dare","text":"Do your most confident runway walk across the room. 🚶"},
+{"id":406,"type":"Dare","text":"Tell a stranger in the room they have a charming smile. 😄"},
+{"id":407,"type":"Dare","text":"Do your best flirtatious smile to the camera or room. 😏"},
+{"id":408,"type":"Dare","text":"Whisper a compliment to the player next to you. 🤫"},
+{"id":409,"type":"Dare","text":"Send a playful message to a random friend saying 'Guess what I'm doing right now?' 📲"},
+{"id":410,"type":"Dare","text":"Give a confident introduction to yourself like you're meeting your crush. 🔥"},
+{"id":411,"type":"Dare","text":"Hold hands with the nearest player for the next round. 🤝"},
+{"id":412,"type":"Dare","text":"Do a dramatic slow-motion walk across the room. 🎬"},
+{"id":413,"type":"Dare","text":"Tell the room your most charming pickup line. 😉"},
+{"id":414,"type":"Dare","text":"Smile at a stranger and say something nice about their vibe. ✨"},
+{"id":415,"type":"Dare","text":"Send a voice note saying something playful to a friend. 🎤"},
+{"id":416,"type":"Dare","text":"Give a confident compliment to someone random in the room. 🔥"},
+{"id":417,"type":"Dare","text":"Do your best movie-style flirting scene. 🎬"},
+{"id":418,"type":"Dare","text":"Pretend you're introducing your crush to the group. 😏"},
+{"id":419,"type":"Dare","text":"Show your best confident pose for 10 seconds. 📸"},
+{"id":420,"type":"Dare","text":"Tell a stranger in the room one thing you admire about them. ⭐"},
+{"id":421,"type":"Dare","text":"Send a mysterious 'thinking of you' text to someone. 💭"},
+{"id":422,"type":"Dare","text":"Walk up to someone and give them a friendly high five. ✋"},
+{"id":423,"type":"Dare","text":"Say the most charming compliment you can think of right now. 😄"},
+{"id":424,"type":"Dare","text":"Do your best dramatic romantic movie line. 🎭"},
+{"id":425,"type":"Dare","text":"Stand confidently and introduce yourself like a celebrity. ⭐"},
+{"id":426,"type":"Dare","text":"Give the player across from you a playful wink. 😉"},
+{"id":427,"type":"Dare","text":"Tell someone in the room they have great energy. ⚡"},
+{"id":428,"type":"Dare","text":"Do your best charming smile for 10 seconds. 😏"},
+{"id":429,"type":"Dare","text":"Send a random compliment text to a friend. 📱"},
+{"id":430,"type":"Dare","text":"Pretend to walk into a room like you're the main character. 🎬"},
+{"id":431,"type":"Dare","text":"Give a playful wave to someone across the room. 👋"},
+{"id":432,"type":"Dare","text":"Say something kind to a stranger nearby. ❤️"},
+{"id":433,"type":"Dare","text":"Tell the group the most confident thing about yourself. 💪"},
+{"id":434,"type":"Dare","text":"Make the most confident eye contact with someone for 10 seconds. 👀"},
+{"id":435,"type":"Dare","text":"Send a playful emoji to someone you haven't texted in a while. 😉"},
+{"id":436,"type":"Dare","text":"Pretend you are flirting in a romantic movie scene. 🎬"},
+{"id":437,"type":"Dare","text":"Give a dramatic compliment to someone nearby. 🌟"},
+{"id":438,"type":"Dare","text":"Walk around like you're on a fashion runway. 👠"},
+{"id":439,"type":"Dare","text":"Say something that would make someone smile right now. 😊"},
+{"id":440,"type":"Dare","text":"Send a 'Hey stranger' text to someone from your contacts. 📱"},
+{"id":441,"type":"Dare","text":"Give the room your most confident smile. 😏"},
+{"id":442,"type":"Dare","text":"Tell someone in the room they look amazing today. 🔥"},
+{"id":443,"type":"Dare","text":"Do a confident spin like you're in a movie. 🎬"},
+{"id":444,"type":"Dare","text":"Say something playful to the nearest stranger. 😉"},
+{"id":445,"type":"Dare","text":"Give a dramatic bow to the room. 🎭"},
+{"id":446,"type":"Dare","text":"Send a friendly message to a random contact. 📲"},
+{"id":447,"type":"Dare","text":"Compliment someone's style in the room. 👕"},
+{"id":448,"type":"Dare","text":"Give a playful wave to the person farthest from you. 👋"},
+{"id":449,"type":"Dare","text":"Show the room your most confident pose. 📸"},
+{"id":450,"type":"Dare","text":"Tell the room one bold thing about yourself. 🔥"},
+{"id":451,"type":"Dare","text":"Pretend you are introducing yourself on a dating show. 🎤"},
+{"id":452,"type":"Dare","text":"Send a smile emoji to someone random in your chat list. 😊"},
+{"id":453,"type":"Dare","text":"Give someone nearby a friendly compliment. ⭐"},
+{"id":454,"type":"Dare","text":"Do a confident turn like you're on stage. 🎭"},
+{"id":455,"type":"Dare","text":"Say something positive about the person next to you. ❤️"},
+{"id":456,"type":"Dare","text":"Give your best mysterious smile to the room. 😏"},
+{"id":457,"type":"Dare","text":"Send a friendly 'Hello' text to someone you haven't talked to recently. 📱"},
+{"id":458,"type":"Dare","text":"Tell someone nearby they seem interesting. 👀"},
+{"id":459,"type":"Dare","text":"Do your best confident wave to the room. 👋"},
+{"id":460,"type":"Dare","text":"Give the person across from you a compliment about their vibe. ✨"},
+{"id":461,"type":"Dare","text":"Send a playful message to a random contact saying 'Hope you're smiling today'. 😊"},
+{"id":462,"type":"Dare","text":"Walk confidently like you just entered a party. 🎉"},
+{"id":463,"type":"Dare","text":"Tell someone nearby they seem fun to talk to. 😄"},
+{"id":464,"type":"Dare","text":"Give your most confident smile for 10 seconds. 😏"},
+{"id":465,"type":"Dare","text":"Say one charming thing about yourself. ⭐"},
+{"id":466,"type":"Dare","text":"Pretend you're greeting your biggest fan. 🎤"},
+{"id":467,"type":"Dare","text":"Send a friendly compliment to someone you know. 📱"},
+{"id":468,"type":"Dare","text":"Give the room a confident wave. 👋"},
+{"id":469,"type":"Dare","text":"Say something playful to the person nearest to you. 😉"},
+{"id":470,"type":"Dare","text":"Show your best confident pose again. 📸"},
+{"id":471,"type":"Dare","text":"Give the person across the room a confident compliment about their vibe. 😏"},
+{"id":472,"type":"Dare","text":"Send a playful 'Hey, what are you doing?' text to a random contact. 📱"},
+{"id":473,"type":"Dare","text":"Hold eye contact with a random player for 20 seconds without laughing. 👀"},
+{"id":474,"type":"Dare","text":"Tell the room your boldest pickup line. 😉"},
+{"id":475,"type":"Dare","text":"Walk up to someone in the room and say they seem interesting. ⭐"},
+{"id":476,"type":"Dare","text":"Give your most confident smile to everyone in the room. 😏"},
+{"id":477,"type":"Dare","text":"Send a random emoji to the last person you texted. 📲"},
+{"id":478,"type":"Dare","text":"Do your best romantic movie line dramatically. 🎬"},
+{"id":479,"type":"Dare","text":"Compliment the style of a random player in the room. 👕"},
+{"id":480,"type":"Dare","text":"Introduce yourself to the room like you're on a dating show. 🎤"},
+{"id":481,"type":"Dare","text":"Give a confident wink to someone in the room. 😉"},
+{"id":482,"type":"Dare","text":"Tell the room one thing that makes you charming. ⭐"},
+{"id":483,"type":"Dare","text":"Send a playful 'Guess what I'm doing right now?' text to a friend. 📱"},
+{"id":484,"type":"Dare","text":"Do a dramatic spin like you're on a stage. 🎭"},
+{"id":485,"type":"Dare","text":"Say something nice about the person next to you. ❤️"},
+{"id":486,"type":"Dare","text":"Give a confident wave to someone across the room. 👋"},
+{"id":487,"type":"Dare","text":"Show your best confident pose for 10 seconds. 📸"},
+{"id":488,"type":"Dare","text":"Tell the person nearest to you they have great energy. ⚡"},
+{"id":489,"type":"Dare","text":"Send a compliment text to someone you haven't spoken to in a while. 📱"},
+{"id":490,"type":"Dare","text":"Walk confidently across the room like you're on a runway. 👠"},
+{"id":491,"type":"Dare","text":"Give the room your most mysterious smile. 😏"},
+{"id":492,"type":"Dare","text":"Tell a random player they seem fun to talk to. 😄"},
+{"id":493,"type":"Dare","text":"Send a simple 'Hi 🙂' text to a random contact. 📲"},
+{"id":494,"type":"Dare","text":"Give the person farthest from you a friendly wave. 👋"},
+{"id":495,"type":"Dare","text":"Say the most charming compliment you can think of. 🌟"},
+{"id":496,"type":"Dare","text":"Pretend you're greeting someone you secretly admire. 😉"},
+{"id":497,"type":"Dare","text":"Give a playful smile to someone across the room. 😊"},
+{"id":498,"type":"Dare","text":"Send a random 'Hope you're having a good day!' text to someone. 📱"},
+{"id":499,"type":"Dare","text":"Stand confidently and introduce yourself like a celebrity. ⭐"},
+{"id":500,"type":"Dare","text":"Give the room a confident bow like the game champion. 🎉"},
+
+
+{"id":501,"type":"Dare","text":"Send a flirty message to your partner describing what you love most about them using only emojis 😏"},
+{"id":502,"type":"Dare","text":"Write a short romantic message to your partner as if you are confessing your feelings for the first time ❤️"},
+{"id":503,"type":"Dare","text":"Send your partner a teasing text that would make them blush 😈"},
+{"id":504,"type":"Dare","text":"Describe your partner in three spicy adjectives in the chat 🔥"},
+{"id":505,"type":"Dare","text":"Send a mysterious message to your partner that builds suspense 😏"},
+{"id":506,"type":"Dare","text":"Write a one-line pickup line for your partner in the chat 😉"},
+{"id":507,"type":"Dare","text":"Send a playful teasing message to your partner pretending you are jealous 😄"},
+{"id":508,"type":"Dare","text":"Write a dramatic love confession message to your partner 💌"},
+{"id":509,"type":"Dare","text":"Send a message telling your partner what you would do on a dream date together 🌙"},
+{"id":510,"type":"Dare","text":"Send your partner a flirty compliment that will make them smile 😊"},
+{"id":511,"type":"Dare","text":"Write a short romantic poem about your partner in the chat ❤️"},
+{"id":512,"type":"Dare","text":"Send a teasing message saying you are secretly thinking about them 😏"},
+{"id":513,"type":"Dare","text":"Describe your partner’s most attractive quality in one sentence 🔥"},
+{"id":514,"type":"Dare","text":"Send a playful message asking your partner for a virtual kiss 💋"},
+{"id":515,"type":"Dare","text":"Write a dramatic movie-style love line for your partner 🎬"},
+{"id":516,"type":"Dare","text":"Send your partner three heart emojis and explain each one 💕"},
+{"id":517,"type":"Dare","text":"Write a sweet compliment about your partner’s personality ✨"},
+{"id":518,"type":"Dare","text":"Send a message describing your favorite memory with your partner 💭"},
+{"id":519,"type":"Dare","text":"Send a playful challenge message to your partner 😈"},
+{"id":520,"type":"Dare","text":"Write a cute nickname for your partner and send it in the chat 😄"},
+{"id":521,"type":"Dare","text":"Send a message telling your partner one thing that always makes you smile 😊"},
+{"id":522,"type":"Dare","text":"Write a short romantic text as if you are missing your partner right now ❤️"},
+{"id":523,"type":"Dare","text":"Send a teasing message pretending you are flirting with your partner for the first time 😉"},
+{"id":524,"type":"Dare","text":"Write a mysterious message hinting at a romantic surprise 🎁"},
+{"id":525,"type":"Dare","text":"Send a message saying what you would whisper to your partner right now 😏"},
+{"id":526,"type":"Dare","text":"Write a dramatic compliment like a movie character 🎬"},
+{"id":527,"type":"Dare","text":"Send a message describing how attractive your partner is 🔥"},
+{"id":528,"type":"Dare","text":"Write a sweet message thanking your partner for something ❤️"},
+{"id":529,"type":"Dare","text":"Send a playful teasing message that ends with a wink emoji 😉"},
+{"id":530,"type":"Dare","text":"Describe your partner using only emojis 😍"},
+{"id":531,"type":"Dare","text":"Send a message saying why your partner is special to you ⭐"},
+{"id":532,"type":"Dare","text":"Write a short romantic story about you and your partner 💭"},
+{"id":533,"type":"Dare","text":"Send a message describing your perfect date together 🌙"},
+{"id":534,"type":"Dare","text":"Write a funny but flirty compliment to your partner 😄"},
+{"id":535,"type":"Dare","text":"Send a message pretending you are meeting your partner for the first time 😉"},
+{"id":536,"type":"Dare","text":"Write a short message saying what makes your partner irresistible 😏"},
+{"id":537,"type":"Dare","text":"Send a sweet message that would make your partner feel loved ❤️"},
+{"id":538,"type":"Dare","text":"Describe your partner in three romantic words ✨"},
+{"id":539,"type":"Dare","text":"Send a teasing message saying you can't stop thinking about them 😈"},
+{"id":540,"type":"Dare","text":"Write a romantic compliment about your partner’s smile 😊"},
+{"id":541,"type":"Dare","text":"Send a playful message asking your partner for a hug 🤗"},
+{"id":542,"type":"Dare","text":"Write a message describing your favorite moment together 💭"},
+{"id":543,"type":"Dare","text":"Send a romantic emoji combo that describes your relationship 💕"},
+{"id":544,"type":"Dare","text":"Write a flirty message that would make your partner laugh 😂"},
+{"id":545,"type":"Dare","text":"Send a message pretending you are writing a love letter 💌"},
+{"id":546,"type":"Dare","text":"Write a message saying what you admire most about your partner ⭐"},
+{"id":547,"type":"Dare","text":"Send a teasing message asking your partner if they miss you 😏"},
+{"id":548,"type":"Dare","text":"Write a dramatic romantic compliment 🔥"},
+{"id":549,"type":"Dare","text":"Send a playful message saying you owe your partner a kiss 💋"},
+{"id":550,"type":"Dare","text":"Write a cute message describing your partner’s charm 😊"},
+{"id":551,"type":"Dare","text":"Send a flirty message ending with three heart emojis ❤️❤️❤️"},
+{"id":552,"type":"Dare","text":"Write a romantic text about your partner’s personality ✨"},
+{"id":553,"type":"Dare","text":"Send a message describing what makes your partner unforgettable 🔥"},
+{"id":554,"type":"Dare","text":"Write a playful message teasing your partner gently 😉"},
+{"id":555,"type":"Dare","text":"Send a sweet message saying how lucky you feel to have them 🍀"},
+{"id":556,"type":"Dare","text":"Write a romantic compliment about your partner’s energy ⚡"},
+{"id":557,"type":"Dare","text":"Send a message saying what you appreciate most about them ❤️"},
+{"id":558,"type":"Dare","text":"Write a playful love confession message 😏"},
+{"id":559,"type":"Dare","text":"Send a message describing your partner in three emojis 😍"},
+{"id":560,"type":"Dare","text":"Write a romantic message imagining a future adventure together 🌍"},
+{"id":561,"type":"Dare","text":"Send a message telling your partner they are irresistible 🔥"},
+{"id":562,"type":"Dare","text":"Write a message saying what makes your partner charming ✨"},
+{"id":563,"type":"Dare","text":"Send a teasing message pretending to compete for their attention 😄"},
+{"id":564,"type":"Dare","text":"Write a sweet message that would make your partner blush 😳"},
+{"id":565,"type":"Dare","text":"Send a playful romantic message using only emojis 😏"},
+{"id":566,"type":"Dare","text":"Write a message saying what moment with them you cherish most 💭"},
+{"id":567,"type":"Dare","text":"Send a romantic message imagining a perfect evening together 🌙"},
+{"id":568,"type":"Dare","text":"Write a playful message challenging your partner to flirt back 😉"},
+{"id":569,"type":"Dare","text":"Send a sweet compliment about your partner’s personality ❤️"},
+{"id":570,"type":"Dare","text":"Write a teasing message asking if your partner can handle your charm 😈"},
+{"id":571,"type":"Dare","text":"Send a message describing how attractive your partner is 😏"},
+{"id":572,"type":"Dare","text":"Write a romantic message about why you love them 💕"},
+{"id":573,"type":"Dare","text":"Send a playful message pretending you are jealous of them 😄"},
+{"id":574,"type":"Dare","text":"Write a message saying what makes your partner magical ✨"},
+{"id":575,"type":"Dare","text":"Send a sweet message about what makes your relationship special ❤️"},
+{"id":576,"type":"Dare","text":"Write a playful romantic compliment 😏"},
+{"id":577,"type":"Dare","text":"Send a message describing your partner’s most charming quality ⭐"},
+{"id":578,"type":"Dare","text":"Write a teasing message about how attractive they are 🔥"},
+{"id":579,"type":"Dare","text":"Send a sweet message saying you miss them ❤️"},
+{"id":580,"type":"Dare","text":"Write a playful message asking for a virtual hug 🤗"},
+{"id":581,"type":"Dare","text":"Send a message saying what makes your partner unforgettable 💎"},
+{"id":582,"type":"Dare","text":"Write a romantic compliment that would make them smile 😊"},
+{"id":583,"type":"Dare","text":"Send a teasing message ending with a wink 😉"},
+{"id":584,"type":"Dare","text":"Write a sweet message about your partner’s kindness ❤️"},
+{"id":585,"type":"Dare","text":"Send a playful romantic message imagining a date together 🌙"},
+{"id":586,"type":"Dare","text":"Write a message saying what makes your partner irresistible 🔥"},
+{"id":587,"type":"Dare","text":"Send a teasing compliment about their charm 😏"},
+{"id":588,"type":"Dare","text":"Write a romantic text saying how lucky you are 🍀"},
+{"id":589,"type":"Dare","text":"Send a sweet message about why you appreciate them ❤️"},
+{"id":590,"type":"Dare","text":"Write a playful message pretending you are flirting for the first time 😉"},
+{"id":591,"type":"Dare","text":"Send a message saying what makes your partner attractive 😏"},
+{"id":592,"type":"Dare","text":"Write a sweet compliment about their personality ❤️"},
+{"id":593,"type":"Dare","text":"Send a playful teasing message ending with a smile 😄"},
+{"id":594,"type":"Dare","text":"Write a romantic message imagining a trip together 🌍"},
+{"id":595,"type":"Dare","text":"Send a sweet message saying you adore them ❤️"},
+{"id":596,"type":"Dare","text":"Write a teasing romantic message 😈"},
+{"id":597,"type":"Dare","text":"Send a playful message describing their charm ✨"},
+{"id":598,"type":"Dare","text":"Write a romantic message about what makes them special ❤️"},
+{"id":599,"type":"Dare","text":"Send a teasing message asking if they miss you 😏"},
+{"id":600,"type":"Dare","text":"Write a sweet message saying your partner makes you happy 😊"}
 ]
+

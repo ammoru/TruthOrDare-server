@@ -2,1001 +2,3001 @@
     {
         "id": 1,
         "type": "Truth",
-        "text": "What is the funniest dream you've ever had? 😂"
+        "text": "Tell us about the funniest thing that happened to you in school, and tell it like a movie trailer. 😂"
     },
     {
         "id": 2,
         "type": "Truth",
-        "text": "If you could swap lives with any cartoon character for a day, who would it be? 🦸‍♂️"
+        "text": "Tell us about your most dramatic snack emergency, using your most serious voice. 🤣"
     },
     {
         "id": 3,
         "type": "Truth",
-        "text": "Have you ever laughed so hard you snorted? 🐷"
+        "text": "Tell us about the weirdest excuse you ever gave, without laughing if possible. 😄"
     },
     {
         "id": 4,
         "type": "Truth",
-        "text": "What is the weirdest thing you've ever eaten? 🐛"
+        "text": "Tell us about your secret goofy dance move, in exactly two short sentences. 😎"
     },
     {
         "id": 5,
         "type": "Truth",
-        "text": "Do you have any strange phobias? 😨"
+        "text": "Tell us about the silliest misunderstanding you have had, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 6,
         "type": "Truth",
-        "text": "What would your superhero name be? 🦸‍♀️"
+        "text": "Tell us about your most chaotic group photo moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 7,
         "type": "Truth",
-        "text": "If you could be any animal, what would you be and why? 🦁"
+        "text": "Tell us about the funniest autocorrect fail in your phone, as if you are a sports commentator. 🙈"
     },
     {
         "id": 8,
         "type": "Truth",
-        "text": "What is the most embarrassing thing you've done in public? 😳"
+        "text": "Tell us about the weirdest food combo you secretly enjoy, and include one tiny life lesson. 🤹"
     },
     {
         "id": 9,
         "type": "Truth",
-        "text": "Do you talk to yourself in the mirror? 🪞"
+        "text": "Tell us about your most embarrassing laugh attack, like a detective solving a mystery. 🌀"
     },
     {
         "id": 10,
         "type": "Truth",
-        "text": "If you were a vegetable, which one would you be? 🥕"
+        "text": "Tell us about the oddest thing you believed as a kid, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 11,
         "type": "Truth",
-        "text": "What is your guilty pleasure TV show? 📺"
+        "text": "Tell us about the funniest nickname you ever had, and tell it like a movie trailer. 😂"
     },
     {
         "id": 12,
         "type": "Truth",
-        "text": "Have you ever walked into a glass door?  दरवाजे"
+        "text": "Tell us about your most random hidden talent, using your most serious voice. 🤣"
     },
     {
         "id": 13,
         "type": "Truth",
-        "text": "What is the worst haircut you've ever had? 💇‍♂️"
+        "text": "Tell us about the strangest reason you were late, without laughing if possible. 😄"
     },
     {
         "id": 14,
         "type": "Truth",
-        "text": "Do you sing in the shower? 🚿"
+        "text": "Tell us about your funniest shopping fail, in exactly two short sentences. 😎"
     },
     {
         "id": 15,
         "type": "Truth",
-        "text": "If you could eat only one food for the rest of your life, what would it be? 🍕"
+        "text": "Tell us about the weirdest dream you still remember, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 16,
         "type": "Truth",
-        "text": "What is the silliest thing you are afraid of? 🎈"
+        "text": "Tell us about your most awkward hello-or-bye moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 17,
         "type": "Truth",
-        "text": "Have you ever peed in a pool? 🏊‍♂️"
+        "text": "Tell us about the funniest safe thing in your search history, as if you are a sports commentator. 🙈"
     },
     {
         "id": 18,
         "type": "Truth",
-        "text": "What is your best dance move? 💃"
+        "text": "Tell us about your most dramatic overreaction story, and include one tiny life lesson. 🤹"
     },
     {
         "id": 19,
         "type": "Truth",
-        "text": "If you had a warning label, what would it say? ⚠️"
+        "text": "Tell us about the silliest thing that made you cry-laugh, like a detective solving a mystery. 🌀"
     },
     {
         "id": 20,
         "type": "Truth",
-        "text": "What is the weirdest nickname you've ever had? 🏷️"
+        "text": "Tell us about the weirdest habit you still have, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 21,
         "type": "Truth",
-        "text": "Do you sleep with a stuffed animal? 🧸"
+        "text": "Tell us about your most chaotic birthday memory, and tell it like a movie trailer. 😂"
     },
     {
         "id": 22,
         "type": "Truth",
-        "text": "If you could have any superpower, what would it be? ✨"
+        "text": "Tell us about the funniest thing you said by mistake, using your most serious voice. 🤣"
     },
     {
         "id": 23,
         "type": "Truth",
-        "text": "What is the funniest joke you know by heart? 🃏"
+        "text": "Tell us about your most confusing haircut era, without laughing if possible. 😄"
     },
     {
         "id": 24,
         "type": "Truth",
-        "text": "Have you ever tripped and fell in front of a crowd? 🤸‍♂️"
+        "text": "Tell us about the most random thing in your bag right now, in exactly two short sentences. 😎"
     },
     {
         "id": 25,
         "type": "Truth",
-        "text": "If you could trade places with someone for a day, who would it be? 🔄"
+        "text": "Tell us about your most iconic fail that became a legend, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 26,
         "type": "Truth",
-        "text": "What is the strangest gift you've ever received? 🎁"
+        "text": "Tell us about the funniest way you got scared, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 27,
         "type": "Truth",
-        "text": "Do you believe in aliens? 👽"
+        "text": "Tell us about your weirdest lucky ritual, as if you are a sports commentator. 🙈"
     },
     {
         "id": 28,
         "type": "Truth",
-        "text": "What is your spirit animal? 🦄"
+        "text": "Tell us about the most useless thing you are weirdly good at, and include one tiny life lesson. 🤹"
     },
     {
         "id": 29,
         "type": "Truth",
-        "text": "Have you ever forgotten someone's name right after meeting them? 📛"
+        "text": "Tell us about your funniest voice-note disaster, like a detective solving a mystery. 🌀"
     },
     {
         "id": 30,
         "type": "Truth",
-        "text": "If you were invisible for a day, what would you do? 👻"
+        "text": "Tell us about the weirdest challenge you accepted, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 31,
         "type": "Truth",
-        "text": "What is the most useless talent you have? 🤹‍♂️"
+        "text": "Tell us about the funniest rumor about you that was false, and tell it like a movie trailer. 😂"
     },
     {
         "id": 32,
         "type": "Truth",
-        "text": "Do you pick your nose? 👃"
+        "text": "Tell us about the most awkward typo you ever sent, using your most serious voice. 🤣"
     },
     {
         "id": 33,
         "type": "Truth",
-        "text": "Have you ever laughed at a funeral? ⚰️"
+        "text": "Tell us about the strangest compliment you ever received, without laughing if possible. 😄"
     },
     {
         "id": 34,
         "type": "Truth",
-        "text": "What is the grossest food you've ever eaten? 🤢"
+        "text": "Tell us about the funniest reason you laughed at the wrong time, in exactly two short sentences. 😎"
     },
     {
         "id": 35,
         "type": "Truth",
-        "text": "If you could live in a movie, which one would it be? 🎬"
+        "text": "Tell us about the most ridiculous thing you once argued about, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 36,
         "type": "Truth",
-        "text": "Have you ever sent a text to the wrong person? 📱"
+        "text": "Tell us about your funniest travel mishap, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 37,
         "type": "Truth",
-        "text": "Do you believe in ghosts? 👻"
+        "text": "Tell us about the weirdest object you have kept for no reason, as if you are a sports commentator. 🙈"
     },
     {
         "id": 38,
         "type": "Truth",
-        "text": "What is your favorite emoji? 😂"
+        "text": "Tell us about the most dramatic way you lost something, and include one tiny life lesson. 🤹"
     },
     {
         "id": 39,
         "type": "Truth",
-        "text": "If you were a flavor, what would you be? 🍦"
+        "text": "Tell us about the funniest thing you did when you were bored, like a detective solving a mystery. 🌀"
     },
     {
         "id": 40,
         "type": "Truth",
-        "text": "What is the longest you've gone without showering? 🚿"
+        "text": "Tell us about the strangest sound you can make, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 41,
         "type": "Truth",
-        "text": "Do you snore? 😴"
+        "text": "Tell us about the most awkward moment in a video call, and tell it like a movie trailer. 😂"
     },
     {
         "id": 42,
         "type": "Truth",
-        "text": "Have you ever lied about your age? 🎂"
+        "text": "Tell us about the funniest misunderstanding with a teacher or boss, using your most serious voice. 🤣"
     },
     {
         "id": 43,
         "type": "Truth",
-        "text": "If you could fly, where would you go first? ✈️"
+        "text": "Tell us about the weirdest thing you have googled at midnight, without laughing if possible. 😄"
     },
     {
         "id": 44,
         "type": "Truth",
-        "text": "What is your biggest pet peeve? 😠"
+        "text": "Tell us about your funniest attempt to look cool, in exactly two short sentences. 😎"
     },
     {
         "id": 45,
         "type": "Truth",
-        "text": "Have you ever cheated on a test? 📝"
+        "text": "Tell us about the most chaotic thing in your room right now, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 46,
         "type": "Truth",
-        "text": "Do you have a secret handshake? 🤝"
+        "text": "Tell us about the funniest thing a friend ever dared you to do, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 47,
         "type": "Truth",
-        "text": "What is the weirdest habit you have? 🤪"
+        "text": "Tell us about the oddest superstition you kind of believe, as if you are a sports commentator. 🙈"
     },
     {
         "id": 48,
         "type": "Truth",
-        "text": "If you could time travel, past or future? ⏳"
+        "text": "Tell us about the funniest fake name you used in a game, and include one tiny life lesson. 🤹"
     },
     {
         "id": 49,
         "type": "Truth",
-        "text": "What is your favorite childhood memory? 🧸"
+        "text": "Tell us about the most awkward moment you had while singing, like a detective solving a mystery. 🌀"
     },
     {
         "id": 50,
         "type": "Truth",
-        "text": "Have you ever gotten stuck in an elevator? 🛗"
+        "text": "Tell us about the funniest way your plan totally failed, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 51,
-        "type": "Dare",
-        "text": "Do your best chicken dance for 30 seconds! 🐔"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing that happened to you in school, and tell it like a movie trailer. 😂"
     },
     {
         "id": 52,
-        "type": "Dare",
-        "text": "Speak in a robot voice for the next 3 turns! 🤖"
+        "type": "Truth",
+        "text": "Tell us about your most dramatic snack emergency, using your most serious voice. 🤣"
     },
     {
         "id": 53,
-        "type": "Dare",
-        "text": "Try to lick your elbow! 💪"
+        "type": "Truth",
+        "text": "Tell us about the weirdest excuse you ever gave, without laughing if possible. 😄"
     },
     {
         "id": 54,
-        "type": "Dare",
-        "text": "Sing everything you say for the next 2 turns! 🎤"
+        "type": "Truth",
+        "text": "Tell us about your secret goofy dance move, in exactly two short sentences. 😎"
     },
     {
         "id": 55,
-        "type": "Dare",
-        "text": "Do 10 jumping jacks while making funny noises. 🤸"
+        "type": "Truth",
+        "text": "Tell us about the silliest misunderstanding you have had, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 56,
-        "type": "Dare",
-        "text": "Walk across the room like a crab. 🦀"
+        "type": "Truth",
+        "text": "Tell us about your most chaotic group photo moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 57,
-        "type": "Dare",
-        "text": "Hold your breath for 20 seconds. ⏱️"
+        "type": "Truth",
+        "text": "Tell us about the funniest autocorrect fail in your phone, as if you are a sports commentator. 🙈"
     },
     {
         "id": 58,
-        "type": "Dare",
-        "text": "Balance a spoon on your nose for 10 seconds. 🥄"
+        "type": "Truth",
+        "text": "Tell us about the weirdest food combo you secretly enjoy, and include one tiny life lesson. 🤹"
     },
     {
         "id": 59,
-        "type": "Dare",
-        "text": "Talk without moving your lips for the next round. 🤐"
+        "type": "Truth",
+        "text": "Tell us about your most embarrassing laugh attack, like a detective solving a mystery. 🌀"
     },
     {
         "id": 60,
-        "type": "Dare",
-        "text": "Do your best impression of a monkey. 🐒"
+        "type": "Truth",
+        "text": "Tell us about the oddest thing you believed as a kid, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 61,
-        "type": "Dare",
-        "text": "Spin around 10 times and try to walk straight. 🌀"
+        "type": "Truth",
+        "text": "Tell us about the funniest nickname you ever had, and tell it like a movie trailer. 😂"
     },
     {
         "id": 62,
-        "type": "Dare",
-        "text": "Make a funny face and keep it until your next turn. 🤪"
+        "type": "Truth",
+        "text": "Tell us about your most random hidden talent, using your most serious voice. 🤣"
     },
     {
         "id": 63,
-        "type": "Dare",
-        "text": "Let someone tickle you for 10 seconds. 😆"
+        "type": "Truth",
+        "text": "Tell us about the strangest reason you were late, without laughing if possible. 😄"
     },
     {
         "id": 64,
-        "type": "Dare",
-        "text": "Don't blink for 30 seconds. 👀"
+        "type": "Truth",
+        "text": "Tell us about your funniest shopping fail, in exactly two short sentences. 😎"
     },
     {
         "id": 65,
-        "type": "Dare",
-        "text": "Pretend to be a waiter/waitress and take everyone's order. 📝"
+        "type": "Truth",
+        "text": "Tell us about the weirdest dream you still remember, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 66,
-        "type": "Dare",
-        "text": "Do a cartwheel (or attempt one). 🤸‍♀️"
+        "type": "Truth",
+        "text": "Tell us about your most awkward hello-or-bye moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 67,
-        "type": "Dare",
-        "text": "Bark like a dog anytime someone says your name. 🐶"
+        "type": "Truth",
+        "text": "Tell us about the funniest safe thing in your search history, as if you are a sports commentator. 🙈"
     },
     {
         "id": 68,
-        "type": "Dare",
-        "text": "Eat a slice of lemon without making a face. 🍋"
+        "type": "Truth",
+        "text": "Tell us about your most dramatic overreaction story, and include one tiny life lesson. 🤹"
     },
     {
         "id": 69,
-        "type": "Dare",
-        "text": "Draw a mustache on your face with a pen (washable!). 🖊️"
+        "type": "Truth",
+        "text": "Tell us about the silliest thing that made you cry-laugh, like a detective solving a mystery. 🌀"
     },
     {
         "id": 70,
-        "type": "Dare",
-        "text": "Sing the alphabet backwards. 🔤"
+        "type": "Truth",
+        "text": "Tell us about the weirdest habit you still have, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 71,
-        "type": "Dare",
-        "text": "Do an interpretive dance to silence. 💃"
+        "type": "Truth",
+        "text": "Tell us about your most chaotic birthday memory, and tell it like a movie trailer. 😂"
     },
     {
         "id": 72,
-        "type": "Dare",
-        "text": "Act like a statue for 1 minute. 🗽"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you said by mistake, using your most serious voice. 🤣"
     },
     {
         "id": 73,
-        "type": "Dare",
-        "text": "Speak with a fake accent for the next 3 turns. 🌍"
+        "type": "Truth",
+        "text": "Tell us about your most confusing haircut era, without laughing if possible. 😄"
     },
     {
         "id": 74,
-        "type": "Dare",
-        "text": "Try to touch your nose with your tongue. 👅"
+        "type": "Truth",
+        "text": "Tell us about the most random thing in your bag right now, in exactly two short sentences. 😎"
     },
     {
         "id": 75,
-        "type": "Dare",
-        "text": "Tell a joke and try to make everyone laugh. 🤡"
+        "type": "Truth",
+        "text": "Tell us about your most iconic fail that became a legend, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 76,
-        "type": "Dare",
-        "text": "Do 5 pushups. 💪"
+        "type": "Truth",
+        "text": "Tell us about the funniest way you got scared, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 77,
-        "type": "Dare",
-        "text": "Let the group give you a new nickname for the game. 🏷️"
+        "type": "Truth",
+        "text": "Tell us about your weirdest lucky ritual, as if you are a sports commentator. 🙈"
     },
     {
         "id": 78,
-        "type": "Dare",
-        "text": "Mimic the person to your left for one minute. 👯"
+        "type": "Truth",
+        "text": "Tell us about the most useless thing you are weirdly good at, and include one tiny life lesson. 🤹"
     },
     {
         "id": 79,
-        "type": "Dare",
-        "text": "Make up a short rap about the person to your right. 🎤"
+        "type": "Truth",
+        "text": "Tell us about your funniest voice-note disaster, like a detective solving a mystery. 🌀"
     },
     {
         "id": 80,
-        "type": "Dare",
-        "text": "Post a silly selfie on your story (delete after game if you want). 📸"
+        "type": "Truth",
+        "text": "Tell us about the weirdest challenge you accepted, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 81,
-        "type": "Dare",
-        "text": "Walk backwards everywhere you go for the next round. 🔙"
+        "type": "Truth",
+        "text": "Tell us about the funniest rumor about you that was false, and tell it like a movie trailer. 😂"
     },
     {
         "id": 82,
-        "type": "Dare",
-        "text": "Create a handshake with the person on your right. 🤝"
+        "type": "Truth",
+        "text": "Tell us about the most awkward typo you ever sent, using your most serious voice. 🤣"
     },
     {
         "id": 83,
-        "type": "Dare",
-        "text": "Whisper everything you say for the next 2 turns. 🤫"
+        "type": "Truth",
+        "text": "Tell us about the strangest compliment you ever received, without laughing if possible. 😄"
     },
     {
         "id": 84,
-        "type": "Dare",
-        "text": "Pretend to be a cat for 1 minute. 🐱"
+        "type": "Truth",
+        "text": "Tell us about the funniest reason you laughed at the wrong time, in exactly two short sentences. 😎"
     },
     {
         "id": 85,
-        "type": "Dare",
-        "text": "Smell someone's shoe. 👟"
+        "type": "Truth",
+        "text": "Tell us about the most ridiculous thing you once argued about, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 86,
-        "type": "Dare",
-        "text": "Do air guitar for 30 seconds. 🎸"
+        "type": "Truth",
+        "text": "Tell us about your funniest travel mishap, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 87,
-        "type": "Dare",
-        "text": "Make a headdress out of toilet paper. 🧻"
+        "type": "Truth",
+        "text": "Tell us about the weirdest object you have kept for no reason, as if you are a sports commentator. 🙈"
     },
     {
         "id": 88,
-        "type": "Dare",
-        "text": "Try to juggle 3 items. 🤹‍♀️"
+        "type": "Truth",
+        "text": "Tell us about the most dramatic way you lost something, and include one tiny life lesson. 🤹"
     },
     {
         "id": 89,
-        "type": "Dare",
-        "text": "Let everyone style your hair. 💇"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you did when you were bored, like a detective solving a mystery. 🌀"
     },
     {
         "id": 90,
-        "type": "Dare",
-        "text": "Only answer yes or no for the next round. �"
+        "type": "Truth",
+        "text": "Tell us about the strangest sound you can make, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 91,
-        "type": "Dare",
-        "text": "Recite a nursery rhyme dramatically. 🎭"
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment in a video call, and tell it like a movie trailer. 😂"
     },
     {
         "id": 92,
-        "type": "Dare",
-        "text": "Stand on one leg for 2 minutes. 🦩"
+        "type": "Truth",
+        "text": "Tell us about the funniest misunderstanding with a teacher or boss, using your most serious voice. 🤣"
     },
     {
         "id": 93,
-        "type": "Dare",
-        "text": "Confess a minor secret. 🤐"
+        "type": "Truth",
+        "text": "Tell us about the weirdest thing you have googled at midnight, without laughing if possible. 😄"
     },
     {
         "id": 94,
-        "type": "Dare",
-        "text": "Let someone draw on your hand. ✍️"
+        "type": "Truth",
+        "text": "Tell us about your funniest attempt to look cool, in exactly two short sentences. 😎"
     },
     {
         "id": 95,
-        "type": "Dare",
-        "text": "Exchange shirts with someone (if appropriate/comfortable). �"
+        "type": "Truth",
+        "text": "Tell us about the most chaotic thing in your room right now, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 96,
-        "type": "Dare",
-        "text": "Do your best evil laugh. 😈"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing a friend ever dared you to do, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 97,
-        "type": "Dare",
-        "text": "Talk like Yoda for 3 turns. 🌌"
+        "type": "Truth",
+        "text": "Tell us about the oddest superstition you kind of believe, as if you are a sports commentator. 🙈"
     },
     {
         "id": 98,
-        "type": "Dare",
-        "text": "Describe your dream vacation in 10 seconds. 🏖️"
+        "type": "Truth",
+        "text": "Tell us about the funniest fake name you used in a game, and include one tiny life lesson. 🤹"
     },
     {
         "id": 99,
-        "type": "Dare",
-        "text": "Make a toast to the group. 🥂"
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment you had while singing, like a detective solving a mystery. 🌀"
     },
     {
         "id": 100,
-        "type": "Dare",
-        "text": "High five everyone in the room. ✋"
+        "type": "Truth",
+        "text": "Tell us about the funniest way your plan totally failed, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 101,
         "type": "Truth",
-        "text": "If you could only use one emoji for the rest of your life, which one? 🤔"
+        "text": "Tell us about the funniest thing that happened to you in school, and tell it like a movie trailer. 😂"
     },
     {
         "id": 102,
         "type": "Truth",
-        "text": "What is the most awkward text you have received? 📩"
+        "text": "Tell us about your most dramatic snack emergency, using your most serious voice. 🤣"
     },
     {
         "id": 103,
         "type": "Truth",
-        "text": "Have you ever sleepwalked? 🚶"
+        "text": "Tell us about the weirdest excuse you ever gave, without laughing if possible. 😄"
     },
     {
         "id": 104,
         "type": "Truth",
-        "text": "What’s the worst advice you’ve ever followed? 🤦"
+        "text": "Tell us about your secret goofy dance move, in exactly two short sentences. 😎"
     },
     {
         "id": 105,
         "type": "Truth",
-        "text": "If you had to change your name, what would it be? 📛"
+        "text": "Tell us about the silliest misunderstanding you have had, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 106,
         "type": "Truth",
-        "text": "What song are you embarrassed to admit you like? 🎵"
+        "text": "Tell us about your most chaotic group photo moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 107,
         "type": "Truth",
-        "text": "Who is your secret cartoon crush? 😻"
+        "text": "Tell us about the funniest autocorrect fail in your phone, as if you are a sports commentator. 🙈"
     },
     {
         "id": 108,
         "type": "Truth",
-        "text": "Have you ever accidentally spit while talking? 💦"
+        "text": "Tell us about the weirdest food combo you secretly enjoy, and include one tiny life lesson. 🤹"
     },
     {
         "id": 109,
         "type": "Truth",
-        "text": "What’s the strangest thing in your room right now? 🧐"
+        "text": "Tell us about your most embarrassing laugh attack, like a detective solving a mystery. 🌀"
     },
     {
         "id": 110,
         "type": "Truth",
-        "text": "If you came with a warning tag, what would it say? 🏷️"
+        "text": "Tell us about the oddest thing you believed as a kid, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 111,
         "type": "Truth",
-        "text": "What food do you absolutely hate? �"
+        "text": "Tell us about the funniest nickname you ever had, and tell it like a movie trailer. 😂"
     },
     {
         "id": 112,
         "type": "Truth",
-        "text": "Have you ever laughed at something inappropriate? 😶"
+        "text": "Tell us about your most random hidden talent, using your most serious voice. 🤣"
     },
     {
         "id": 113,
         "type": "Truth",
-        "text": "Do you have a weird lucky charm? 🍀"
+        "text": "Tell us about the strangest reason you were late, without laughing if possible. 😄"
     },
     {
         "id": 114,
         "type": "Truth",
-        "text": "What’s the funniest WiFi name you’ve seen? 📶"
+        "text": "Tell us about your funniest shopping fail, in exactly two short sentences. 😎"
     },
     {
         "id": 115,
         "type": "Truth",
-        "text": "If you were a dog, what breed would you be? 🐕"
+        "text": "Tell us about the weirdest dream you still remember, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 116,
         "type": "Truth",
-        "text": "Have you ever dropped your phone in a toilet? 🚽"
+        "text": "Tell us about your most awkward hello-or-bye moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 117,
         "type": "Truth",
-        "text": "What’s the most boring movie you’ve ever watched? �"
+        "text": "Tell us about the funniest safe thing in your search history, as if you are a sports commentator. 🙈"
     },
     {
         "id": 118,
         "type": "Truth",
-        "text": "Who in this room would survive a zombie apocalypse? 🧟"
+        "text": "Tell us about your most dramatic overreaction story, and include one tiny life lesson. 🤹"
     },
     {
         "id": 119,
         "type": "Truth",
-        "text": "Have you ever worn socks with sandals? 🧦"
+        "text": "Tell us about the silliest thing that made you cry-laugh, like a detective solving a mystery. 🌀"
     },
     {
         "id": 120,
         "type": "Truth",
-        "text": "If you could instantly learn a talent, what would it be? 🎸"
+        "text": "Tell us about the weirdest habit you still have, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 121,
         "type": "Truth",
-        "text": "What is something you’ve tried but will never do again? 🙅"
+        "text": "Tell us about your most chaotic birthday memory, and tell it like a movie trailer. 😂"
     },
     {
         "id": 122,
         "type": "Truth",
-        "text": "Have you ever talked to an animal and pretended it answered? �"
+        "text": "Tell us about the funniest thing you said by mistake, using your most serious voice. 🤣"
     },
     {
         "id": 123,
         "type": "Truth",
-        "text": "What’s a trend you hope never comes back? 📉"
+        "text": "Tell us about your most confusing haircut era, without laughing if possible. 😄"
     },
     {
         "id": 124,
         "type": "Truth",
-        "text": "Do you cover your eyes during scary movies? 🙈"
+        "text": "Tell us about the most random thing in your bag right now, in exactly two short sentences. 😎"
     },
     {
         "id": 125,
         "type": "Truth",
-        "text": "If animals could talk, which would be the rudest? 🐫"
+        "text": "Tell us about your most iconic fail that became a legend, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 126,
         "type": "Truth",
-        "text": "What’s the worst present you’ve ever given? 🎁"
+        "text": "Tell us about the funniest way you got scared, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 127,
         "type": "Truth",
-        "text": "Have you ever been chased by a dog? 🐕‍🦺"
+        "text": "Tell us about your weirdest lucky ritual, as if you are a sports commentator. 🙈"
     },
     {
         "id": 128,
         "type": "Truth",
-        "text": "Do you have a hidden talent? 🎭"
+        "text": "Tell us about the most useless thing you are weirdly good at, and include one tiny life lesson. 🤹"
     },
     {
         "id": 129,
         "type": "Truth",
-        "text": "What’s the longest you’ve slept in a single day? 🛌"
+        "text": "Tell us about your funniest voice-note disaster, like a detective solving a mystery. 🌀"
     },
     {
         "id": 130,
         "type": "Truth",
-        "text": "If you were a kitchen appliance, which one would you be? 🥣"
+        "text": "Tell us about the weirdest challenge you accepted, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 131,
         "type": "Truth",
-        "text": "What’s the first thing you do in the morning? ☀️"
+        "text": "Tell us about the funniest rumor about you that was false, and tell it like a movie trailer. 😂"
     },
     {
         "id": 132,
         "type": "Truth",
-        "text": "Have you ever broken a bone? 🦴"
+        "text": "Tell us about the most awkward typo you ever sent, using your most serious voice. 🤣"
     },
     {
         "id": 133,
         "type": "Truth",
-        "text": "What’s the grossest bug you’ve ever touched? �️"
+        "text": "Tell us about the strangest compliment you ever received, without laughing if possible. 😄"
     },
     {
         "id": 134,
         "type": "Truth",
-        "text": "Do you sing in the car? 🚗"
+        "text": "Tell us about the funniest reason you laughed at the wrong time, in exactly two short sentences. 😎"
     },
     {
         "id": 135,
         "type": "Truth",
-        "text": "If you could ban one vegetable forever, what would it be? 🥦"
+        "text": "Tell us about the most ridiculous thing you once argued about, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 136,
         "type": "Truth",
-        "text": "Have you ever locked yourself out of the house? 🔑"
+        "text": "Tell us about your funniest travel mishap, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 137,
         "type": "Truth",
-        "text": "What’s the most embarrassing app on your phone? 📱"
+        "text": "Tell us about the weirdest object you have kept for no reason, as if you are a sports commentator. 🙈"
     },
     {
         "id": 138,
         "type": "Truth",
-        "text": "If you could shrink any animal to carry in your pocket, what would it be? 🐘"
+        "text": "Tell us about the most dramatic way you lost something, and include one tiny life lesson. 🤹"
     },
     {
         "id": 139,
         "type": "Truth",
-        "text": "What’s your favorite board game? 🎲"
+        "text": "Tell us about the funniest thing you did when you were bored, like a detective solving a mystery. 🌀"
     },
     {
         "id": 140,
         "type": "Truth",
-        "text": "Have you ever fallen asleep in class? 🏫"
+        "text": "Tell us about the strangest sound you can make, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 141,
         "type": "Truth",
-        "text": "Do you believe in bigfoot? 👣"
+        "text": "Tell us about the most awkward moment in a video call, and tell it like a movie trailer. 😂"
     },
     {
         "id": 142,
         "type": "Truth",
-        "text": "What’s the scariest dream you remember? 👻"
+        "text": "Tell us about the funniest misunderstanding with a teacher or boss, using your most serious voice. 🤣"
     },
     {
         "id": 143,
         "type": "Truth",
-        "text": "If you had to wear one color for a week, what would it be? 🎨"
+        "text": "Tell us about the weirdest thing you have googled at midnight, without laughing if possible. 😄"
     },
     {
         "id": 144,
         "type": "Truth",
-        "text": "Have you ever met a famous person? 🤩"
+        "text": "Tell us about your funniest attempt to look cool, in exactly two short sentences. 😎"
     },
     {
         "id": 145,
         "type": "Truth",
-        "text": "What’s your favorite pizza topping? 🍕"
+        "text": "Tell us about the most chaotic thing in your room right now, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 146,
         "type": "Truth",
-        "text": "Do you drool when you sleep? 🤤"
+        "text": "Tell us about the funniest thing a friend ever dared you to do, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 147,
         "type": "Truth",
-        "text": "What’s the funniest sound you can make? 📢"
+        "text": "Tell us about the oddest superstition you kind of believe, as if you are a sports commentator. 🙈"
     },
     {
         "id": 148,
         "type": "Truth",
-        "text": "Have you ever worn shirts inside out all day? 👕"
+        "text": "Tell us about the funniest fake name you used in a game, and include one tiny life lesson. 🤹"
     },
     {
         "id": 149,
         "type": "Truth",
-        "text": "If you could invent a holiday, what would it be? 🎊"
+        "text": "Tell us about the most awkward moment you had while singing, like a detective solving a mystery. 🌀"
     },
     {
         "id": 150,
         "type": "Truth",
-        "text": "What’s the oddest place you’ve fallen asleep? 😴"
+        "text": "Tell us about the funniest way your plan totally failed, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 151,
-        "type": "Dare",
-        "text": "Speak in rhymes for the next 3 turns! 🎶"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing that happened to you in school, and tell it like a movie trailer. 😂"
     },
     {
         "id": 152,
-        "type": "Dare",
-        "text": "Act like a chicken until your next turn. 🐔"
+        "type": "Truth",
+        "text": "Tell us about your most dramatic snack emergency, using your most serious voice. 🤣"
     },
     {
         "id": 153,
-        "type": "Dare",
-        "text": "Let the group decide a new hairstyle for you (temporary). 💇"
+        "type": "Truth",
+        "text": "Tell us about the weirdest excuse you ever gave, without laughing if possible. 😄"
     },
     {
         "id": 154,
-        "type": "Dare",
-        "text": "Show the last photo in your camera roll. 📸"
+        "type": "Truth",
+        "text": "Tell us about your secret goofy dance move, in exactly two short sentences. 😎"
     },
     {
         "id": 155,
-        "type": "Dare",
-        "text": "Do an impression of your favorite teacher. 👨‍🏫"
+        "type": "Truth",
+        "text": "Tell us about the silliest misunderstanding you have had, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 156,
-        "type": "Dare",
-        "text": "Pretend to be swimming on the floor. 🏊"
+        "type": "Truth",
+        "text": "Tell us about your most chaotic group photo moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 157,
-        "type": "Dare",
-        "text": "Make a mask out of wet toilet paper and wear it. 🧻"
+        "type": "Truth",
+        "text": "Tell us about the funniest autocorrect fail in your phone, as if you are a sports commentator. 🙈"
     },
     {
         "id": 158,
-        "type": "Dare",
-        "text": "Try to lick your nose. 🐽"
+        "type": "Truth",
+        "text": "Tell us about the weirdest food combo you secretly enjoy, and include one tiny life lesson. 🤹"
     },
     {
         "id": 159,
-        "type": "Dare",
-        "text": "Walk on your knees for the next round. 🛐"
+        "type": "Truth",
+        "text": "Tell us about your most embarrassing laugh attack, like a detective solving a mystery. 🌀"
     },
     {
         "id": 160,
-        "type": "Dare",
-        "text": "Hold an ice cube in your hand until it melts. 🧊"
+        "type": "Truth",
+        "text": "Tell us about the oddest thing you believed as a kid, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 161,
-        "type": "Dare",
-        "text": "Say the alphabet without moving your tongue. 🗣️"
+        "type": "Truth",
+        "text": "Tell us about the funniest nickname you ever had, and tell it like a movie trailer. 😂"
     },
     {
         "id": 162,
-        "type": "Dare",
-        "text": "Let someone tickle your foot. 🦶"
+        "type": "Truth",
+        "text": "Tell us about your most random hidden talent, using your most serious voice. 🤣"
     },
     {
         "id": 163,
-        "type": "Dare",
-        "text": "Eat a spoon of mustard (not too much!). 🥄"
+        "type": "Truth",
+        "text": "Tell us about the strangest reason you were late, without laughing if possible. 😄"
     },
     {
         "id": 164,
-        "type": "Dare",
-        "text": "Do the worm dance move. 🐛"
+        "type": "Truth",
+        "text": "Tell us about your funniest shopping fail, in exactly two short sentences. 😎"
     },
     {
         "id": 165,
-        "type": "Dare",
-        "text": "Pretend you are a baby for 1 minute. �"
+        "type": "Truth",
+        "text": "Tell us about the weirdest dream you still remember, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 166,
-        "type": "Dare",
-        "text": "Spin 5 times and try to touch your toes. 😵"
+        "type": "Truth",
+        "text": "Tell us about your most awkward hello-or-bye moment, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 167,
-        "type": "Dare",
-        "text": "Let someone write a word on your forehead with a marker. 🖍️"
+        "type": "Truth",
+        "text": "Tell us about the funniest safe thing in your search history, as if you are a sports commentator. 🙈"
     },
     {
         "id": 168,
-        "type": "Dare",
-        "text": "Try to do a handstand against the wall. 🤸"
+        "type": "Truth",
+        "text": "Tell us about your most dramatic overreaction story, and include one tiny life lesson. 🤹"
     },
     {
         "id": 169,
-        "type": "Dare",
-        "text": "Act like a news anchor reporting on the game. 🎤"
+        "type": "Truth",
+        "text": "Tell us about the silliest thing that made you cry-laugh, like a detective solving a mystery. 🌀"
     },
     {
         "id": 170,
-        "type": "Dare",
-        "text": "Hold a plank for 30 seconds. 🧱"
+        "type": "Truth",
+        "text": "Tell us about the weirdest habit you still have, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 171,
-        "type": "Dare",
-        "text": "Stare at the person to your left for 30 seconds without laughing. �"
+        "type": "Truth",
+        "text": "Tell us about your most chaotic birthday memory, and tell it like a movie trailer. 😂"
     },
     {
         "id": 172,
-        "type": "Dare",
-        "text": "Use a spoon as a microphone next time you speak. 🥄"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you said by mistake, using your most serious voice. 🤣"
     },
     {
         "id": 173,
-        "type": "Dare",
-        "text": "Make a hat out of paper/foil and wear it. 🎩"
+        "type": "Truth",
+        "text": "Tell us about your most confusing haircut era, without laughing if possible. 😄"
     },
     {
         "id": 174,
-        "type": "Dare",
-        "text": "Tell a story using only 3 words at a time. 📖"
+        "type": "Truth",
+        "text": "Tell us about the most random thing in your bag right now, in exactly two short sentences. 😎"
     },
     {
         "id": 175,
-        "type": "Dare",
-        "text": "Sing 'Happy Birthday' to the person across from you. 🎂"
+        "type": "Truth",
+        "text": "Tell us about your most iconic fail that became a legend, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 176,
-        "type": "Dare",
-        "text": "Pretend to be a T-Rex for 2 turns. 🦖"
+        "type": "Truth",
+        "text": "Tell us about the funniest way you got scared, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 177,
-        "type": "Dare",
-        "text": "Do 10 squats. 🏋️"
+        "type": "Truth",
+        "text": "Tell us about your weirdest lucky ritual, as if you are a sports commentator. 🙈"
     },
     {
         "id": 178,
-        "type": "Dare",
-        "text": "Let the group choose an emoji for you to mimic. 🤡"
+        "type": "Truth",
+        "text": "Tell us about the most useless thing you are weirdly good at, and include one tiny life lesson. 🤹"
     },
     {
         "id": 179,
-        "type": "Dare",
-        "text": "Talk like a pirate for the next round. �‍☠️"
+        "type": "Truth",
+        "text": "Tell us about your funniest voice-note disaster, like a detective solving a mystery. 🌀"
     },
     {
         "id": 180,
-        "type": "Dare",
-        "text": "Try to balance a book on your head and walk. 📚"
+        "type": "Truth",
+        "text": "Tell us about the weirdest challenge you accepted, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 181,
-        "type": "Dare",
-        "text": "Do your best slow-motion run. 🏃"
+        "type": "Truth",
+        "text": "Tell us about the funniest rumor about you that was false, and tell it like a movie trailer. 😂"
     },
     {
         "id": 182,
-        "type": "Dare",
-        "text": "Pretend you are invisible and ignore everyone for 1 minute. 👻"
+        "type": "Truth",
+        "text": "Tell us about the most awkward typo you ever sent, using your most serious voice. 🤣"
     },
     {
         "id": 183,
-        "type": "Dare",
-        "text": "Make the sound of a sheep every time you speak. 🐑"
+        "type": "Truth",
+        "text": "Tell us about the strangest compliment you ever received, without laughing if possible. 😄"
     },
     {
         "id": 184,
-        "type": "Dare",
-        "text": "Cross your eyes and keep them that way for 10 seconds. 🤪"
+        "type": "Truth",
+        "text": "Tell us about the funniest reason you laughed at the wrong time, in exactly two short sentences. 😎"
     },
     {
         "id": 185,
-        "type": "Dare",
-        "text": "Let someone redo your eyebrows with makeup (washable). 💄"
+        "type": "Truth",
+        "text": "Tell us about the most ridiculous thing you once argued about, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 186,
-        "type": "Dare",
-        "text": "Do the macarena dance. 💃"
+        "type": "Truth",
+        "text": "Tell us about your funniest travel mishap, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 187,
-        "type": "Dare",
-        "text": "Try to touch your elbows together behind your back. 💪"
+        "type": "Truth",
+        "text": "Tell us about the weirdest object you have kept for no reason, as if you are a sports commentator. 🙈"
     },
     {
         "id": 188,
-        "type": "Dare",
-        "text": "Speak very slowly like a sloth. 🦥"
+        "type": "Truth",
+        "text": "Tell us about the most dramatic way you lost something, and include one tiny life lesson. 🤹"
     },
     {
         "id": 189,
-        "type": "Dare",
-        "text": "Pretend to juggle invisible balls. 🤹"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you did when you were bored, like a detective solving a mystery. 🌀"
     },
     {
         "id": 190,
-        "type": "Dare",
-        "text": "Give a 30-second speech about why socks are amazing. 🧦"
+        "type": "Truth",
+        "text": "Tell us about the strangest sound you can make, and make everyone guess the ending first. 🫠"
     },
     {
         "id": 191,
-        "type": "Dare",
-        "text": "Act like a zombie. 🧟"
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment in a video call, and tell it like a movie trailer. 😂"
     },
     {
         "id": 192,
-        "type": "Dare",
-        "text": "Try to breakdance on the floor. 🕺"
+        "type": "Truth",
+        "text": "Tell us about the funniest misunderstanding with a teacher or boss, using your most serious voice. 🤣"
     },
     {
         "id": 193,
-        "type": "Dare",
-        "text": "Speak in a high-pitched voice for 3 turns. 🎈"
+        "type": "Truth",
+        "text": "Tell us about the weirdest thing you have googled at midnight, without laughing if possible. 😄"
     },
     {
         "id": 194,
-        "type": "Dare",
-        "text": "Let someone tie your shoes together (loosely). 👟"
+        "type": "Truth",
+        "text": "Tell us about your funniest attempt to look cool, in exactly two short sentences. 😎"
     },
     {
         "id": 195,
-        "type": "Dare",
-        "text": "Pretend to be a king/queen commanding subjects. 👑"
+        "type": "Truth",
+        "text": "Tell us about the most chaotic thing in your room right now, and rate the chaos from 1 to 10. 🤪"
     },
     {
         "id": 196,
-        "type": "Dare",
-        "text": "Do the moonwalk (or try). 🌕"
+        "type": "Truth",
+        "text": "Tell us about the funniest thing a friend ever dared you to do, with one dramatic sound effect at the end. 🎉"
     },
     {
         "id": 197,
-        "type": "Dare",
-        "text": "Laugh uncontrollably for 10 seconds. 😂"
+        "type": "Truth",
+        "text": "Tell us about the oddest superstition you kind of believe, as if you are a sports commentator. 🙈"
     },
     {
         "id": 198,
-        "type": "Dare",
-        "text": "Make a fish face. 🐟"
+        "type": "Truth",
+        "text": "Tell us about the funniest fake name you used in a game, and include one tiny life lesson. 🤹"
     },
     {
         "id": 199,
-        "type": "Dare",
-        "text": "Do a magic trick (even a bad one). 🎩"
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment you had while singing, like a detective solving a mystery. 🌀"
     },
     {
         "id": 200,
+        "type": "Truth",
+        "text": "Tell us about the funniest way your plan totally failed, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 201,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing that happened to you in school, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 202,
+        "type": "Truth",
+        "text": "Tell us about your most dramatic snack emergency, using your most serious voice. 🤣"
+    },
+    {
+        "id": 203,
+        "type": "Truth",
+        "text": "Tell us about the weirdest excuse you ever gave, without laughing if possible. 😄"
+    },
+    {
+        "id": 204,
+        "type": "Truth",
+        "text": "Tell us about your secret goofy dance move, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 205,
+        "type": "Truth",
+        "text": "Tell us about the silliest misunderstanding you have had, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 206,
+        "type": "Truth",
+        "text": "Tell us about your most chaotic group photo moment, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 207,
+        "type": "Truth",
+        "text": "Tell us about the funniest autocorrect fail in your phone, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 208,
+        "type": "Truth",
+        "text": "Tell us about the weirdest food combo you secretly enjoy, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 209,
+        "type": "Truth",
+        "text": "Tell us about your most embarrassing laugh attack, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 210,
+        "type": "Truth",
+        "text": "Tell us about the oddest thing you believed as a kid, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 211,
+        "type": "Truth",
+        "text": "Tell us about the funniest nickname you ever had, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 212,
+        "type": "Truth",
+        "text": "Tell us about your most random hidden talent, using your most serious voice. 🤣"
+    },
+    {
+        "id": 213,
+        "type": "Truth",
+        "text": "Tell us about the strangest reason you were late, without laughing if possible. 😄"
+    },
+    {
+        "id": 214,
+        "type": "Truth",
+        "text": "Tell us about your funniest shopping fail, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 215,
+        "type": "Truth",
+        "text": "Tell us about the weirdest dream you still remember, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 216,
+        "type": "Truth",
+        "text": "Tell us about your most awkward hello-or-bye moment, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 217,
+        "type": "Truth",
+        "text": "Tell us about the funniest safe thing in your search history, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 218,
+        "type": "Truth",
+        "text": "Tell us about your most dramatic overreaction story, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 219,
+        "type": "Truth",
+        "text": "Tell us about the silliest thing that made you cry-laugh, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 220,
+        "type": "Truth",
+        "text": "Tell us about the weirdest habit you still have, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 221,
+        "type": "Truth",
+        "text": "Tell us about your most chaotic birthday memory, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 222,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you said by mistake, using your most serious voice. 🤣"
+    },
+    {
+        "id": 223,
+        "type": "Truth",
+        "text": "Tell us about your most confusing haircut era, without laughing if possible. 😄"
+    },
+    {
+        "id": 224,
+        "type": "Truth",
+        "text": "Tell us about the most random thing in your bag right now, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 225,
+        "type": "Truth",
+        "text": "Tell us about your most iconic fail that became a legend, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 226,
+        "type": "Truth",
+        "text": "Tell us about the funniest way you got scared, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 227,
+        "type": "Truth",
+        "text": "Tell us about your weirdest lucky ritual, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 228,
+        "type": "Truth",
+        "text": "Tell us about the most useless thing you are weirdly good at, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 229,
+        "type": "Truth",
+        "text": "Tell us about your funniest voice-note disaster, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 230,
+        "type": "Truth",
+        "text": "Tell us about the weirdest challenge you accepted, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 231,
+        "type": "Truth",
+        "text": "Tell us about the funniest rumor about you that was false, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 232,
+        "type": "Truth",
+        "text": "Tell us about the most awkward typo you ever sent, using your most serious voice. 🤣"
+    },
+    {
+        "id": 233,
+        "type": "Truth",
+        "text": "Tell us about the strangest compliment you ever received, without laughing if possible. 😄"
+    },
+    {
+        "id": 234,
+        "type": "Truth",
+        "text": "Tell us about the funniest reason you laughed at the wrong time, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 235,
+        "type": "Truth",
+        "text": "Tell us about the most ridiculous thing you once argued about, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 236,
+        "type": "Truth",
+        "text": "Tell us about your funniest travel mishap, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 237,
+        "type": "Truth",
+        "text": "Tell us about the weirdest object you have kept for no reason, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 238,
+        "type": "Truth",
+        "text": "Tell us about the most dramatic way you lost something, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 239,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you did when you were bored, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 240,
+        "type": "Truth",
+        "text": "Tell us about the strangest sound you can make, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 241,
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment in a video call, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 242,
+        "type": "Truth",
+        "text": "Tell us about the funniest misunderstanding with a teacher or boss, using your most serious voice. 🤣"
+    },
+    {
+        "id": 243,
+        "type": "Truth",
+        "text": "Tell us about the weirdest thing you have googled at midnight, without laughing if possible. 😄"
+    },
+    {
+        "id": 244,
+        "type": "Truth",
+        "text": "Tell us about your funniest attempt to look cool, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 245,
+        "type": "Truth",
+        "text": "Tell us about the most chaotic thing in your room right now, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 246,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing a friend ever dared you to do, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 247,
+        "type": "Truth",
+        "text": "Tell us about the oddest superstition you kind of believe, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 248,
+        "type": "Truth",
+        "text": "Tell us about the funniest fake name you used in a game, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 249,
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment you had while singing, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 250,
+        "type": "Truth",
+        "text": "Tell us about the funniest way your plan totally failed, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 251,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing that happened to you in school, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 252,
+        "type": "Truth",
+        "text": "Tell us about your most dramatic snack emergency, using your most serious voice. 🤣"
+    },
+    {
+        "id": 253,
+        "type": "Truth",
+        "text": "Tell us about the weirdest excuse you ever gave, without laughing if possible. 😄"
+    },
+    {
+        "id": 254,
+        "type": "Truth",
+        "text": "Tell us about your secret goofy dance move, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 255,
+        "type": "Truth",
+        "text": "Tell us about the silliest misunderstanding you have had, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 256,
+        "type": "Truth",
+        "text": "Tell us about your most chaotic group photo moment, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 257,
+        "type": "Truth",
+        "text": "Tell us about the funniest autocorrect fail in your phone, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 258,
+        "type": "Truth",
+        "text": "Tell us about the weirdest food combo you secretly enjoy, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 259,
+        "type": "Truth",
+        "text": "Tell us about your most embarrassing laugh attack, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 260,
+        "type": "Truth",
+        "text": "Tell us about the oddest thing you believed as a kid, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 261,
+        "type": "Truth",
+        "text": "Tell us about the funniest nickname you ever had, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 262,
+        "type": "Truth",
+        "text": "Tell us about your most random hidden talent, using your most serious voice. 🤣"
+    },
+    {
+        "id": 263,
+        "type": "Truth",
+        "text": "Tell us about the strangest reason you were late, without laughing if possible. 😄"
+    },
+    {
+        "id": 264,
+        "type": "Truth",
+        "text": "Tell us about your funniest shopping fail, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 265,
+        "type": "Truth",
+        "text": "Tell us about the weirdest dream you still remember, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 266,
+        "type": "Truth",
+        "text": "Tell us about your most awkward hello-or-bye moment, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 267,
+        "type": "Truth",
+        "text": "Tell us about the funniest safe thing in your search history, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 268,
+        "type": "Truth",
+        "text": "Tell us about your most dramatic overreaction story, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 269,
+        "type": "Truth",
+        "text": "Tell us about the silliest thing that made you cry-laugh, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 270,
+        "type": "Truth",
+        "text": "Tell us about the weirdest habit you still have, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 271,
+        "type": "Truth",
+        "text": "Tell us about your most chaotic birthday memory, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 272,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you said by mistake, using your most serious voice. 🤣"
+    },
+    {
+        "id": 273,
+        "type": "Truth",
+        "text": "Tell us about your most confusing haircut era, without laughing if possible. 😄"
+    },
+    {
+        "id": 274,
+        "type": "Truth",
+        "text": "Tell us about the most random thing in your bag right now, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 275,
+        "type": "Truth",
+        "text": "Tell us about your most iconic fail that became a legend, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 276,
+        "type": "Truth",
+        "text": "Tell us about the funniest way you got scared, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 277,
+        "type": "Truth",
+        "text": "Tell us about your weirdest lucky ritual, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 278,
+        "type": "Truth",
+        "text": "Tell us about the most useless thing you are weirdly good at, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 279,
+        "type": "Truth",
+        "text": "Tell us about your funniest voice-note disaster, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 280,
+        "type": "Truth",
+        "text": "Tell us about the weirdest challenge you accepted, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 281,
+        "type": "Truth",
+        "text": "Tell us about the funniest rumor about you that was false, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 282,
+        "type": "Truth",
+        "text": "Tell us about the most awkward typo you ever sent, using your most serious voice. 🤣"
+    },
+    {
+        "id": 283,
+        "type": "Truth",
+        "text": "Tell us about the strangest compliment you ever received, without laughing if possible. 😄"
+    },
+    {
+        "id": 284,
+        "type": "Truth",
+        "text": "Tell us about the funniest reason you laughed at the wrong time, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 285,
+        "type": "Truth",
+        "text": "Tell us about the most ridiculous thing you once argued about, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 286,
+        "type": "Truth",
+        "text": "Tell us about your funniest travel mishap, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 287,
+        "type": "Truth",
+        "text": "Tell us about the weirdest object you have kept for no reason, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 288,
+        "type": "Truth",
+        "text": "Tell us about the most dramatic way you lost something, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 289,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing you did when you were bored, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 290,
+        "type": "Truth",
+        "text": "Tell us about the strangest sound you can make, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 291,
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment in a video call, and tell it like a movie trailer. 😂"
+    },
+    {
+        "id": 292,
+        "type": "Truth",
+        "text": "Tell us about the funniest misunderstanding with a teacher or boss, using your most serious voice. 🤣"
+    },
+    {
+        "id": 293,
+        "type": "Truth",
+        "text": "Tell us about the weirdest thing you have googled at midnight, without laughing if possible. 😄"
+    },
+    {
+        "id": 294,
+        "type": "Truth",
+        "text": "Tell us about your funniest attempt to look cool, in exactly two short sentences. 😎"
+    },
+    {
+        "id": 295,
+        "type": "Truth",
+        "text": "Tell us about the most chaotic thing in your room right now, and rate the chaos from 1 to 10. 🤪"
+    },
+    {
+        "id": 296,
+        "type": "Truth",
+        "text": "Tell us about the funniest thing a friend ever dared you to do, with one dramatic sound effect at the end. 🎉"
+    },
+    {
+        "id": 297,
+        "type": "Truth",
+        "text": "Tell us about the oddest superstition you kind of believe, as if you are a sports commentator. 🙈"
+    },
+    {
+        "id": 298,
+        "type": "Truth",
+        "text": "Tell us about the funniest fake name you used in a game, and include one tiny life lesson. 🤹"
+    },
+    {
+        "id": 299,
+        "type": "Truth",
+        "text": "Tell us about the most awkward moment you had while singing, like a detective solving a mystery. 🌀"
+    },
+    {
+        "id": 300,
+        "type": "Truth",
+        "text": "Tell us about the funniest way your plan totally failed, and make everyone guess the ending first. 🫠"
+    },
+    {
+        "id": 301,
         "type": "Dare",
-        "text": "Hug a pillow for the rest of the turn. 🛋️"
+        "text": "do your best chicken dance for 20 seconds. 😆"
+    },
+    {
+        "id": 302,
+        "type": "Dare",
+        "text": "speak like a robot for 30 seconds. 🤡"
+    },
+    {
+        "id": 303,
+        "type": "Dare",
+        "text": "walk like a penguin for 40 seconds. 🕺"
+    },
+    {
+        "id": 304,
+        "type": "Dare",
+        "text": "pretend to be a dramatic news anchor for one full turn. 🐔"
+    },
+    {
+        "id": 305,
+        "type": "Dare",
+        "text": "do an invisible jump-rope routine until someone laughs. 🤖"
+    },
+    {
+        "id": 306,
+        "type": "Dare",
+        "text": "act like you are in slow motion while staying totally serious. 🦖"
+    },
+    {
+        "id": 307,
+        "type": "Dare",
+        "text": "talk in rhyme without using your normal voice. 🎤"
+    },
+    {
+        "id": 308,
+        "type": "Dare",
+        "text": "do your best evil laugh without repeating the same move. 🎭"
+    },
+    {
+        "id": 309,
+        "type": "Dare",
+        "text": "perform air guitar like a rockstar while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 310,
+        "type": "Dare",
+        "text": "balance something on your head while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 311,
+        "type": "Dare",
+        "text": "pretend you are a tiny dinosaur for 20 seconds. 😆"
+    },
+    {
+        "id": 312,
+        "type": "Dare",
+        "text": "dance with zero music for 30 seconds. 🤡"
+    },
+    {
+        "id": 313,
+        "type": "Dare",
+        "text": "talk in a pirate accent for 40 seconds. 🕺"
+    },
+    {
+        "id": 314,
+        "type": "Dare",
+        "text": "do your best opera intro for one full turn. 🐔"
+    },
+    {
+        "id": 315,
+        "type": "Dare",
+        "text": "pretend the floor is lava until someone laughs. 🤖"
+    },
+    {
+        "id": 316,
+        "type": "Dare",
+        "text": "do five dramatic model poses while staying totally serious. 🦖"
+    },
+    {
+        "id": 317,
+        "type": "Dare",
+        "text": "act like a game-show host without using your normal voice. 🎤"
+    },
+    {
+        "id": 318,
+        "type": "Dare",
+        "text": "walk backward like it is normal without repeating the same move. 🎭"
+    },
+    {
+        "id": 319,
+        "type": "Dare",
+        "text": "do your silliest catwalk while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 320,
+        "type": "Dare",
+        "text": "pretend your shoe is giving life advice while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 321,
+        "type": "Dare",
+        "text": "make three funny emoji faces for 20 seconds. 😆"
+    },
+    {
+        "id": 322,
+        "type": "Dare",
+        "text": "mimic a cartoon character for 30 seconds. 🤡"
+    },
+    {
+        "id": 323,
+        "type": "Dare",
+        "text": "speak with your lips tucked in for 40 seconds. 🕺"
+    },
+    {
+        "id": 324,
+        "type": "Dare",
+        "text": "do a mini victory dance after every sentence for one full turn. 🐔"
+    },
+    {
+        "id": 325,
+        "type": "Dare",
+        "text": "pretend to be a confused magician until someone laughs. 🤖"
+    },
+    {
+        "id": 326,
+        "type": "Dare",
+        "text": "narrate your moves like a wildlife documentary while staying totally serious. 🦖"
+    },
+    {
+        "id": 327,
+        "type": "Dare",
+        "text": "give a weather report about this room without using your normal voice. 🎤"
+    },
+    {
+        "id": 328,
+        "type": "Dare",
+        "text": "do your best ghost impression without repeating the same move. 🎭"
+    },
+    {
+        "id": 329,
+        "type": "Dare",
+        "text": "act like you are on a cooking show with imaginary food while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 330,
+        "type": "Dare",
+        "text": "speak in a whisper like a secret agent while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 331,
+        "type": "Dare",
+        "text": "walk as if gravity is 2x stronger for 20 seconds. 😆"
+    },
+    {
+        "id": 332,
+        "type": "Dare",
+        "text": "act like your phone is your strict teacher for 30 seconds. 🤡"
+    },
+    {
+        "id": 333,
+        "type": "Dare",
+        "text": "pretend to direct a movie scene in this room for 40 seconds. 🕺"
+    },
+    {
+        "id": 334,
+        "type": "Dare",
+        "text": "do your funniest victory speech for one full turn. 🐔"
+    },
+    {
+        "id": 335,
+        "type": "Dare",
+        "text": "freeze like a statue between each sentence until someone laughs. 🤖"
+    },
+    {
+        "id": 336,
+        "type": "Dare",
+        "text": "act like a game NPC with repeated lines while staying totally serious. 🦖"
+    },
+    {
+        "id": 337,
+        "type": "Dare",
+        "text": "pretend to host an awards show for the group without using your normal voice. 🎤"
+    },
+    {
+        "id": 338,
+        "type": "Dare",
+        "text": "do your best slow-motion run in place without repeating the same move. 🎭"
+    },
+    {
+        "id": 339,
+        "type": "Dare",
+        "text": "act like you just discovered fire while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 340,
+        "type": "Dare",
+        "text": "pretend your hands are talking to each other while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 341,
+        "type": "Dare",
+        "text": "do your best runway walk with confidence for 20 seconds. 😆"
+    },
+    {
+        "id": 342,
+        "type": "Dare",
+        "text": "speak like a narrator from a nature channel for 30 seconds. 🤡"
+    },
+    {
+        "id": 343,
+        "type": "Dare",
+        "text": "pretend to be a superhero landing every 5 seconds for 40 seconds. 🕺"
+    },
+    {
+        "id": 344,
+        "type": "Dare",
+        "text": "do a mini stand-up comedy bit for one full turn. 🐔"
+    },
+    {
+        "id": 345,
+        "type": "Dare",
+        "text": "act like a dramatic soap-opera character until someone laughs. 🤖"
+    },
+    {
+        "id": 346,
+        "type": "Dare",
+        "text": "pretend you are teaching a class on silliness while staying totally serious. 🦖"
+    },
+    {
+        "id": 347,
+        "type": "Dare",
+        "text": "do a fake workout ad announcement without using your normal voice. 🎤"
+    },
+    {
+        "id": 348,
+        "type": "Dare",
+        "text": "act like a detective questioning invisible suspects without repeating the same move. 🎭"
+    },
+    {
+        "id": 349,
+        "type": "Dare",
+        "text": "pretend you are buffering like slow internet while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 350,
+        "type": "Dare",
+        "text": "do your funniest attempt at moonwalking while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 351,
+        "type": "Dare",
+        "text": "do your best chicken dance for 20 seconds. 😆"
+    },
+    {
+        "id": 352,
+        "type": "Dare",
+        "text": "speak like a robot for 30 seconds. 🤡"
+    },
+    {
+        "id": 353,
+        "type": "Dare",
+        "text": "walk like a penguin for 40 seconds. 🕺"
+    },
+    {
+        "id": 354,
+        "type": "Dare",
+        "text": "pretend to be a dramatic news anchor for one full turn. 🐔"
+    },
+    {
+        "id": 355,
+        "type": "Dare",
+        "text": "do an invisible jump-rope routine until someone laughs. 🤖"
+    },
+    {
+        "id": 356,
+        "type": "Dare",
+        "text": "act like you are in slow motion while staying totally serious. 🦖"
+    },
+    {
+        "id": 357,
+        "type": "Dare",
+        "text": "talk in rhyme without using your normal voice. 🎤"
+    },
+    {
+        "id": 358,
+        "type": "Dare",
+        "text": "do your best evil laugh without repeating the same move. 🎭"
+    },
+    {
+        "id": 359,
+        "type": "Dare",
+        "text": "perform air guitar like a rockstar while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 360,
+        "type": "Dare",
+        "text": "balance something on your head while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 361,
+        "type": "Dare",
+        "text": "pretend you are a tiny dinosaur for 20 seconds. 😆"
+    },
+    {
+        "id": 362,
+        "type": "Dare",
+        "text": "dance with zero music for 30 seconds. 🤡"
+    },
+    {
+        "id": 363,
+        "type": "Dare",
+        "text": "talk in a pirate accent for 40 seconds. 🕺"
+    },
+    {
+        "id": 364,
+        "type": "Dare",
+        "text": "do your best opera intro for one full turn. 🐔"
+    },
+    {
+        "id": 365,
+        "type": "Dare",
+        "text": "pretend the floor is lava until someone laughs. 🤖"
+    },
+    {
+        "id": 366,
+        "type": "Dare",
+        "text": "do five dramatic model poses while staying totally serious. 🦖"
+    },
+    {
+        "id": 367,
+        "type": "Dare",
+        "text": "act like a game-show host without using your normal voice. 🎤"
+    },
+    {
+        "id": 368,
+        "type": "Dare",
+        "text": "walk backward like it is normal without repeating the same move. 🎭"
+    },
+    {
+        "id": 369,
+        "type": "Dare",
+        "text": "do your silliest catwalk while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 370,
+        "type": "Dare",
+        "text": "pretend your shoe is giving life advice while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 371,
+        "type": "Dare",
+        "text": "make three funny emoji faces for 20 seconds. 😆"
+    },
+    {
+        "id": 372,
+        "type": "Dare",
+        "text": "mimic a cartoon character for 30 seconds. 🤡"
+    },
+    {
+        "id": 373,
+        "type": "Dare",
+        "text": "speak with your lips tucked in for 40 seconds. 🕺"
+    },
+    {
+        "id": 374,
+        "type": "Dare",
+        "text": "do a mini victory dance after every sentence for one full turn. 🐔"
+    },
+    {
+        "id": 375,
+        "type": "Dare",
+        "text": "pretend to be a confused magician until someone laughs. 🤖"
+    },
+    {
+        "id": 376,
+        "type": "Dare",
+        "text": "narrate your moves like a wildlife documentary while staying totally serious. 🦖"
+    },
+    {
+        "id": 377,
+        "type": "Dare",
+        "text": "give a weather report about this room without using your normal voice. 🎤"
+    },
+    {
+        "id": 378,
+        "type": "Dare",
+        "text": "do your best ghost impression without repeating the same move. 🎭"
+    },
+    {
+        "id": 379,
+        "type": "Dare",
+        "text": "act like you are on a cooking show with imaginary food while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 380,
+        "type": "Dare",
+        "text": "speak in a whisper like a secret agent while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 381,
+        "type": "Dare",
+        "text": "walk as if gravity is 2x stronger for 20 seconds. 😆"
+    },
+    {
+        "id": 382,
+        "type": "Dare",
+        "text": "act like your phone is your strict teacher for 30 seconds. 🤡"
+    },
+    {
+        "id": 383,
+        "type": "Dare",
+        "text": "pretend to direct a movie scene in this room for 40 seconds. 🕺"
+    },
+    {
+        "id": 384,
+        "type": "Dare",
+        "text": "do your funniest victory speech for one full turn. 🐔"
+    },
+    {
+        "id": 385,
+        "type": "Dare",
+        "text": "freeze like a statue between each sentence until someone laughs. 🤖"
+    },
+    {
+        "id": 386,
+        "type": "Dare",
+        "text": "act like a game NPC with repeated lines while staying totally serious. 🦖"
+    },
+    {
+        "id": 387,
+        "type": "Dare",
+        "text": "pretend to host an awards show for the group without using your normal voice. 🎤"
+    },
+    {
+        "id": 388,
+        "type": "Dare",
+        "text": "do your best slow-motion run in place without repeating the same move. 🎭"
+    },
+    {
+        "id": 389,
+        "type": "Dare",
+        "text": "act like you just discovered fire while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 390,
+        "type": "Dare",
+        "text": "pretend your hands are talking to each other while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 391,
+        "type": "Dare",
+        "text": "do your best runway walk with confidence for 20 seconds. 😆"
+    },
+    {
+        "id": 392,
+        "type": "Dare",
+        "text": "speak like a narrator from a nature channel for 30 seconds. 🤡"
+    },
+    {
+        "id": 393,
+        "type": "Dare",
+        "text": "pretend to be a superhero landing every 5 seconds for 40 seconds. 🕺"
+    },
+    {
+        "id": 394,
+        "type": "Dare",
+        "text": "do a mini stand-up comedy bit for one full turn. 🐔"
+    },
+    {
+        "id": 395,
+        "type": "Dare",
+        "text": "act like a dramatic soap-opera character until someone laughs. 🤖"
+    },
+    {
+        "id": 396,
+        "type": "Dare",
+        "text": "pretend you are teaching a class on silliness while staying totally serious. 🦖"
+    },
+    {
+        "id": 397,
+        "type": "Dare",
+        "text": "do a fake workout ad announcement without using your normal voice. 🎤"
+    },
+    {
+        "id": 398,
+        "type": "Dare",
+        "text": "act like a detective questioning invisible suspects without repeating the same move. 🎭"
+    },
+    {
+        "id": 399,
+        "type": "Dare",
+        "text": "pretend you are buffering like slow internet while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 400,
+        "type": "Dare",
+        "text": "do your funniest attempt at moonwalking while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 401,
+        "type": "Dare",
+        "text": "do your best chicken dance for 20 seconds. 😆"
+    },
+    {
+        "id": 402,
+        "type": "Dare",
+        "text": "speak like a robot for 30 seconds. 🤡"
+    },
+    {
+        "id": 403,
+        "type": "Dare",
+        "text": "walk like a penguin for 40 seconds. 🕺"
+    },
+    {
+        "id": 404,
+        "type": "Dare",
+        "text": "pretend to be a dramatic news anchor for one full turn. 🐔"
+    },
+    {
+        "id": 405,
+        "type": "Dare",
+        "text": "do an invisible jump-rope routine until someone laughs. 🤖"
+    },
+    {
+        "id": 406,
+        "type": "Dare",
+        "text": "act like you are in slow motion while staying totally serious. 🦖"
+    },
+    {
+        "id": 407,
+        "type": "Dare",
+        "text": "talk in rhyme without using your normal voice. 🎤"
+    },
+    {
+        "id": 408,
+        "type": "Dare",
+        "text": "do your best evil laugh without repeating the same move. 🎭"
+    },
+    {
+        "id": 409,
+        "type": "Dare",
+        "text": "perform air guitar like a rockstar while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 410,
+        "type": "Dare",
+        "text": "balance something on your head while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 411,
+        "type": "Dare",
+        "text": "pretend you are a tiny dinosaur for 20 seconds. 😆"
+    },
+    {
+        "id": 412,
+        "type": "Dare",
+        "text": "dance with zero music for 30 seconds. 🤡"
+    },
+    {
+        "id": 413,
+        "type": "Dare",
+        "text": "talk in a pirate accent for 40 seconds. 🕺"
+    },
+    {
+        "id": 414,
+        "type": "Dare",
+        "text": "do your best opera intro for one full turn. 🐔"
+    },
+    {
+        "id": 415,
+        "type": "Dare",
+        "text": "pretend the floor is lava until someone laughs. 🤖"
+    },
+    {
+        "id": 416,
+        "type": "Dare",
+        "text": "do five dramatic model poses while staying totally serious. 🦖"
+    },
+    {
+        "id": 417,
+        "type": "Dare",
+        "text": "act like a game-show host without using your normal voice. 🎤"
+    },
+    {
+        "id": 418,
+        "type": "Dare",
+        "text": "walk backward like it is normal without repeating the same move. 🎭"
+    },
+    {
+        "id": 419,
+        "type": "Dare",
+        "text": "do your silliest catwalk while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 420,
+        "type": "Dare",
+        "text": "pretend your shoe is giving life advice while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 421,
+        "type": "Dare",
+        "text": "make three funny emoji faces for 20 seconds. 😆"
+    },
+    {
+        "id": 422,
+        "type": "Dare",
+        "text": "mimic a cartoon character for 30 seconds. 🤡"
+    },
+    {
+        "id": 423,
+        "type": "Dare",
+        "text": "speak with your lips tucked in for 40 seconds. 🕺"
+    },
+    {
+        "id": 424,
+        "type": "Dare",
+        "text": "do a mini victory dance after every sentence for one full turn. 🐔"
+    },
+    {
+        "id": 425,
+        "type": "Dare",
+        "text": "pretend to be a confused magician until someone laughs. 🤖"
+    },
+    {
+        "id": 426,
+        "type": "Dare",
+        "text": "narrate your moves like a wildlife documentary while staying totally serious. 🦖"
+    },
+    {
+        "id": 427,
+        "type": "Dare",
+        "text": "give a weather report about this room without using your normal voice. 🎤"
+    },
+    {
+        "id": 428,
+        "type": "Dare",
+        "text": "do your best ghost impression without repeating the same move. 🎭"
+    },
+    {
+        "id": 429,
+        "type": "Dare",
+        "text": "act like you are on a cooking show with imaginary food while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 430,
+        "type": "Dare",
+        "text": "speak in a whisper like a secret agent while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 431,
+        "type": "Dare",
+        "text": "walk as if gravity is 2x stronger for 20 seconds. 😆"
+    },
+    {
+        "id": 432,
+        "type": "Dare",
+        "text": "act like your phone is your strict teacher for 30 seconds. 🤡"
+    },
+    {
+        "id": 433,
+        "type": "Dare",
+        "text": "pretend to direct a movie scene in this room for 40 seconds. 🕺"
+    },
+    {
+        "id": 434,
+        "type": "Dare",
+        "text": "do your funniest victory speech for one full turn. 🐔"
+    },
+    {
+        "id": 435,
+        "type": "Dare",
+        "text": "freeze like a statue between each sentence until someone laughs. 🤖"
+    },
+    {
+        "id": 436,
+        "type": "Dare",
+        "text": "act like a game NPC with repeated lines while staying totally serious. 🦖"
+    },
+    {
+        "id": 437,
+        "type": "Dare",
+        "text": "pretend to host an awards show for the group without using your normal voice. 🎤"
+    },
+    {
+        "id": 438,
+        "type": "Dare",
+        "text": "do your best slow-motion run in place without repeating the same move. 🎭"
+    },
+    {
+        "id": 439,
+        "type": "Dare",
+        "text": "act like you just discovered fire while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 440,
+        "type": "Dare",
+        "text": "pretend your hands are talking to each other while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 441,
+        "type": "Dare",
+        "text": "do your best runway walk with confidence for 20 seconds. 😆"
+    },
+    {
+        "id": 442,
+        "type": "Dare",
+        "text": "speak like a narrator from a nature channel for 30 seconds. 🤡"
+    },
+    {
+        "id": 443,
+        "type": "Dare",
+        "text": "pretend to be a superhero landing every 5 seconds for 40 seconds. 🕺"
+    },
+    {
+        "id": 444,
+        "type": "Dare",
+        "text": "do a mini stand-up comedy bit for one full turn. 🐔"
+    },
+    {
+        "id": 445,
+        "type": "Dare",
+        "text": "act like a dramatic soap-opera character until someone laughs. 🤖"
+    },
+    {
+        "id": 446,
+        "type": "Dare",
+        "text": "pretend you are teaching a class on silliness while staying totally serious. 🦖"
+    },
+    {
+        "id": 447,
+        "type": "Dare",
+        "text": "do a fake workout ad announcement without using your normal voice. 🎤"
+    },
+    {
+        "id": 448,
+        "type": "Dare",
+        "text": "act like a detective questioning invisible suspects without repeating the same move. 🎭"
+    },
+    {
+        "id": 449,
+        "type": "Dare",
+        "text": "pretend you are buffering like slow internet while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 450,
+        "type": "Dare",
+        "text": "do your funniest attempt at moonwalking while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 451,
+        "type": "Dare",
+        "text": "do your best chicken dance for 20 seconds. 😆"
+    },
+    {
+        "id": 452,
+        "type": "Dare",
+        "text": "speak like a robot for 30 seconds. 🤡"
+    },
+    {
+        "id": 453,
+        "type": "Dare",
+        "text": "walk like a penguin for 40 seconds. 🕺"
+    },
+    {
+        "id": 454,
+        "type": "Dare",
+        "text": "pretend to be a dramatic news anchor for one full turn. 🐔"
+    },
+    {
+        "id": 455,
+        "type": "Dare",
+        "text": "do an invisible jump-rope routine until someone laughs. 🤖"
+    },
+    {
+        "id": 456,
+        "type": "Dare",
+        "text": "act like you are in slow motion while staying totally serious. 🦖"
+    },
+    {
+        "id": 457,
+        "type": "Dare",
+        "text": "talk in rhyme without using your normal voice. 🎤"
+    },
+    {
+        "id": 458,
+        "type": "Dare",
+        "text": "do your best evil laugh without repeating the same move. 🎭"
+    },
+    {
+        "id": 459,
+        "type": "Dare",
+        "text": "perform air guitar like a rockstar while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 460,
+        "type": "Dare",
+        "text": "balance something on your head while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 461,
+        "type": "Dare",
+        "text": "pretend you are a tiny dinosaur for 20 seconds. 😆"
+    },
+    {
+        "id": 462,
+        "type": "Dare",
+        "text": "dance with zero music for 30 seconds. 🤡"
+    },
+    {
+        "id": 463,
+        "type": "Dare",
+        "text": "talk in a pirate accent for 40 seconds. 🕺"
+    },
+    {
+        "id": 464,
+        "type": "Dare",
+        "text": "do your best opera intro for one full turn. 🐔"
+    },
+    {
+        "id": 465,
+        "type": "Dare",
+        "text": "pretend the floor is lava until someone laughs. 🤖"
+    },
+    {
+        "id": 466,
+        "type": "Dare",
+        "text": "do five dramatic model poses while staying totally serious. 🦖"
+    },
+    {
+        "id": 467,
+        "type": "Dare",
+        "text": "act like a game-show host without using your normal voice. 🎤"
+    },
+    {
+        "id": 468,
+        "type": "Dare",
+        "text": "walk backward like it is normal without repeating the same move. 🎭"
+    },
+    {
+        "id": 469,
+        "type": "Dare",
+        "text": "do your silliest catwalk while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 470,
+        "type": "Dare",
+        "text": "pretend your shoe is giving life advice while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 471,
+        "type": "Dare",
+        "text": "make three funny emoji faces for 20 seconds. 😆"
+    },
+    {
+        "id": 472,
+        "type": "Dare",
+        "text": "mimic a cartoon character for 30 seconds. 🤡"
+    },
+    {
+        "id": 473,
+        "type": "Dare",
+        "text": "speak with your lips tucked in for 40 seconds. 🕺"
+    },
+    {
+        "id": 474,
+        "type": "Dare",
+        "text": "do a mini victory dance after every sentence for one full turn. 🐔"
+    },
+    {
+        "id": 475,
+        "type": "Dare",
+        "text": "pretend to be a confused magician until someone laughs. 🤖"
+    },
+    {
+        "id": 476,
+        "type": "Dare",
+        "text": "narrate your moves like a wildlife documentary while staying totally serious. 🦖"
+    },
+    {
+        "id": 477,
+        "type": "Dare",
+        "text": "give a weather report about this room without using your normal voice. 🎤"
+    },
+    {
+        "id": 478,
+        "type": "Dare",
+        "text": "do your best ghost impression without repeating the same move. 🎭"
+    },
+    {
+        "id": 479,
+        "type": "Dare",
+        "text": "act like you are on a cooking show with imaginary food while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 480,
+        "type": "Dare",
+        "text": "speak in a whisper like a secret agent while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 481,
+        "type": "Dare",
+        "text": "walk as if gravity is 2x stronger for 20 seconds. 😆"
+    },
+    {
+        "id": 482,
+        "type": "Dare",
+        "text": "act like your phone is your strict teacher for 30 seconds. 🤡"
+    },
+    {
+        "id": 483,
+        "type": "Dare",
+        "text": "pretend to direct a movie scene in this room for 40 seconds. 🕺"
+    },
+    {
+        "id": 484,
+        "type": "Dare",
+        "text": "do your funniest victory speech for one full turn. 🐔"
+    },
+    {
+        "id": 485,
+        "type": "Dare",
+        "text": "freeze like a statue between each sentence until someone laughs. 🤖"
+    },
+    {
+        "id": 486,
+        "type": "Dare",
+        "text": "act like a game NPC with repeated lines while staying totally serious. 🦖"
+    },
+    {
+        "id": 487,
+        "type": "Dare",
+        "text": "pretend to host an awards show for the group without using your normal voice. 🎤"
+    },
+    {
+        "id": 488,
+        "type": "Dare",
+        "text": "do your best slow-motion run in place without repeating the same move. 🎭"
+    },
+    {
+        "id": 489,
+        "type": "Dare",
+        "text": "act like you just discovered fire while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 490,
+        "type": "Dare",
+        "text": "pretend your hands are talking to each other while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 491,
+        "type": "Dare",
+        "text": "do your best runway walk with confidence for 20 seconds. 😆"
+    },
+    {
+        "id": 492,
+        "type": "Dare",
+        "text": "speak like a narrator from a nature channel for 30 seconds. 🤡"
+    },
+    {
+        "id": 493,
+        "type": "Dare",
+        "text": "pretend to be a superhero landing every 5 seconds for 40 seconds. 🕺"
+    },
+    {
+        "id": 494,
+        "type": "Dare",
+        "text": "do a mini stand-up comedy bit for one full turn. 🐔"
+    },
+    {
+        "id": 495,
+        "type": "Dare",
+        "text": "act like a dramatic soap-opera character until someone laughs. 🤖"
+    },
+    {
+        "id": 496,
+        "type": "Dare",
+        "text": "pretend you are teaching a class on silliness while staying totally serious. 🦖"
+    },
+    {
+        "id": 497,
+        "type": "Dare",
+        "text": "do a fake workout ad announcement without using your normal voice. 🎤"
+    },
+    {
+        "id": 498,
+        "type": "Dare",
+        "text": "act like a detective questioning invisible suspects without repeating the same move. 🎭"
+    },
+    {
+        "id": 499,
+        "type": "Dare",
+        "text": "pretend you are buffering like slow internet while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 500,
+        "type": "Dare",
+        "text": "do your funniest attempt at moonwalking while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 501,
+        "type": "Dare",
+        "text": "do your best chicken dance for 20 seconds. 😆"
+    },
+    {
+        "id": 502,
+        "type": "Dare",
+        "text": "speak like a robot for 30 seconds. 🤡"
+    },
+    {
+        "id": 503,
+        "type": "Dare",
+        "text": "walk like a penguin for 40 seconds. 🕺"
+    },
+    {
+        "id": 504,
+        "type": "Dare",
+        "text": "pretend to be a dramatic news anchor for one full turn. 🐔"
+    },
+    {
+        "id": 505,
+        "type": "Dare",
+        "text": "do an invisible jump-rope routine until someone laughs. 🤖"
+    },
+    {
+        "id": 506,
+        "type": "Dare",
+        "text": "act like you are in slow motion while staying totally serious. 🦖"
+    },
+    {
+        "id": 507,
+        "type": "Dare",
+        "text": "talk in rhyme without using your normal voice. 🎤"
+    },
+    {
+        "id": 508,
+        "type": "Dare",
+        "text": "do your best evil laugh without repeating the same move. 🎭"
+    },
+    {
+        "id": 509,
+        "type": "Dare",
+        "text": "perform air guitar like a rockstar while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 510,
+        "type": "Dare",
+        "text": "balance something on your head while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 511,
+        "type": "Dare",
+        "text": "pretend you are a tiny dinosaur for 20 seconds. 😆"
+    },
+    {
+        "id": 512,
+        "type": "Dare",
+        "text": "dance with zero music for 30 seconds. 🤡"
+    },
+    {
+        "id": 513,
+        "type": "Dare",
+        "text": "talk in a pirate accent for 40 seconds. 🕺"
+    },
+    {
+        "id": 514,
+        "type": "Dare",
+        "text": "do your best opera intro for one full turn. 🐔"
+    },
+    {
+        "id": 515,
+        "type": "Dare",
+        "text": "pretend the floor is lava until someone laughs. 🤖"
+    },
+    {
+        "id": 516,
+        "type": "Dare",
+        "text": "do five dramatic model poses while staying totally serious. 🦖"
+    },
+    {
+        "id": 517,
+        "type": "Dare",
+        "text": "act like a game-show host without using your normal voice. 🎤"
+    },
+    {
+        "id": 518,
+        "type": "Dare",
+        "text": "walk backward like it is normal without repeating the same move. 🎭"
+    },
+    {
+        "id": 519,
+        "type": "Dare",
+        "text": "do your silliest catwalk while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 520,
+        "type": "Dare",
+        "text": "pretend your shoe is giving life advice while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 521,
+        "type": "Dare",
+        "text": "make three funny emoji faces for 20 seconds. 😆"
+    },
+    {
+        "id": 522,
+        "type": "Dare",
+        "text": "mimic a cartoon character for 30 seconds. 🤡"
+    },
+    {
+        "id": 523,
+        "type": "Dare",
+        "text": "speak with your lips tucked in for 40 seconds. 🕺"
+    },
+    {
+        "id": 524,
+        "type": "Dare",
+        "text": "do a mini victory dance after every sentence for one full turn. 🐔"
+    },
+    {
+        "id": 525,
+        "type": "Dare",
+        "text": "pretend to be a confused magician until someone laughs. 🤖"
+    },
+    {
+        "id": 526,
+        "type": "Dare",
+        "text": "narrate your moves like a wildlife documentary while staying totally serious. 🦖"
+    },
+    {
+        "id": 527,
+        "type": "Dare",
+        "text": "give a weather report about this room without using your normal voice. 🎤"
+    },
+    {
+        "id": 528,
+        "type": "Dare",
+        "text": "do your best ghost impression without repeating the same move. 🎭"
+    },
+    {
+        "id": 529,
+        "type": "Dare",
+        "text": "act like you are on a cooking show with imaginary food while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 530,
+        "type": "Dare",
+        "text": "speak in a whisper like a secret agent while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 531,
+        "type": "Dare",
+        "text": "walk as if gravity is 2x stronger for 20 seconds. 😆"
+    },
+    {
+        "id": 532,
+        "type": "Dare",
+        "text": "act like your phone is your strict teacher for 30 seconds. 🤡"
+    },
+    {
+        "id": 533,
+        "type": "Dare",
+        "text": "pretend to direct a movie scene in this room for 40 seconds. 🕺"
+    },
+    {
+        "id": 534,
+        "type": "Dare",
+        "text": "do your funniest victory speech for one full turn. 🐔"
+    },
+    {
+        "id": 535,
+        "type": "Dare",
+        "text": "freeze like a statue between each sentence until someone laughs. 🤖"
+    },
+    {
+        "id": 536,
+        "type": "Dare",
+        "text": "act like a game NPC with repeated lines while staying totally serious. 🦖"
+    },
+    {
+        "id": 537,
+        "type": "Dare",
+        "text": "pretend to host an awards show for the group without using your normal voice. 🎤"
+    },
+    {
+        "id": 538,
+        "type": "Dare",
+        "text": "do your best slow-motion run in place without repeating the same move. 🎭"
+    },
+    {
+        "id": 539,
+        "type": "Dare",
+        "text": "act like you just discovered fire while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 540,
+        "type": "Dare",
+        "text": "pretend your hands are talking to each other while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 541,
+        "type": "Dare",
+        "text": "do your best runway walk with confidence for 20 seconds. 😆"
+    },
+    {
+        "id": 542,
+        "type": "Dare",
+        "text": "speak like a narrator from a nature channel for 30 seconds. 🤡"
+    },
+    {
+        "id": 543,
+        "type": "Dare",
+        "text": "pretend to be a superhero landing every 5 seconds for 40 seconds. 🕺"
+    },
+    {
+        "id": 544,
+        "type": "Dare",
+        "text": "do a mini stand-up comedy bit for one full turn. 🐔"
+    },
+    {
+        "id": 545,
+        "type": "Dare",
+        "text": "act like a dramatic soap-opera character until someone laughs. 🤖"
+    },
+    {
+        "id": 546,
+        "type": "Dare",
+        "text": "pretend you are teaching a class on silliness while staying totally serious. 🦖"
+    },
+    {
+        "id": 547,
+        "type": "Dare",
+        "text": "do a fake workout ad announcement without using your normal voice. 🎤"
+    },
+    {
+        "id": 548,
+        "type": "Dare",
+        "text": "act like a detective questioning invisible suspects without repeating the same move. 🎭"
+    },
+    {
+        "id": 549,
+        "type": "Dare",
+        "text": "pretend you are buffering like slow internet while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 550,
+        "type": "Dare",
+        "text": "do your funniest attempt at moonwalking while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 551,
+        "type": "Dare",
+        "text": "do your best chicken dance for 20 seconds. 😆"
+    },
+    {
+        "id": 552,
+        "type": "Dare",
+        "text": "speak like a robot for 30 seconds. 🤡"
+    },
+    {
+        "id": 553,
+        "type": "Dare",
+        "text": "walk like a penguin for 40 seconds. 🕺"
+    },
+    {
+        "id": 554,
+        "type": "Dare",
+        "text": "pretend to be a dramatic news anchor for one full turn. 🐔"
+    },
+    {
+        "id": 555,
+        "type": "Dare",
+        "text": "do an invisible jump-rope routine until someone laughs. 🤖"
+    },
+    {
+        "id": 556,
+        "type": "Dare",
+        "text": "act like you are in slow motion while staying totally serious. 🦖"
+    },
+    {
+        "id": 557,
+        "type": "Dare",
+        "text": "talk in rhyme without using your normal voice. 🎤"
+    },
+    {
+        "id": 558,
+        "type": "Dare",
+        "text": "do your best evil laugh without repeating the same move. 🎭"
+    },
+    {
+        "id": 559,
+        "type": "Dare",
+        "text": "perform air guitar like a rockstar while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 560,
+        "type": "Dare",
+        "text": "balance something on your head while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 561,
+        "type": "Dare",
+        "text": "pretend you are a tiny dinosaur for 20 seconds. 😆"
+    },
+    {
+        "id": 562,
+        "type": "Dare",
+        "text": "dance with zero music for 30 seconds. 🤡"
+    },
+    {
+        "id": 563,
+        "type": "Dare",
+        "text": "talk in a pirate accent for 40 seconds. 🕺"
+    },
+    {
+        "id": 564,
+        "type": "Dare",
+        "text": "do your best opera intro for one full turn. 🐔"
+    },
+    {
+        "id": 565,
+        "type": "Dare",
+        "text": "pretend the floor is lava until someone laughs. 🤖"
+    },
+    {
+        "id": 566,
+        "type": "Dare",
+        "text": "do five dramatic model poses while staying totally serious. 🦖"
+    },
+    {
+        "id": 567,
+        "type": "Dare",
+        "text": "act like a game-show host without using your normal voice. 🎤"
+    },
+    {
+        "id": 568,
+        "type": "Dare",
+        "text": "walk backward like it is normal without repeating the same move. 🎭"
+    },
+    {
+        "id": 569,
+        "type": "Dare",
+        "text": "do your silliest catwalk while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 570,
+        "type": "Dare",
+        "text": "pretend your shoe is giving life advice while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 571,
+        "type": "Dare",
+        "text": "make three funny emoji faces for 20 seconds. 😆"
+    },
+    {
+        "id": 572,
+        "type": "Dare",
+        "text": "mimic a cartoon character for 30 seconds. 🤡"
+    },
+    {
+        "id": 573,
+        "type": "Dare",
+        "text": "speak with your lips tucked in for 40 seconds. 🕺"
+    },
+    {
+        "id": 574,
+        "type": "Dare",
+        "text": "do a mini victory dance after every sentence for one full turn. 🐔"
+    },
+    {
+        "id": 575,
+        "type": "Dare",
+        "text": "pretend to be a confused magician until someone laughs. 🤖"
+    },
+    {
+        "id": 576,
+        "type": "Dare",
+        "text": "narrate your moves like a wildlife documentary while staying totally serious. 🦖"
+    },
+    {
+        "id": 577,
+        "type": "Dare",
+        "text": "give a weather report about this room without using your normal voice. 🎤"
+    },
+    {
+        "id": 578,
+        "type": "Dare",
+        "text": "do your best ghost impression without repeating the same move. 🎭"
+    },
+    {
+        "id": 579,
+        "type": "Dare",
+        "text": "act like you are on a cooking show with imaginary food while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 580,
+        "type": "Dare",
+        "text": "speak in a whisper like a secret agent while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 581,
+        "type": "Dare",
+        "text": "walk as if gravity is 2x stronger for 20 seconds. 😆"
+    },
+    {
+        "id": 582,
+        "type": "Dare",
+        "text": "act like your phone is your strict teacher for 30 seconds. 🤡"
+    },
+    {
+        "id": 583,
+        "type": "Dare",
+        "text": "pretend to direct a movie scene in this room for 40 seconds. 🕺"
+    },
+    {
+        "id": 584,
+        "type": "Dare",
+        "text": "do your funniest victory speech for one full turn. 🐔"
+    },
+    {
+        "id": 585,
+        "type": "Dare",
+        "text": "freeze like a statue between each sentence until someone laughs. 🤖"
+    },
+    {
+        "id": 586,
+        "type": "Dare",
+        "text": "act like a game NPC with repeated lines while staying totally serious. 🦖"
+    },
+    {
+        "id": 587,
+        "type": "Dare",
+        "text": "pretend to host an awards show for the group without using your normal voice. 🎤"
+    },
+    {
+        "id": 588,
+        "type": "Dare",
+        "text": "do your best slow-motion run in place without repeating the same move. 🎭"
+    },
+    {
+        "id": 589,
+        "type": "Dare",
+        "text": "act like you just discovered fire while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 590,
+        "type": "Dare",
+        "text": "pretend your hands are talking to each other while keeping eye contact with the group. 🔥"
+    },
+    {
+        "id": 591,
+        "type": "Dare",
+        "text": "do your best runway walk with confidence for 20 seconds. 😆"
+    },
+    {
+        "id": 592,
+        "type": "Dare",
+        "text": "speak like a narrator from a nature channel for 30 seconds. 🤡"
+    },
+    {
+        "id": 593,
+        "type": "Dare",
+        "text": "pretend to be a superhero landing every 5 seconds for 40 seconds. 🕺"
+    },
+    {
+        "id": 594,
+        "type": "Dare",
+        "text": "do a mini stand-up comedy bit for one full turn. 🐔"
+    },
+    {
+        "id": 595,
+        "type": "Dare",
+        "text": "act like a dramatic soap-opera character until someone laughs. 🤖"
+    },
+    {
+        "id": 596,
+        "type": "Dare",
+        "text": "pretend you are teaching a class on silliness while staying totally serious. 🦖"
+    },
+    {
+        "id": 597,
+        "type": "Dare",
+        "text": "do a fake workout ad announcement without using your normal voice. 🎤"
+    },
+    {
+        "id": 598,
+        "type": "Dare",
+        "text": "act like a detective questioning invisible suspects without repeating the same move. 🎭"
+    },
+    {
+        "id": 599,
+        "type": "Dare",
+        "text": "pretend you are buffering like slow internet while adding funny sound effects. 🎯"
+    },
+    {
+        "id": 600,
+        "type": "Dare",
+        "text": "do your funniest attempt at moonwalking while keeping eye contact with the group. 🔥"
     }
 ]
