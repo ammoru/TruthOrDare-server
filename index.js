@@ -123,8 +123,8 @@ try {
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 // How long (ms) a disconnected player has to reconnect before being removed.
-// 60 s is enough to copy a code, paste in WhatsApp, send it, and come back.
 const RECONNECT_GRACE_MS = 60_000;
+const MAX_PUBLIC_PLAYERS = 15;
 
 const getQuestion = (room, action) => {
     const settings = room.settings || { fun: 100, love: 50, spicy: 10 };
@@ -271,6 +271,10 @@ io.on('connection', (socket) => {
         if (isEventRateLimited(socket.id, 'create_room', 2, 10000)) return;
         const roomId = Math.random().toString(36).substring(2, 7).toUpperCase();
         const playerName = sanitizeName(data.name, 'Host');
+        const requestedRoomType = (data.roomType === 'public') ? 'public' : 'private';
+        const requestedRoomName = requestedRoomType === 'public'
+            ? (typeof data.roomName === 'string' ? data.roomName : '').trim().slice(0, 30) || 'Public Room'
+            : '';
         rooms[roomId] = {
             id: roomId,
             adminId: socket.id,
@@ -283,6 +287,9 @@ io.on('connection', (socket) => {
             spinAngle: 0,               // last bottle angle (for visual restore)
             // ── Settings ──
             settings: data.settings || { fun: true, love: false, spicy: false },
+            // ── Room type & visibility ──
+            roomType: requestedRoomType,
+            roomName: requestedRoomName,
             // ── Disconnect grace-period tracking ──
             // key = player username, value = { socketId, wasAdmin, timer }
             disconnectedPlayers: {},
@@ -302,6 +309,14 @@ io.on('connection', (socket) => {
         const room = rooms[roomId];
         if (!room) {
             socket.emit('error', { message: 'Room not found' });
+            return;
+        }
+
+        // Enforce public room player cap (allow reconnects / already-connected through)
+        if (room.roomType === 'public' && !room.disconnectedPlayers[name] &&
+            !room.players.some(p => p.id === socket.id) &&
+            room.players.length >= MAX_PUBLIC_PLAYERS) {
+            socket.emit('error', { message: `This public room is full (max ${MAX_PUBLIC_PLAYERS} players).` });
             return;
         }
 
@@ -330,6 +345,7 @@ io.on('connection', (socket) => {
                 room,
                 // Client needs to know their restored admin status
                 restoredAdmin: pending.wasAdmin,
+                isReconnect: true,
             });
             io.to(roomId).emit('player_reconnected', {
                 players: room.players,
@@ -373,6 +389,7 @@ io.on('connection', (socket) => {
             socket.emit('room_rejoined', {
                 room,
                 restoredAdmin: pending.wasAdmin,
+                isReconnect: true,
             });
             io.to(roomId).emit('player_reconnected', {
                 players: room.players,
@@ -390,7 +407,7 @@ io.on('connection', (socket) => {
                 
                 socket.join(roomId);
                 saveRoomToRedis(roomId, room); // Persist updated socket ID
-                socket.emit('room_rejoined', { room, restoredAdmin: wasAdmin });
+                socket.emit('room_rejoined', { room, restoredAdmin: wasAdmin, isReconnect: false });
                 io.to(roomId).emit('player_reconnected', {
                     players: room.players,
                     adminId: room.adminId,
@@ -410,6 +427,21 @@ io.on('connection', (socket) => {
         } else {
             socket.emit('error', { message: 'Room not found' });
         }
+    });
+
+    // List Public Rooms
+    socket.on('list_public_rooms', () => {
+        if (isEventRateLimited(socket.id, 'list_public_rooms', 5, 10000)) return;
+        const publicRoomsList = Object.values(rooms)
+            .filter(r => r.roomType === 'public' && r.players.length < MAX_PUBLIC_PLAYERS)
+            .map(r => ({
+                id: r.id,
+                roomName: r.roomName,
+                playerCount: r.players.length,
+                adminName: r.players.find(p => p.id === r.adminId)?.name || 'Host',
+                settings: r.settings,
+            }));
+        socket.emit('public_rooms_list', publicRoomsList);
     });
 
     // Spin Bottle
@@ -451,11 +483,23 @@ io.on('connection', (socket) => {
 
     // Update Settings
     socket.on('update_settings', (data) => {
-        const { roomId, settings } = data;
+        const { roomId, settings, roomType, roomName } = data;
         if (rooms[roomId] && rooms[roomId].adminId === socket.id) {
             rooms[roomId].settings = settings;
+            // Apply room meta changes if provided by admin
+            if (roomType !== undefined) {
+                rooms[roomId].roomType = roomType === 'public' ? 'public' : 'private';
+                if (roomType === 'public') {
+                    rooms[roomId].roomName = (typeof roomName === 'string' ? roomName : '')
+                        .trim().slice(0, 30) || rooms[roomId].roomName || 'Public Room';
+                }
+            }
             saveRoomToRedis(roomId, rooms[roomId]); // Persist to Redis
             io.to(roomId).emit('settings_updated', settings);
+            io.to(roomId).emit('room_meta_updated', {
+                roomType: rooms[roomId].roomType,
+                roomName: rooms[roomId].roomName,
+            });
             log.info(`Room ${roomId} settings updated:`, settings);
         }
     });
