@@ -683,9 +683,11 @@ io.on('connection', (socket) => {
                 log.info(`Room ${roomId} deleted (empty + no pending reconnects)`);
             }
         } else {
+            let newAdminName = null;
             if (wasAdmin) {
                 const newAdmin = room.players[Math.floor(Math.random() * room.players.length)];
                 room.adminId = newAdmin.id;
+                newAdminName = newAdmin.name;
                 io.to(roomId).emit('admin_changed', {
                     adminId: newAdmin.id,
                     adminName: newAdmin.name
@@ -695,6 +697,7 @@ io.on('connection', (socket) => {
                 players: room.players,
                 playerName,
                 wasAdmin,
+                newAdminName,
             });
             // Only force a round reset when the admin left.
             if (wasAdmin) {
