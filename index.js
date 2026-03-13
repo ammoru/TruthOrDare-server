@@ -272,9 +272,8 @@ io.on('connection', (socket) => {
         const roomId = Math.random().toString(36).substring(2, 7).toUpperCase();
         const playerName = sanitizeName(data.name, 'Host');
         const requestedRoomType = (data.roomType === 'public') ? 'public' : 'private';
-        const requestedRoomName = requestedRoomType === 'public'
-            ? (typeof data.roomName === 'string' ? data.roomName : '').trim().slice(0, 30) || 'Public Room'
-            : '';
+        const requestedRoomName = (typeof data.roomName === 'string' ? data.roomName : '').trim().slice(0, 30)
+            || `${playerName}'s Room`;
         rooms[roomId] = {
             id: roomId,
             adminId: socket.id,
@@ -489,9 +488,11 @@ io.on('connection', (socket) => {
             // Apply room meta changes if provided by admin
             if (roomType !== undefined) {
                 rooms[roomId].roomType = roomType === 'public' ? 'public' : 'private';
-                if (roomType === 'public') {
-                    rooms[roomId].roomName = (typeof roomName === 'string' ? roomName : '')
-                        .trim().slice(0, 30) || rooms[roomId].roomName || 'Public Room';
+                if (typeof roomName === 'string' && roomName.trim()) {
+                    rooms[roomId].roomName = roomName.trim().slice(0, 30);
+                } else if (!rooms[roomId].roomName) {
+                    const adminName = rooms[roomId].players.find(p => p.id === rooms[roomId].adminId)?.name || 'Host';
+                    rooms[roomId].roomName = `${adminName}'s Room`;
                 }
             }
             saveRoomToRedis(roomId, rooms[roomId]); // Persist to Redis
