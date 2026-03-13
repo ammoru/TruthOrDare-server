@@ -691,12 +691,18 @@ io.on('connection', (socket) => {
                     adminName: newAdmin.name
                 });
             }
-            io.to(roomId).emit('player_left', room.players);
-            // Reset game state for everyone remaining
-            io.to(roomId).emit('game_reset');
-            room.gameState = 'waiting';
-            room.currentAction = null;
-            room.currentQuestion = null;
+            io.to(roomId).emit('player_left', {
+                players: room.players,
+                playerName,
+                wasAdmin,
+            });
+            // Only force a round reset when the admin left.
+            if (wasAdmin) {
+                io.to(roomId).emit('game_reset');
+                room.gameState = 'waiting';
+                room.currentAction = null;
+                room.currentQuestion = null;
+            }
             saveRoomToRedis(roomId, room); // Persist to Redis
         }
         log.info(`[Remove] ${playerName} permanently removed from room ${roomId}`);
